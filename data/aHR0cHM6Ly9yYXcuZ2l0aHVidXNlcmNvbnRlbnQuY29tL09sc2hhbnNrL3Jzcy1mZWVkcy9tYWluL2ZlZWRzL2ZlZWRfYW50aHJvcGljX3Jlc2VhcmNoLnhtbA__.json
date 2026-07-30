@@ -1,0 +1,233 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml",
+  "title": "Anthropic Research",
+  "description": "Latest research from Anthropic",
+  "link": "https://www.anthropic.com/research",
+  "items": [
+    {
+      "title": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "link": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-28T00:00:00.000Z",
+      "content": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "contentSnippet": "Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为“Frontier Red Team发现Claude的加密弱点”，但正文仅重复了日期、团队名称和标题，未提供任何实质内容。基于现有信息无法总结具体发现或技术细节，因此不做推断。",
+        "en": "The provided content lacks an article body; it consists solely of a title and date line repeated: \"Jul 28, 2026Frontier Red TeamDiscovering cryptographic weaknesses with Claude.\" No further details, findings, or information are available to summarize."
+      },
+      "summary": "文章标题为“Frontier Red Team发现Claude的加密弱点”，但正文仅重复了日期、团队名称和标题，未提供任何实质内容。基于现有信息无法总结具体发现或技术细节，因此不做推断。"
+    },
+    {
+      "title": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "link": "https://www.anthropic.com/research/project-pilot",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "contentSnippet": "Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅包含一个标题《Project Pilot: Can AI control a drone?》及日期“2026年7月24日”，未提供任何实质内容或关键信息，因此无法进行有效摘要。",
+        "en": "The provided text contains only the article's title and date—\"Jul 24, 2026Frontier Red TeamProject Pilot: Can AI control a drone?\"—repeated twice. No article body, details, or further information is included. Therefore, there is no content to summarize."
+      },
+      "summary": "该文章仅包含一个标题《Project Pilot: Can AI control a drone?》及日期“2026年7月24日”，未提供任何实质内容或关键信息，因此无法进行有效摘要。"
+    },
+    {
+      "title": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/research/how-canada-uses-claude",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "contentSnippet": "Jul 14, 2026Economic ResearchHow Canada uses Claude: Findings from the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "提供的文章内容仅包含重复标题，无实质正文，无法提炼有效信息并生成摘要。",
+        "en": "The provided content contains only a title and date, with no article text or substantive information. It is therefore impossible to generate a summary, as there are no key points, findings, or details to extract."
+      },
+      "summary": "提供的文章内容仅包含重复标题，无实质正文，无法提炼有效信息并生成摘要。"
+    },
+    {
+      "title": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "link": "https://www.anthropic.com/research/claude-values-models-languages",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-13T00:00:00.000Z",
+      "content": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "contentSnippet": "Jul 13, 2026Societal ImpactsClaude’s values across models and languages",
+      "creator": "",
+      "summaries": {
+        "zh": "未提供文章内容，仅显示标题“Jul 13, 2026 Societal Impacts: Claude’s values across models and languages”。因此，无法生成摘要。",
+        "en": "The provided article content is empty; it contains only the title and date repeated with no substantive information. Therefore, no summary can be generated."
+      },
+      "summary": "未提供文章内容，仅显示标题“Jul 13, 2026 Societal Impacts: Claude’s values across models and languages”。因此，无法生成摘要。"
+    },
+    {
+      "title": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "link": "https://www.anthropic.com/research/claude-plays-robotics",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "contentSnippet": "Jul 9, 2026Frontier Red TeamClaude plays robotics",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅包含标题“Jul 9, 2026 Frontier Red Team Claude plays robotics”和重复的发布日期与团队名，正文为空，缺乏可供总结的实质信息，因此无法生成摘要。",
+        "en": "The provided text consists solely of a headline and date—\"Jul 9, 2026 Frontier Red Team: Claude plays robotics\"—and contains no article body or additional details. No substantive information is available to summarize."
+      },
+      "summary": "文章内容仅包含标题“Jul 9, 2026 Frontier Red Team Claude plays robotics”和重复的发布日期与团队名，正文为空，缺乏可供总结的实质信息，因此无法生成摘要。"
+    },
+    {
+      "title": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "link": "https://www.anthropic.com/research/off-switch-dual-use",
+      "pubDate": "Wed, 08 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-08T00:00:00.000Z",
+      "content": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "contentSnippet": "Jul 8, 2026AlignmentAn off switch for dual-use knowledge in AI models",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《AI模型中双重用途知识的关闭开关》，发布于2026年7月8日，主题涉及人工智能对齐领域。由于所提供的正文仅为标题的重复，缺少具体内容或论述细节，无法提取更多关键信息进行总结。",
+        "en": "The provided article consists solely of a title and date: “Jul 8, 2026 Alignment An off switch for dual-use knowledge in AI models.” No additional content, details, or body text are included. Therefore, the piece lacks substantive information beyond this headline reference to a mechanism for disabling dual-use knowledge in AI systems within an alignment context."
+      },
+      "summary": "文章标题为《AI模型中双重用途知识的关闭开关》，发布于2026年7月8日，主题涉及人工智能对齐领域。由于所提供的正文仅为标题的重复，缺少具体内容或论述细节，无法提取更多关键信息进行总结。"
+    },
+    {
+      "title": "A global workspace in language models",
+      "link": "https://www.anthropic.com/research/global-workspace",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "A global workspace in language models",
+      "contentSnippet": "A global workspace in language models",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided material consists solely of the title \"A global workspace in language models\" repeated, with no accompanying article text or substantive content. Therefore, a meaningful summary cannot be generated as there is no information to capture."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "link": "https://www.anthropic.com/research/economic-index-june-2026-report",
+      "pubDate": "Fri, 26 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-26T00:00:00.000Z",
+      "content": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "contentSnippet": "Economic ResearchJun 26, 2026Anthropic Economic Index report: CadencesIn our latest Economic Index report, we sample hourly for the first time to ask: When do people come to Claude? What do they produce with it? And how do they perceive AI's impact on their work?",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic于2026年6月26日发布最新一期经济指数报告《节奏》。该报告首次采用每小时采样数据，围绕三个核心问题展开分析：人们何时使用Claude、利用Claude产出了什么，以及他们如何看待AI对自身工作的影响。",
+        "en": "The Anthropic Economic Index report, titled \"Cadences,\" introduces hourly sampling for the first time to analyze user behavior on Claude. It explores three key questions: when people interact with the AI, what they produce using it, and how they perceive its impact on their work. The report aims to uncover usage rhythms and productivity patterns, providing insights into the integration of AI in professional settings."
+      },
+      "summary": "Anthropic于2026年6月26日发布最新一期经济指数报告《节奏》。该报告首次采用每小时采样数据，围绕三个核心问题展开分析：人们何时使用Claude、利用Claude产出了什么，以及他们如何看待AI对自身工作的影响。"
+    },
+    {
+      "title": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "link": "https://www.anthropic.com/research/project-fetch-phase-two",
+      "pubDate": "Thu, 18 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-18T00:00:00.000Z",
+      "content": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "contentSnippet": "Jun 18, 2026Frontier Red TeamProject Fetch: Phase two",
+      "creator": "",
+      "summaries": {
+        "zh": "该条目仅显示日期为2026年6月18日，涉及“Frontier红队”和“Fetch项目第二阶段”，未提供任何实质内容或细节。",
+        "en": "The provided content consists solely of a heading: \"Jun 18, 2026 Frontier Red Team Project Fetch: Phase two.\" No further information, details, or body text is included. Consequently, a meaningful summary beyond the title itself cannot be generated."
+      },
+      "summary": "该条目仅显示日期为2026年6月18日，涉及“Frontier红队”和“Fetch项目第二阶段”，未提供任何实质内容或细节。"
+    },
+    {
+      "title": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "link": "https://www.anthropic.com/research/claude-code-expertise",
+      "pubDate": "Tue, 16 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-16T00:00:00.000Z",
+      "content": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "contentSnippet": "Jun 16, 2026Economic ResearchAgentic coding and persistent returns to expertise",
+      "creator": "",
+      "summaries": {
+        "zh": "由于提供的文章内容缺失（正文仅重复了标题），无法进行摘要。文中仅显示发布日期（2026年6月16日）、分类（经济研究）及标题，无具体正文可提取要点。",
+        "en": "The provided content contains only a title and date: \"Jun 16, 2026 Economic Research Agentic coding and persistent returns to expertise.\" No article text, abstract, or further details are available, so a meaningful summary cannot be produced."
+      },
+      "summary": "由于提供的文章内容缺失（正文仅重复了标题），无法进行摘要。文中仅显示发布日期（2026年6月16日）、分类（经济研究）及标题，无具体正文可提取要点。"
+    },
+    {
+      "title": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "link": "https://www.anthropic.com/research/teaching-claude-why",
+      "pubDate": "Fri, 08 May 2026 00:00:00 +0000",
+      "isoDate": "2026-05-08T00:00:00.000Z",
+      "content": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "contentSnippet": "AlignmentMay 8, 2026Teaching Claude whyNew research on how we've reduced agentic misalignment.",
+      "creator": "",
+      "summaries": {
+        "zh": "2026年5月8日发布的一项对齐研究，介绍了通过“教导Claude理解原因”的方法来减少智能体行为偏差。该研究展示了如何降低AI系统在自主执行任务时出现与人类意图不一致的风险，从而提升模型的对齐性能与可靠性。",
+        "en": "New research published on May 8, 2026, addresses the reduction of agentic misalignment in Claude. The work focuses on teaching Claude the underlying reasons (\"why\") behind instructions, aiming to improve alignment in agentic contexts."
+      },
+      "summary": "2026年5月8日发布的一项对齐研究，介绍了通过“教导Claude理解原因”的方法来减少智能体行为偏差。该研究展示了如何降低AI系统在自主执行任务时出现与人类意图不一致的风险，从而提升模型的对齐性能与可靠性。"
+    },
+    {
+      "title": "Interpretability",
+      "link": "https://www.anthropic.com/research/team/interpretability",
+      "pubDate": "Sun, 17 Nov 2024 00:00:00 +0000",
+      "isoDate": "2024-11-17T00:00:00.000Z",
+      "content": "Interpretability",
+      "contentSnippet": "Interpretability",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅包含标题词“Interpretability”（可解释性），未提供任何正文、论述或额外信息。基于现有内容，无法提炼出主要观点或关键信息，因此无法生成有意义的摘要。",
+        "en": "The provided content consists solely of the word \"Interpretability\" and contains no further details, context, or information to summarize."
+      },
+      "summary": "文章内容仅包含标题词“Interpretability”（可解释性），未提供任何正文、论述或额外信息。基于现有内容，无法提炼出主要观点或关键信息，因此无法生成有意义的摘要。"
+    },
+    {
+      "title": "Alignment",
+      "link": "https://www.anthropic.com/research/team/alignment",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 +0000",
+      "isoDate": "2024-02-21T00:00:00.000Z",
+      "content": "Alignment",
+      "contentSnippet": "Alignment",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅包含标题“Alignment”（对齐）一词，未提供任何具体信息或正文。因此，无法从中提取要点并生成摘要。",
+        "en": "The provided content consists only of the word \"Alignment\" with no accompanying details, context, or information to summarize."
+      },
+      "summary": "文章内容仅包含标题“Alignment”（对齐）一词，未提供任何具体信息或正文。因此，无法从中提取要点并生成摘要。"
+    },
+    {
+      "title": "Economic Research",
+      "link": "https://www.anthropic.com/research/team/economic-research",
+      "pubDate": "Sun, 07 Jan 2024 00:00:00 +0000",
+      "isoDate": "2024-01-07T00:00:00.000Z",
+      "content": "Economic Research",
+      "contentSnippet": "Economic Research",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅包含“Economic Research”这一标题，未提供任何正文或实质信息，因此无法生成有意义的摘要。",
+        "en": "The provided content consists only of the title \"Economic Research\" and lacks any substantive article text or information to summarize."
+      },
+      "summary": "文章内容仅包含“Economic Research”这一标题，未提供任何正文或实质信息，因此无法生成有意义的摘要。"
+    },
+    {
+      "title": "Societal Impacts",
+      "link": "https://www.anthropic.com/research/team/societal-impacts",
+      "pubDate": "Tue, 30 May 2023 00:00:00 +0000",
+      "isoDate": "2023-05-30T00:00:00.000Z",
+      "content": "Societal Impacts",
+      "contentSnippet": "Societal Impacts",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅包含标题“Societal Impacts”，未提供任何具体内容或信息，无法进行摘要。",
+        "en": "The provided article titled \"Societal Impacts\" contains no content beyond its title. There is no substantive information to summarize."
+      },
+      "summary": "文章仅包含标题“Societal Impacts”，未提供任何具体内容或信息，无法进行摘要。"
+    },
+    {
+      "title": "Frontier Red Team",
+      "link": "https://www.anthropic.com/research/team/frontier-red-team",
+      "pubDate": "Sat, 15 Apr 2023 00:00:00 +0000",
+      "isoDate": "2023-04-15T00:00:00.000Z",
+      "content": "Frontier Red Team",
+      "contentSnippet": "Frontier Red Team",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅为“Frontier Red Team”这一标题，未提供任何具体信息或正文，无法进一步总结。",
+        "en": "The provided article content contains only the title \"Frontier Red Team\" with no further information. Therefore, no summary can be generated."
+      },
+      "summary": "文章内容仅为“Frontier Red Team”这一标题，未提供任何具体信息或正文，无法进一步总结。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:17.453Z"
+}

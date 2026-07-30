@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+  "title": "Anthropic News",
+  "description": "Latest updates from Anthropic's newsroom",
+  "link": "https://www.anthropic.com/news",
+  "items": [
+    {
+      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "link": "https://www.anthropic.com/news/cognizant-anthropic",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "contentSnippet": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+      "creator": "",
+      "summaries": {
+        "zh": "Cognizant与Anthropic宣布扩大双方合作伙伴关系，旨在将AI助手Claude引入企业级客户。此次合作将助力企业更广泛地应用Anthropic的先进模型，加速生成式AI解决方案的落地。",
+        "en": "Cognizant and Anthropic are expanding their partnership to make Anthropic’s Claude AI assistant available to enterprise clients. The announcement signals a broader collaboration aimed at integrating Claude into business solutions. No further details were provided."
+      },
+      "summary": "Cognizant与Anthropic宣布扩大双方合作伙伴关系，旨在将AI助手Claude引入企业级客户。此次合作将助力企业更广泛地应用Anthropic的先进模型，加速生成式AI解决方案的落地。"
+    },
+    {
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "pubDate": "Mon, 27 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-27T00:00:00.000Z",
+      "content": "Our position on open-weights models",
+      "contentSnippet": "Our position on open-weights models",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅包含标题“Our position on open-weights models”，正文未提供任何具体信息，无法进行有意义的摘要。",
+        "en": "The provided article content contains only the title \"Our position on open-weights models\" and no further information. Therefore, a summary cannot be generated due to lack of content."
+      },
+      "summary": "文章内容仅包含标题“Our position on open-weights models”，正文未提供任何具体信息，无法进行有意义的摘要。"
+    },
+    {
+      "title": "Introducing Claude Opus 5",
+      "link": "https://www.anthropic.com/news/claude-opus-5",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-24T00:00:00.000Z",
+      "content": "Introducing Claude Opus 5",
+      "contentSnippet": "Introducing Claude Opus 5",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅包含标题“Introducing Claude Opus 5”，宣布推出Claude Opus 5模型，但正文未提供任何关于功能、性能或发布细节的具体信息。",
+        "en": "The article announces the launch of Claude Opus 5, a new version of the AI assistant. No further details, features, or specifications are provided in the text."
+      },
+      "summary": "文章仅包含标题“Introducing Claude Opus 5”，宣布推出Claude Opus 5模型，但正文未提供任何关于功能、性能或发布细节的具体信息。"
+    },
+    {
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "Ask Claude about the Anthropic Economic Index",
+      "contentSnippet": "Ask Claude about the Anthropic Economic Index",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅有标题“向Claude询问Anthropic经济指数”，正文无任何实质内容，只是重复了标题，因此无法提取更多有用信息。",
+        "en": "The provided content consists solely of the title repeated as a single line, lacking any substantive article text. As a result, there is no information to summarize beyond the instruction to \"ask Claude about the Anthropic Economic Index.\" No details about the index, its purpose, methodology, or findings are available."
+      },
+      "summary": "该文章仅有标题“向Claude询问Anthropic经济指数”，正文无任何实质内容，只是重复了标题，因此无法提取更多有用信息。"
+    },
+    {
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "A research agenda for the Economic Futures Research Fund",
+      "contentSnippet": "A research agenda for the Economic Futures Research Fund",
+      "creator": "",
+      "summaries": {
+        "zh": "提供的文章内容仅包含标题“A research agenda for the Economic Futures Research Fund”，没有实质性的正文或额外信息。基于当前内容，无法提炼要点或生成摘要。",
+        "en": "The provided content consists solely of the title \"A research agenda for the Economic Futures Research Fund\" with no accompanying information or details. Therefore, a summary cannot be generated beyond stating that the article's title is self-referential and lacks substantive content."
+      },
+      "summary": "提供的文章内容仅包含标题“A research agenda for the Economic Futures Research Fund”，没有实质性的正文或额外信息。基于当前内容，无法提炼要点或生成摘要。"
+    },
+    {
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "Anthropic is donating another $20 million to Public First Action",
+      "contentSnippet": "Anthropic is donating another $20 million to Public First Action",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 再度向 Public First Action 捐赠 2000 万美元。",
+        "en": "Anthropic is providing an additional $20 million in funding to the organization Public First Action. No further details about the purpose, timing, or nature of the donation were included in the brief announcement."
+      },
+      "summary": "Anthropic 再度向 Public First Action 捐赠 2000 万美元。"
+    },
+    {
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-20T00:00:00.000Z",
+      "content": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "contentSnippet": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 发起“AI for Science”计划，为罕见病研究提供资助，现已开放申请。该资助旨在支持利用人工智能推进罕见病研究的项目。",
+        "en": "The article consists solely of a title stating that applications are open for Anthropic’s AI for Science grants, which focus on rare disease research. No further details, such as eligibility, deadlines, or application instructions, are provided."
+      },
+      "summary": "Anthropic 发起“AI for Science”计划，为罕见病研究提供资助，现已开放申请。该资助旨在支持利用人工智能推进罕见病研究的项目。"
+    },
+    {
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "link": "https://www.anthropic.com/news/canadian-ai-research",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Anthropic commits $10 million to Canadian AI research",
+      "contentSnippet": "Anthropic commits $10 million to Canadian AI research",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 宣布投入 1000 万美元，用于支持加拿大的人工智能研究。",
+        "en": "Anthropic has pledged $10 million to support artificial intelligence research in Canada. Further details about the initiative were not provided."
+      },
+      "summary": "Anthropic 宣布投入 1000 万美元，用于支持加拿大的人工智能研究。"
+    },
+    {
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "Introducing Claude for Teachers",
+      "contentSnippet": "Introducing Claude for Teachers",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章标题为“Introducing Claude for Teachers”，但正文未提供任何具体内容，无法获取关键信息或要点，因此无法生成有效摘要。",
+        "en": "The provided content consists solely of the title \"Introducing Claude for Teachers\" and offers no additional information. A meaningful summary cannot be generated without substantial details about the announcement or its features."
+      },
+      "summary": "该文章标题为“Introducing Claude for Teachers”，但正文未提供任何具体内容，无法获取关键信息或要点，因此无法生成有效摘要。"
+    },
+    {
+      "title": "Introducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Introducing a way to reflect on how you use Claude",
+      "contentSnippet": "Introducing a way to reflect on how you use Claude",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅标题为“Introducing a way to reflect on how you use Claude”，内容与之完全相同，未展开具体说明。其核心信息是：提出了一种引导用户反思自身Claude使用习惯的方式，但文中并未提供该方法的具体步骤或细节。",
+        "en": "The provided article content consists solely of the title, \"Introducing a way to reflect on how you use Claude,\" with no additional information. A summary cannot be generated from this empty content."
+      },
+      "summary": "文章仅标题为“Introducing a way to reflect on how you use Claude”，内容与之完全相同，未展开具体说明。其核心信息是：提出了一种引导用户反思自身Claude使用习惯的方式，但文中并未提供该方法的具体步骤或细节。"
+    },
+    {
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/ben-bernanke",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "contentSnippet": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Anthropic has appointed Ben Bernanke, former Chair of the U.S. Federal Reserve, to its Long-Term Benefit Trust. No further details were provided in the announcement."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "UST is bringing Claude to physical AI",
+      "contentSnippet": "UST is bringing Claude to physical AI",
+      "creator": "",
+      "summaries": {
+        "zh": "据文章标题，UST公司正将AI模型Claude引入物理人工智能领域。但原文未提供具体细节，仅有一句陈述。",
+        "en": "The article consists solely of the title \"UST is bringing Claude to physical AI\" with no further details. It indicates that UST, likely a company, is working to integrate the Claude AI model into physical AI systems, but offers no additional context, explanation, or information."
+      },
+      "summary": "据文章标题，UST公司正将AI模型Claude引入物理人工智能领域。但原文未提供具体细节，仅有一句陈述。"
+    },
+    {
+      "title": "Inviting hard questions",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "pubDate": "Thu, 09 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-09T00:00:00.000Z",
+      "content": "Inviting hard questions",
+      "contentSnippet": "Inviting hard questions",
+      "creator": "",
+      "summaries": {
+        "zh": "该文章仅以“邀请尖锐问题”为标题，正文无实质内容，因此无法提炼具体信息或要点。",
+        "en": "The provided article content is missing; only the title \"Inviting hard questions\" appears with no accompanying text. Therefore, no summary can be generated."
+      },
+      "summary": "该文章仅以“邀请尖锐问题”为标题，正文无实质内容，因此无法提炼具体信息或要点。"
+    },
+    {
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "link": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-06T00:00:00.000Z",
+      "content": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "contentSnippet": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "creator": "",
+      "summaries": {
+        "zh": "阿尔伯塔省政府采用Claude来识别和修复政府系统中的网络安全漏洞。该技术帮助自动化检测，加快风险排查与响应速度，从而提升整体防护能力。通过应用Claude，政府能够更高效地处理潜在威胁，确保公共数据与数字服务的安全。",
+        "en": "The Government of Alberta is deploying the AI assistant Claude to identify and remediate cybersecurity vulnerabilities across its government systems. This initiative aims to strengthen the province's digital defenses by leveraging AI for proactive threat detection and faster vulnerability patching."
+      },
+      "summary": "阿尔伯塔省政府采用Claude来识别和修复政府系统中的网络安全漏洞。该技术帮助自动化检测，加快风险排查与响应速度，从而提升整体防护能力。通过应用Claude，政府能够更高效地处理潜在威胁，确保公共数据与数字服务的安全。"
+    },
+    {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "pubDate": "Thu, 02 Jul 2026 00:00:00 +0000",
+      "isoDate": "2026-07-02T00:00:00.000Z",
+      "content": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "contentSnippet": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The provided article consists solely of the title \"More details on Fable 5’s cyber safeguards and our jailbreak framework\" with no accompanying body text. No information about the cyber safeguards, the jailbreak framework, or any other details is included. Therefore, a substantive summary cannot be generated from this content."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Claude Science, an AI workbench for scientists, is now available",
+      "contentSnippet": "Claude Science, an AI workbench for scientists, is now available",
+      "creator": "",
+      "summaries": {
+        "zh": "Claude Science，一款面向科学家的AI工作台现已发布。该工具旨在辅助科研工作者进行研究，目前正式上线可用。",
+        "en": "Anthropic has launched Claude Science, an AI workbench designed specifically for scientists. The platform is now available, providing researchers with a dedicated environment to leverage AI for scientific work. No further details about features, capabilities, or access were provided in the announcement."
+      },
+      "summary": "Claude Science，一款面向科学家的AI工作台现已发布。该工具旨在辅助科研工作者进行研究，目前正式上线可用。"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Introducing Claude Sonnet 5",
+      "contentSnippet": "Introducing Claude Sonnet 5",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅标题式地宣布推出Claude Sonnet 5，正文无实质内容，未提供任何产品特性、功能或发布详情。",
+        "en": "The article consists solely of the headline \"Introducing Claude Sonnet 5\" and contains no additional information or details about the product."
+      },
+      "summary": "文章仅标题式地宣布推出Claude Sonnet 5，正文无实质内容，未提供任何产品特性、功能或发布详情。"
+    },
+    {
+      "title": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-30T00:00:00.000Z",
+      "content": "Redeploying Fable 5",
+      "contentSnippet": "Redeploying Fable 5",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅重复标题“Redeploying Fable 5”，未提供任何正文或具体信息，无法提取实质性内容进行摘要。",
+        "en": "The provided content consists only of the title \"Redeploying Fable 5\" with no accompanying article text. There is no information to summarize."
+      },
+      "summary": "文章仅重复标题“Redeploying Fable 5”，未提供任何正文或具体信息，无法提取实质性内容进行摘要。"
+    },
+    {
+      "title": "Introducing Claude Tag",
+      "link": "https://www.anthropic.com/news/introducing-claude-tag",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-23T00:00:00.000Z",
+      "content": "Introducing Claude Tag",
+      "contentSnippet": "Introducing Claude Tag",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅反复出现标题“Introducing Claude Tag”，正文无任何具体说明、功能介绍或背景信息，内容实质为空。无法从中提取要点进行总结。",
+        "en": "The provided content contains only the title “Introducing Claude Tag” and no further information. Without any substantive details, a meaningful summary cannot be generated."
+      },
+      "summary": "文章仅反复出现标题“Introducing Claude Tag”，正文无任何具体说明、功能介绍或背景信息，内容实质为空。无法从中提取要点进行总结。"
+    },
+    {
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "pubDate": "Wed, 17 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-17T00:00:00.000Z",
+      "content": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "contentSnippet": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "creator": "",
+      "summaries": {
+        "zh": "Anthropic 在首尔设立办公室，同时宣布与韩国人工智能生态系统达成多项新的合作伙伴关系。",
+        "en": "Anthropic has established a new office in Seoul and revealed multiple partnerships within South Korea's AI industry."
+      },
+      "summary": "Anthropic 在首尔设立办公室，同时宣布与韩国人工智能生态系统达成多项新的合作伙伴关系。"
+    },
+    {
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "link": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "contentSnippet": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Tata Consultancy Services (TCS) and Anthropic have announced a partnership to make Anthropic’s AI assistant, Claude, available to clients in regulated industries. The brief announcement did not include details about the specific sectors, implementation timelines, or compliance frameworks involved."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Results from the first Anthropic Public Record",
+      "link": "https://www.anthropic.com/news/anthropic-public-record",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Results from the first Anthropic Public Record",
+      "contentSnippet": "Results from the first Anthropic Public Record",
+      "creator": "",
+      "summaries": {
+        "zh": "文章仅提供了标题“首次Anthropic公共记录的结果”，未包含任何正文或实质内容，因此无法提取具体要点。",
+        "en": "The provided article content contains only the title and no further information. Therefore, no summary can be generated."
+      },
+      "summary": "文章仅提供了标题“首次Anthropic公共记录的结果”，未包含任何正文或实质内容，因此无法提取具体要点。"
+    },
+    {
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "link": "https://www.anthropic.com/news/fable-mythos-access",
+      "pubDate": "Fri, 12 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-12T00:00:00.000Z",
+      "content": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "contentSnippet": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "该声明涉及美国政府发布指令，暂停对Fable 5与Mythos 5的访问。声明标题以外未提供具体细节或解释，正文内容缺失。",
+        "en": "The article consists solely of a title stating there is a statement regarding a US government directive to suspend access to Fable 5 and Mythos 5. No further details, context, or content are provided."
+      },
+      "summary": "该声明涉及美国政府发布指令，暂停对Fable 5与Mythos 5的访问。声明标题以外未提供具体细节或解释，正文内容缺失。"
+    },
+    {
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "Introducing Claude Corps",
+      "contentSnippet": "Introducing Claude Corps",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题和内容仅为“Introducing Claude Corps”，未提供任何具体信息或细节，因此无法提取实质内容进行总结。",
+        "en": "The article consists solely of the title \"Introducing Claude Corps,\" repeated as its content. No additional details, descriptions, or information about what Claude Corps is or any announcement context are provided."
+      },
+      "summary": "文章标题和内容仅为“Introducing Claude Corps”，未提供任何具体信息或细节，因此无法提取实质内容进行总结。"
+    },
+    {
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "pubDate": "Thu, 11 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-11T00:00:00.000Z",
+      "content": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "contentSnippet": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "creator": "",
+      "summaries": {
+        "zh": "DXC科技公司将把AI模型Claude整合到银行、航空等受监管行业所依赖的关键系统中。此举旨在为这些对稳定性与合规性要求极高的领域提供智能化支持。",
+        "en": "DXC Technology will integrate Anthropic’s Claude AI into the critical operational systems used by banks, airlines, and other heavily regulated industries. The announcement signals a move to embed advanced AI capabilities directly into the infrastructure that these sectors rely on."
+      },
+      "summary": "DXC科技公司将把AI模型Claude整合到银行、航空等受监管行业所依赖的关键系统中。此举旨在为这些对稳定性与合规性要求极高的领域提供智能化支持。"
+    },
+    {
+      "title": "Claude Fable 5 and Claude Mythos 5",
+      "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "pubDate": "Tue, 09 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-09T00:00:00.000Z",
+      "content": "Claude Fable 5 and Claude Mythos 5",
+      "contentSnippet": "Claude Fable 5 and Claude Mythos 5",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题仅为“Claude Fable 5 and Claude Mythos 5”，正文未提供任何具体内容，因此无法提取主要信息或生成摘要。",
+        "en": "The article consists solely of the title \"Claude Fable 5 and Claude Mythos 5\" and provides no additional content, context, or information. No summary of main points can be given."
+      },
+      "summary": "文章标题仅为“Claude Fable 5 and Claude Mythos 5”，正文未提供任何具体内容，因此无法提取主要信息或生成摘要。"
+    },
+    {
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "contentSnippet": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容为空，仅有标题“What we learned mapping a year’s worth of AI-enabled cyber threats”，未提供任何实质信息可供摘要。",
+        "en": "The provided content contains only the article's title with no further details. As there is no substantive information to summarize, a meaningful summary cannot be generated."
+      },
+      "summary": "文章内容为空，仅有标题“What we learned mapping a year’s worth of AI-enabled cyber threats”，未提供任何实质信息可供摘要。"
+    },
+    {
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "link": "https://www.anthropic.com/news/services-track-partner-hub",
+      "pubDate": "Wed, 03 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-03T00:00:00.000Z",
+      "content": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "contentSnippet": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容仅为标题的重复，未提供关于“Claude 合作伙伴网络”的“服务轨道”与“合作伙伴中心”的具体介绍或实质性信息，因此无法提取有效要点进行总结。",
+        "en": "The provided article contains no substantive content beyond its title, \"Introducing the Services Track and Partner Hub of the Claude Partner Network.\" No details, descriptions, or additional information about these initiatives are given."
+      },
+      "summary": "文章内容仅为标题的重复，未提供关于“Claude 合作伙伴网络”的“服务轨道”与“合作伙伴中心”的具体介绍或实质性信息，因此无法提取有效要点进行总结。"
+    },
+    {
+      "title": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "pubDate": "Tue, 02 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-02T00:00:00.000Z",
+      "content": "Expanding Project Glasswing",
+      "contentSnippet": "Expanding Project Glasswing",
+      "creator": "",
+      "summaries": {
+        "zh": "本文标题为“Expanding Project Glasswing”，但正文部分仅重复此标题，未包含任何实质内容、细节或说明，因此无法提取关键信息进行概括。",
+        "en": "The provided article content consists solely of the title \"Expanding Project Glasswing\" with no additional details, body text, or context. As a result, there is no substantive information to summarize."
+      },
+      "summary": "本文标题为“Expanding Project Glasswing”，但正文部分仅重复此标题，未包含任何实质内容、细节或说明，因此无法提取关键信息进行概括。"
+    },
+    {
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "pubDate": "Mon, 01 Jun 2026 00:00:00 +0000",
+      "isoDate": "2026-06-01T00:00:00.000Z",
+      "content": "Anthropic confidentially submits draft S-1 to the SEC",
+      "contentSnippet": "Anthropic confidentially submits draft S-1 to the SEC",
+      "creator": "",
+      "summaries": {
+        "zh": "人工智能公司Anthropic已向美国证券交易委员会秘密提交了S-1表格草案。此举通常意味着该公司正在筹备首次公开募股（IPO），但具体发行规模和时机尚未披露。",
+        "en": "Anthropic has confidentially filed a draft S-1 registration statement with the U.S. Securities and Exchange Commission (SEC). This filing is a preliminary step toward a potential initial public offering (IPO), allowing the company to begin the regulatory review process privately before making details public."
+      },
+      "summary": "人工智能公司Anthropic已向美国证券交易委员会秘密提交了S-1表格草案。此举通常意味着该公司正在筹备首次公开募股（IPO），但具体发行规模和时机尚未披露。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:17.444Z"
+}

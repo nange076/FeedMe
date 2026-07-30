@@ -1,0 +1,135 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/v2ex/topics/hot",
+  "title": "V2EX-最热主题",
+  "description": "V2EX-最热主题 - Powered by RSSHub",
+  "link": "https://www.v2ex.com/",
+  "items": [
+    {
+      "title": "[神稳中转] GPT 5.6， 0.09 倍率，送 10 刀试用，前字节开发",
+      "link": "https://www.v2ex.com/t/1231036",
+      "pubDate": "Thu, 30 Jul 2026 08:58:07 GMT",
+      "isoDate": "2026-07-30T08:58:07.000Z",
+      "content": "alexissde: <p>大家好，我是之前在字节的开发 Alex 。</p>\n<p>主要做稳定 GPT 5.6 中转，目前有三种通道：</p>\n<p><a href=\"https://shenwenai.com/\" rel=\"nofollow\">https://shenwenai.com</a></p>\n<ul>\n<li>0.09x 低价通道：价格优先，Plus 号池，0.09x 倍率，不保稳定性。</li>\n<li>0.33x 稳定通道：自己海外信用卡建立的 Pro 号池，0.33x 倍率。</li>\n<li>⭐️ 智能通道：预设走 0.09x 通道，失败自动切 0.33x ，尽可能省钱不中断。</li>\n</ul>\n<p>目前用户数已经破 500 位，稳定且基本没出过啥大问题</p>\n<ol>\n<li>注册可领 1 刀</li>\n<li>评论 uuid 或 email ，我帮你充值到 5 刀 ( <a href=\"https://shenwenai.com/account/usage\" rel=\"nofollow\">https://shenwenai.com/account/usage</a> 这复制)。</li>\n<li>加入微信群可领到 10 刀</li>\n</ol>\n<p><img alt=\"image\" class=\"embedded_image\" loading=\"lazy\" referrerpolicy=\"no-referrer\" rel=\"noreferrer\" src=\"https://shenwenai-assets.oss-cn-hongkong.aliyuncs.com/IMG_6473.JPG?x-oss-process=image/resize,w_300\"></p>\n",
+      "contentSnippet": "alexissde: \n大家好，我是之前在字节的开发 Alex 。\n主要做稳定 GPT 5.6 中转，目前有三种通道：\nhttps://shenwenai.com\n0.09x 低价通道：价格优先，Plus 号池，0.09x 倍率，不保稳定性。\n0.33x 稳定通道：自己海外信用卡建立的 Pro 号池，0.33x 倍率。\n⭐️ 智能通道：预设走 0.09x 通道，失败自动切 0.33x ，尽可能省钱不中断。\n目前用户数已经破 500 位，稳定且基本没出过啥大问题\n注册可领 1 刀\n评论 uuid 或 email ，我帮你充值到 5 刀 ( https://shenwenai.com/account/usage 这复制)。\n加入微信群可领到 10 刀",
+      "creator": "alexissde",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A former ByteDance developer is offering a GPT relay service via shenwenai.com. It features three channels: a low-cost 0.09x rate option with no stability guarantee, a 0.33x rate stable channel built on Pro accounts using an overseas credit card, and a smart channel that defaults to the cheaper rate and auto-switches to stable on failure. The service has over 500 users. New registrants receive $1 credit; providing a UUID or email boosts it to $5, and joining the WeChat group adds $10 more for trial use."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "低代码真的有前景吗",
+      "link": "https://www.v2ex.com/t/1231024",
+      "pubDate": "Thu, 30 Jul 2026 08:33:18 GMT",
+      "isoDate": "2026-07-30T08:33:18.000Z",
+      "content": "southcat996: <p>我们主管一人借助 Vibe Coding 开发了一套低代码平台，目前主要功能如下：</p>\n<p>逻辑引擎：支持设置入参、出参，通过拖拽循环、JS 、SQL 节点以及分支节点来编写业务逻辑。\n页面快速生成：选择数据表后可快速进行联表生成页面，再结合逻辑引擎和自定义表单，配置各类编辑、弹窗等交互事件。\n自定义页面：直接用 HTML/CSS/JS 三件套编写页面，通过逻辑引擎获取数据并完成页面渲染。</p>\n<p>在内部人事管理系统上，这套平台确实显著提升了效率，也让产品能够深度参与开发。但当我们把同样的模式应用到考试系统以及业务逻辑更复杂的场景时，问题开始显现。\n我在参与过程中明显感觉到，这种开发方式与自己以往的编码习惯差异很大。逻辑引擎实现的业务逻辑处于黑盒与白盒之间，既不够透明，也难以像传统代码那样灵活调试和维护。\n因此我想请教：这种低代码模式真的有长期前景吗？有必要继续大力推进下去吗？</p>\n",
+      "contentSnippet": "southcat996: \n我们主管一人借助 Vibe Coding 开发了一套低代码平台，目前主要功能如下：\n逻辑引擎：支持设置入参、出参，通过拖拽循环、JS 、SQL 节点以及分支节点来编写业务逻辑。\n页面快速生成：选择数据表后可快速进行联表生成页面，再结合逻辑引擎和自定义表单，配置各类编辑、弹窗等交互事件。\n自定义页面：直接用 HTML/CSS/JS 三件套编写页面，通过逻辑引擎获取数据并完成页面渲染。\n在内部人事管理系统上，这套平台确实显著提升了效率，也让产品能够深度参与开发。但当我们把同样的模式应用到考试系统以及业务逻辑更复杂的场景时，问题开始显现。\n我在参与过程中明显感觉到，这种开发方式与自己以往的编码习惯差异很大。逻辑引擎实现的业务逻辑处于黑盒与白盒之间，既不够透明，也难以像传统代码那样灵活调试和维护。\n因此我想请教：这种低代码模式真的有长期前景吗？有必要继续大力推进下去吗？",
+      "creator": "southcat996",
+      "summaries": {
+        "zh": "用户主管借助Vibe Coding搭建了低代码平台，包含逻辑引擎、页面快速生成及自定义页面功能，在人事管理系统上显著提升了效率。但应用于考试等复杂业务时，出现了调试维护困难、逻辑不透明等问题，与传统编码习惯差异大。用户因而质疑：这种低代码模式是否具备长期前景，以及是否值得继续大力推行。",
+        "en": "A developer questions the long-term viability of low-code platforms after experiencing their limitations. Their supervisor built a platform using Vibe Coding, featuring a logic engine for drag-and-drop business logic, quick page generation from data tables, and custom HTML/CSS/JS pages. While it improved efficiency for an internal HR system, it struggled with more complex scenarios like exam systems. The user notes that logic feels neither fully transparent nor easily debuggable like traditional code, raising doubts about pushing the approach forward."
+      },
+      "summary": "用户主管借助Vibe Coding搭建了低代码平台，包含逻辑引擎、页面快速生成及自定义页面功能，在人事管理系统上显著提升了效率。但应用于考试等复杂业务时，出现了调试维护困难、逻辑不透明等问题，与传统编码习惯差异大。用户因而质疑：这种低代码模式是否具备长期前景，以及是否值得继续大力推行。"
+    },
+    {
+      "title": "为什么小蓝灯要被禁掉呢",
+      "link": "https://www.v2ex.com/t/1230922",
+      "pubDate": "Thu, 30 Jul 2026 02:31:49 GMT",
+      "isoDate": "2026-07-30T02:31:49.000Z",
+      "content": "imherer: <p>我觉得挺好的呀，个人感觉让别人知道这个车开了辅助驾驶不是挺好的吗？</p>\n",
+      "contentSnippet": "imherer: \n我觉得挺好的呀，个人感觉让别人知道这个车开了辅助驾驶不是挺好的吗？",
+      "creator": "imherer",
+      "summaries": {
+        "zh": "有网友对禁止车辆使用小蓝灯（辅助驾驶指示灯）提出疑问，认为这一功能让周围车辆和行人知晓该车已开启辅助驾驶，有助于提升道路安全，感觉是件好事。",
+        "en": "A user questioned why small blue lights (likely indicating a vehicle's assisted driving mode is active) are being banned. The commenter argued that the lights are beneficial because they let other road users know the vehicle is operating with assisted driving, which they see as a positive safety feature."
+      },
+      "summary": "有网友对禁止车辆使用小蓝灯（辅助驾驶指示灯）提出疑问，认为这一功能让周围车辆和行人知晓该车已开启辅助驾驶，有助于提升道路安全，感觉是件好事。"
+    },
+    {
+      "title": "这个低成本的美国手机号码，价值还在上升",
+      "link": "https://www.v2ex.com/t/1230904",
+      "pubDate": "Thu, 30 Jul 2026 02:04:25 GMT",
+      "isoDate": "2026-07-30T02:04:25.000Z",
+      "content": "conky: <p>之前发了一个 Saily 美国手机号的帖子，引来部分使用 GG 英国手机卡的 V 友嘲讽。\n目前来看 Saily 的含金量又一次上升了。\n这个卡的优势就是：\n1 、本身就是旅行卡，允许在国外使用，暂时看不到封号风险。\n2 、原生美国实体手机号，支持银行及 openai/PayPal 注册（有的号码可能不行）</p>\n<p>需要的 V 友，教程自取吧</p>\n<p><a href=\"https://mutou.men/?p=756\" rel=\"nofollow\">mutou.men</a></p>\n<p>邀请码这个低价套餐不能用了，所以就纯分享。注册应该会自动送两美金。所以前 5 个月月租 0.6 美元。</p>\n",
+      "contentSnippet": "conky: \n之前发了一个 Saily 美国手机号的帖子，引来部分使用 GG 英国手机卡的 V 友嘲讽。\n目前来看 Saily 的含金量又一次上升了。\n这个卡的优势就是：\n1 、本身就是旅行卡，允许在国外使用，暂时看不到封号风险。\n2 、原生美国实体手机号，支持银行及 openai/PayPal 注册（有的号码可能不行）\n需要的 V 友，教程自取吧\nmutou.men\n邀请码这个低价套餐不能用了，所以就纯分享。注册应该会自动送两美金。所以前 5 个月月租 0.6 美元。",
+      "creator": "conky",
+      "summaries": {
+        "zh": "本文介绍了低成本美国手机号Saily的优势。作者指出，Saily作为旅行SIM卡，允许境外使用且暂无明显封号风险；属于原生美国实体号码，大多可注册银行、OpenAI和PayPal等服务。注册即送2美元，前5个月月租仅0.6美元。此前有人用英国卡嘲笑，如今Saily价值再次上升，教程可于mutou.men自取，邀请码套餐已停用，纯属分享。",
+        "en": "A user highlights the growing value of a low-cost US phone number service called Saily. It is a travel eSIM card designed for use abroad with no apparent risk of being deactivated. As a native US physical number, it can be used to register for banks, OpenAI, and PayPal, though some numbers may not work. A tutorial is available at mutou.men. The cheap plan cannot be used with the invitation code, but registration automatically credits $2, making the monthly cost $0.60 for the first five months."
+      },
+      "summary": "本文介绍了低成本美国手机号Saily的优势。作者指出，Saily作为旅行SIM卡，允许境外使用且暂无明显封号风险；属于原生美国实体号码，大多可注册银行、OpenAI和PayPal等服务。注册即送2美元，前5个月月租仅0.6美元。此前有人用英国卡嘲笑，如今Saily价值再次上升，教程可于mutou.men自取，邀请码套餐已停用，纯属分享。"
+    },
+    {
+      "title": "你们都是在哪买电子烟的",
+      "link": "https://www.v2ex.com/t/1230903",
+      "pubDate": "Thu, 30 Jul 2026 02:03:58 GMT",
+      "isoDate": "2026-07-30T02:03:58.000Z",
+      "content": "vanchKong: <p>我目前在 tg 买，一圈看下来应该是比较低价的了，我不太在乎是否是精工产品，只要口感对，质量说得过去就行，当然正品低价肯定更好了。</p>\n<p>不过我也想了解更多的渠道，可以留下某个产品价格，我可以做下对比。小红书上很多被骗的帖子🤣，绝大部分都是要求先款的，感觉很无解。</p>\n",
+      "contentSnippet": "vanchKong: \n我目前在 tg 买，一圈看下来应该是比较低价的了，我不太在乎是否是精工产品，只要口感对，质量说得过去就行，当然正品低价肯定更好了。\n不过我也想了解更多的渠道，可以留下某个产品价格，我可以做下对比。小红书上很多被骗的帖子🤣，绝大部分都是要求先款的，感觉很无解。",
+      "creator": "vanchKong",
+      "summaries": {
+        "zh": "网友发帖询问电子烟购买渠道，称目前在Telegram购买，价格较低，不太在意是否“精工”，只要口感质量尚可。希望了解其他渠道和产品价格以便对比，并指出小红书上常见被骗案例，多因要求先付款，让人感觉无解。",
+        "en": "The user discusses where to buy e-cigarettes, currently using Telegram for relatively low prices. They don't mind non-authentic products as long as the taste and quality are acceptable, though they would prefer genuine low-cost options. They seek information on other purchasing channels for price comparison and note that many scam posts on Xiaohongshu (Little Red Book) involve sellers demanding upfront payment, making it hard to find trustworthy sources."
+      },
+      "summary": "网友发帖询问电子烟购买渠道，称目前在Telegram购买，价格较低，不太在意是否“精工”，只要口感质量尚可。希望了解其他渠道和产品价格以便对比，并指出小红书上常见被骗案例，多因要求先付款，让人感觉无解。"
+    },
+    {
+      "title": "进入智驾时代，就不会有插车，逆行等现象，有道理不？",
+      "link": "https://www.v2ex.com/t/1230892",
+      "pubDate": "Thu, 30 Jul 2026 01:25:13 GMT",
+      "isoDate": "2026-07-30T01:25:13.000Z",
+      "content": "CNN: <p>例如现在开车，总有素质低的人插车，逆行，横冲直撞等一系列危险行为，导致道路拥堵。</p>\n<p>未来如果大家都开启智驾，是不是就不存在上述情况</p>\n",
+      "contentSnippet": "CNN: \n例如现在开车，总有素质低的人插车，逆行，横冲直撞等一系列危险行为，导致道路拥堵。\n未来如果大家都开启智驾，是不是就不存在上述情况",
+      "creator": "CNN",
+      "summaries": {
+        "zh": "文章引述CNN的疑问，探讨若未来所有车辆均启用智能驾驶，当前道路上常见的插车、逆行等低素质危险驾驶行为是否将彻底消失，以及由此引发的拥堵是否也能随之消除。",
+        "en": "The article questions whether the widespread adoption of autonomous driving (smart driving) could eliminate dangerous road behaviors like cutting in line, wrong-way driving, and aggressive maneuvering that currently cause congestion. A CNN-style scenario speculates that if all vehicles were operated by intelligent driving systems, such reckless human actions would no longer occur. The piece invites reflection on whether technology can fundamentally remove poor driving habits and their impact on traffic flow."
+      },
+      "summary": "文章引述CNN的疑问，探讨若未来所有车辆均启用智能驾驶，当前道路上常见的插车、逆行等低素质危险驾驶行为是否将彻底消失，以及由此引发的拥堵是否也能随之消除。"
+    },
+    {
+      "title": "[Yukiapi ] 已上线 GPT-5.6 一家稳定平价 Claude/Codex 中转站，新用户注册送 1 刀评论区留 id 送 5 刀额度！",
+      "link": "https://www.v2ex.com/t/1230885",
+      "pubDate": "Thu, 30 Jul 2026 01:21:48 GMT",
+      "isoDate": "2026-07-30T01:21:48.000Z",
+      "content": "moli000625: <p><strong>Yukiapi ，高效稳定的满血模型，提供 Claude 、codex 、gemini 等大模型，现在开始做全面推广！</strong></p>\n<p>我们承诺做到如下几点：</p>\n<pre><code>\n1.不掺假 2.数据隐私保护 3.不随意涨价\n\n</code></pre>\n<p>分组倍率（叠加当前充值优惠活动）</p>\n<p>claudeMax 分组倍率 1x</p>\n<p>gptPro 分组倍率 0.2x</p>\n<p>gemini-cli 分组倍率 0.5x</p>\n<p>gpt-image-2 0.05 一张</p>\n<h1>&gt; <a href=\"https://yukiapi.com/\" rel=\"nofollow\">Yukiapi 高性价比大模型聚合平台</a></h1>\n<p>✅ 福利发放</p>\n<p>新用户留 id 可领 5 叨</p>\n<p>QQ 群：486019490</p>\n",
+      "contentSnippet": "moli000625: \nYukiapi ，高效稳定的满血模型，提供 Claude 、codex 、gemini 等大模型，现在开始做全面推广！\n我们承诺做到如下几点：\n\n1.不掺假 2.数据隐私保护 3.不随意涨价\n\n\n分组倍率（叠加当前充值优惠活动）\nclaudeMax 分组倍率 1x\ngptPro 分组倍率 0.2x\ngemini-cli 分组倍率 0.5x\ngpt-image-2 0.05 一张\n> Yukiapi 高性价比大模型聚合平台\n✅ 福利发放\n新用户留 id 可领 5 叨\nQQ 群：486019490",
+      "creator": "moli000625",
+      "summaries": {
+        "zh": "Yukiapi 推出大模型中转服务，主打稳定平价，支持 Claude、Codex、Gemini 等模型。平台承诺不掺假、保护数据隐私、不随意涨价。公布的分组倍率包括 claudeMax 1 倍、gptPro 0.2 倍、gemini-cli 0.5 倍等。新用户注册即送 1 美元，在评论区留下 ID 可额外获赠 5 美元额度，并提供 QQ 群 486019490 用于联系。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "Yukiapi 推出大模型中转服务，主打稳定平价，支持 Claude、Codex、Gemini 等模型。平台承诺不掺假、保护数据隐私、不随意涨价。公布的分组倍率包括 claudeMax 1 倍、gptPro 0.2 倍、gemini-cli 0.5 倍等。新用户注册即送 1 美元，在评论区留下 ID 可额外获赠 5 美元额度，并提供 QQ 群 486019490 用于联系。"
+    },
+    {
+      "title": "公办二本计算机专业，有必要听老师讲课吗？",
+      "link": "https://www.v2ex.com/t/1230880",
+      "pubDate": "Thu, 30 Jul 2026 01:09:03 GMT",
+      "isoDate": "2026-07-30T01:09:03.000Z",
+      "content": "pc10201: <p>我侄女考上一个二本计算机专业，非重点学科，连个硕士点都没有</p>\n<p>国内的大学教材很垃圾</p>\n<p>老师讲课差不多也是照本宣科</p>\n<p>如果完全借助国外教材的翻译版，再结合国外大学公开课，或者 B 站国内优质大学的公开课</p>\n<p>理论上质量应该超过 90%的老师</p>\n<p>是不是基本不用听学校老师讲课了？</p>\n",
+      "contentSnippet": "pc10201: \n我侄女考上一个二本计算机专业，非重点学科，连个硕士点都没有\n国内的大学教材很垃圾\n老师讲课差不多也是照本宣科\n如果完全借助国外教材的翻译版，再结合国外大学公开课，或者 B 站国内优质大学的公开课\n理论上质量应该超过 90%的老师\n是不是基本不用听学校老师讲课了？",
+      "creator": "pc10201",
+      "summaries": {
+        "zh": "提问者认为侄女就读的公办二本计算机专业师资与教材质量堪忧，老师多照本宣科。提出改用国外教材翻译版，搭配国内外名校公开课学习，理论上可超越多数校内教师水平，因此质疑是否还有必要听学校老师讲课。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "提问者认为侄女就读的公办二本计算机专业师资与教材质量堪忧，老师多照本宣科。提出改用国外教材翻译版，搭配国内外名校公开课学习，理论上可超越多数校内教师水平，因此质疑是否还有必要听学校老师讲课。"
+    },
+    {
+      "title": "2026 了，大家现在都怎么远程使用 Mac？",
+      "link": "https://www.v2ex.com/t/1230879",
+      "pubDate": "Thu, 30 Jul 2026 01:01:56 GMT",
+      "isoDate": "2026-07-30T01:01:56.000Z",
+      "content": "qwei: 最近想折腾一个 Mac 远程使用方案，想请教一下大家有没有类似经验。<br><br>目前需求：<br><br>完整远程控制 Mac<br><br>iPad 或 Windows 作为客户端，远程连接 Mac ，类似 TeamViewer / RustDesk / Parsec 这种。<br><br>Mac 作为应用服务器<br><br>更理想的方式是：<br><br>Mac 负责运行软件<br>文件也一直保存在 Mac 上<br>iPad / Windows 端只负责操作和显示<br>类似 Windows RemoteApp ，打开的是 Mac 上某个具体软件，而不是整个桌面<br><br>比如：<br><br>在 iPad 上直接使用 Mac 上的 IDE<br>使用 Mac 上安装的软件<br>编辑 Mac 上的文件<br>不需要把整个 Mac 桌面投出来<br><br>目前想到的方向：<br><br>VNC / 屏幕共享<br>Parsec / Moonlight<br>NoMachine<br>其他远程应用方案<br><br>但是第二种“单独远程使用 Mac 软件”的方案不太清楚有没有成熟实现。<br><br>想问问各位：<br><br>有没有比较推荐的远程控制 Mac 方案？<br>有没有类似 RemoteApp ，可以把 Mac 软件单独发布出来使用的方案？<br>如果长期使用，大家更推荐哪种架构？<br><br>感谢各位分享经验。",
+      "contentSnippet": "qwei: 最近想折腾一个 Mac 远程使用方案，想请教一下大家有没有类似经验。\n目前需求：\n完整远程控制 Mac\niPad 或 Windows 作为客户端，远程连接 Mac ，类似 TeamViewer / RustDesk / Parsec 这种。\nMac 作为应用服务器\n更理想的方式是：\nMac 负责运行软件\n文件也一直保存在 Mac 上\niPad / Windows 端只负责操作和显示\n类似 Windows RemoteApp ，打开的是 Mac 上某个具体软件，而不是整个桌面\n比如：\n在 iPad 上直接使用 Mac 上的 IDE\n使用 Mac 上安装的软件\n编辑 Mac 上的文件\n不需要把整个 Mac 桌面投出来\n目前想到的方向：\nVNC / 屏幕共享\nParsec / Moonlight\nNoMachine\n其他远程应用方案\n但是第二种“单独远程使用 Mac 软件”的方案不太清楚有没有成熟实现。\n想问问各位：\n有没有比较推荐的远程控制 Mac 方案？\n有没有类似 RemoteApp ，可以把 Mac 软件单独发布出来使用的方案？\n如果长期使用，大家更推荐哪种架构？\n感谢各位分享经验。",
+      "creator": "qwei",
+      "summaries": {
+        "zh": "一位用户寻求2026年远程使用Mac的最佳方案。需求分两种：一是完整远程控制桌面，如通过VNC、Parsec等；二是更轻量的“应用虚拟化”模式，类似Windows RemoteApp，只将Mac上的特定软件窗口（如IDE）投射到iPad或Windows端，而非整个桌面。用户询问是否存在此类成熟方案，以及长期使用推荐哪种架构。",
+        "en": "A user seeks advice on remote Mac access solutions for 2026. Their primary goal is to control full Mac desktops from iPad or Windows clients via tools like TeamViewer, RustDesk, or Parsec. More importantly, they want a Windows RemoteApp-like experience: running individual Mac applications on a client device without streaming the entire desktop. This would allow, for example, using a Mac IDE directly on an iPad while files remain on the Mac. They are exploring VNC/Screen Sharing, Parsec/Moonlight, NoMachine, and other remote app publishing methods. They ask for recommendations on mature single-application remote solutions and preferred long-term architectures."
+      },
+      "summary": "一位用户寻求2026年远程使用Mac的最佳方案。需求分两种：一是完整远程控制桌面，如通过VNC、Parsec等；二是更轻量的“应用虚拟化”模式，类似Windows RemoteApp，只将Mac上的特定软件窗口（如IDE）投射到iPad或Windows端，而非整个桌面。用户询问是否存在此类成熟方案，以及长期使用推荐哪种架构。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:31.060Z"
+}

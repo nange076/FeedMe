@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/google/developers/en",
+  "title": "Google Developers Blog",
+  "description": "Google Developers Blog - Powered by RSSHub",
+  "link": "https://developers.googleblog.com",
+  "items": [
+    {
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "link": "https://developers.googleblog.com/en/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh sharding, and rematerialization—to maximize hardware utilization for large-scale model deployments.",
+      "contentSnippet": "Google's open-source TPU microbenchmark suite provides developers with granular performance metrics across Network, Compute, HBM, Host Transfer, and Attention components to validate real-world hardware capabilities. By leveraging these benchmarks to establish a Roofline model, engineers can accurately diagnose whether their machine learning workloads are compute-, memory-, or network-bound. This empirical baseline directly guides targeted software optimizations—such as kernel tuning, mesh sharding, and rematerialization—to maximize hardware utilization for large-scale model deployments.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌开源TPU微基准测试套件，可提供网络、计算、高带宽内存、主机传输及注意力机制等组件的细粒度性能指标，用于验证真实硬件能力。借助这些基准建立Roofline模型，工程师能准确诊断机器学习工作负载是受计算、内存还是网络限制。这一实证基线可直接指导内核调优、网格分片和重计算等针对性软件优化，从而最大化大规模模型部署的硬件利用率。",
+        "en": "Google's open-source TPU microbenchmark suite provides granular performance metrics for components such as compute, memory (HBM), network, host transfer, and attention. Using these benchmarks, developers can build a Roofline model to diagnose whether machine learning workloads are compute-, memory-, or network-bound. This empirical baseline enables targeted software optimizations—including kernel tuning, mesh sharding, and rematerialization—to maximize hardware utilization when deploying large-scale models."
+      },
+      "summary": "谷歌开源TPU微基准测试套件，可提供网络、计算、高带宽内存、主机传输及注意力机制等组件的细粒度性能指标，用于验证真实硬件能力。借助这些基准建立Roofline模型，工程师能准确诊断机器学习工作负载是受计算、内存还是网络限制。这一实证基线可直接指导内核调优、网格分片和重计算等针对性软件优化，从而最大化大规模模型部署的硬件利用率。"
+    },
+    {
+      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
+      "link": "https://developers.googleblog.com/en/run-ray-on-tpu-part-2-ray-ai-libraries/",
+      "pubDate": "Thu, 23 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-23T16:00:00.000Z",
+      "content": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "contentSnippet": "This second installment explores how Ray’s higher-level libraries—Serve, Data, and Train—abstract the complexities of running AI workloads on Google's TPU slices. Ray Serve uses a simple topology configuration to correctly gang-schedule large multi-host models, while Ray Data eliminates data-loading bottlenecks by feeding accelerators directly with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPUs by automatically handling cross-slice coordination, checkpointing, and fault tolerance.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "第二篇介绍了 Ray 的高级 AI 库如何简化在 Google TPU 切片上的工作负载。Ray Serve 利用拓扑配置实现大型多主机模型的精准协同调度；Ray Data 通过直接供给原生 JAX 批次数据，消除了数据加载瓶颈；JaxTrainer 则自动处理跨切片协调、检查点与容错，从而显著简化了 TPU 上的分布式训练流程。",
+        "en": "Part 2 of the series highlights how Ray’s AI libraries simplify TPU workloads. Ray Serve gang-schedules large multi-host models using a simple topology configuration. Ray Data removes data-loading bottlenecks by directly feeding accelerators with native JAX batches. Finally, JaxTrainer streamlines distributed training across TPU slices, automatically handling cross-slice coordination, checkpointing, and fault tolerance."
+      },
+      "summary": "第二篇介绍了 Ray 的高级 AI 库如何简化在 Google TPU 切片上的工作负载。Ray Serve 利用拓扑配置实现大型多主机模型的精准协同调度；Ray Data 通过直接供给原生 JAX 批次数据，消除了数据加载瓶颈；JaxTrainer 则自动处理跨切片协调、检查点与容错，从而显著简化了 TPU 上的分布式训练流程。"
+    },
+    {
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "link": "https://developers.googleblog.com/en/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "pubDate": "Mon, 20 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-20T16:00:00.000Z",
+      "content": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "contentSnippet": "Tunix is Google’s new JAX-native post-training library designed to eliminate TPU idling bottlenecks when training multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by combining highly concurrent, asynchronous rollouts with a decoupled producer-consumer pipeline, ensuring the trainer is constantly fed even while agents wait on network I/O or environment steps. Additionally, Tunix provides plug-and-play abstractions and continuous macro-level profiling, allowing developers to easily integrate custom open-source environments and optimize complex distributed workflows without massive code rewrites.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Tunix 是谷歌推出的 JAX 原生训练库，旨在解决多轮、工具调用型 LLM 推理智能体训练时的 TPU 闲置问题。它通过高并发异步回放与解耦的生产者-消费者流水线，最大化硬件吞吐量，确保智能体等待网络 I/O 或环境交互时训练器仍能满载运行。Tunix 还提供即插即用的抽象层和持续宏观性能剖析，便于开发者集成自定义开源环境，并在无需大规模代码重构的前提下优化复杂分布式工作流。",
+        "en": "Tunix is a JAX-native post-training library from Google that tackles TPU idling during the training of multi-turn, tool-using LLM reasoning agents. It maximizes hardware throughput by using highly concurrent, asynchronous rollouts and a decoupled producer-consumer pipeline, which keeps the trainer continuously fed even when agents are stalled by network I/O or environment steps. The library also features plug-and-play abstractions and continuous macro-level profiling, enabling developers to seamlessly integrate custom open-source environments and refine complex distributed workflows without extensive code changes."
+      },
+      "summary": "Tunix 是谷歌推出的 JAX 原生训练库，旨在解决多轮、工具调用型 LLM 推理智能体训练时的 TPU 闲置问题。它通过高并发异步回放与解耦的生产者-消费者流水线，最大化硬件吞吐量，确保智能体等待网络 I/O 或环境交互时训练器仍能满载运行。Tunix 还提供即插即用的抽象层和持续宏观性能剖析，便于开发者集成自定义开源环境，并在无需大规模代码重构的前提下优化复杂分布式工作流。"
+    },
+    {
+      "title": "Run Ray on TPU, Part 1: The foundations",
+      "link": "https://developers.googleblog.com/en/run-ray-on-tpu-part-1-the-foundations/",
+      "pubDate": "Sun, 19 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-19T16:00:00.000Z",
+      "content": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "contentSnippet": "Ray 2.55 introduces official, first-class support for Google Cloud TPUs, enabling developers to run distributed Python workloads on Google's accelerators using the familiar Ray task-and-actor APIs. To handle the strict networking requirement of keeping multi-host TPU \"slices\" together over their Inter-Chip Interconnect (ICI), the KubeRay Operator on GKE automatically provisions and labels the underlying hardware layout. Ray Core utilizes these labels via its slice_placement_group() primitive to atomically reserve complete slices, allowing developers to deploy jobs through KubeRay, Ray Train, or Ray Serve simply by declaring a hardware topology (like \"4x4\") without writing custom placement code.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Ray 2.55 正式为 Google Cloud TPU 提供一流支持，让开发者能通过熟悉的 Ray 任务与 Actor API 运行分布式 Python 工作负载。为满足多主机 TPU 切片通过芯片间互连保持紧密连接的网络要求，GKE 上的 KubeRay Operator 会自动配置并标记底层硬件布局。Ray Core 利用这些标记，通过新增的 slice_placement_group() 原语原子性地预留完整的 TPU 切片，开发者无需编写复杂的放置代码，只需在 KubeRay、Ray Train 或 Ray Serve 中声明如“4x4”的硬件拓扑即可部署作业。",
+        "en": "Ray 2.55 introduces first-class support for Google Cloud TPUs, letting developers run distributed Python workloads using standard Ray task and actor APIs. Multi-host TPU slices require strict co-location over the Inter-Chip Interconnect, so the KubeRay Operator on GKE automatically provisions and labels the hardware layout. Ray Core’s new `slice_placement_group()` primitive reads these labels to atomically reserve complete slices. This means jobs can be deployed"
+      },
+      "summary": "Ray 2.55 正式为 Google Cloud TPU 提供一流支持，让开发者能通过熟悉的 Ray 任务与 Actor API 运行分布式 Python 工作负载。为满足多主机 TPU 切片通过芯片间互连保持紧密连接的网络要求，GKE 上的 KubeRay Operator 会自动配置并标记底层硬件布局。Ray Core 利用这些标记，通过新增的 slice_placement_group() 原语原子性地预留完整的 TPU 切片，开发者无需编写复杂的放置代码，只需在 KubeRay、Ray Train 或 Ray Serve 中声明如“4x4”的硬件拓扑即可部署作业。"
+    },
+    {
+      "title": "Building scalable AI agents with modular prompt transpilation",
+      "link": "https://developers.googleblog.com/en/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "pubDate": "Wed, 15 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-15T16:00:00.000Z",
+      "content": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe framework where agents can propose updates to their own logic via standard pull requests.",
+      "contentSnippet": "To resolve the scaling bottlenecks and runtime errors caused by monolithic system prompts, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable templates. By running these modular \"skill files\" through a transpiler, developers can enforce static validation, catch missing dependencies at build time, and integrate prompt generation directly into their CI/CD pipelines. This deterministic approach prevents code drift and ultimately establishes a safe framework where agents can propose updates to their own logic via standard pull requests.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Monolithic system prompts cause scaling bottlenecks and runtime errors. To solve this, engineering teams should treat prompts as build artifacts by modularizing instructions into reusable \"skill file\" templates. A transpiler then processes these files, enabling static validation, catching missing dependencies at build time, and integrating prompt generation into CI/CD pipelines. This deterministic method prevents code drift and creates a safe framework where AI agents can propose updates to their own logic through standard pull requests."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+      "link": "https://developers.googleblog.com/en/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+      "pubDate": "Wed, 15 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-15T16:00:00.000Z",
+      "content": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process web data alongside other large language models.",
+      "contentSnippet": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel's search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This integration enables developers to anchor their AI agents in verifiable, real-time web results, significantly improving factual accuracy for complex enterprise workflows. Additionally, the partnership offers expanded architectural flexibility, allowing users to programmatically extract, permanently cache, and process web data alongside other large language models.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌云与Parallel Web Systems合作，将其搜索基础设施原生集成到Gemini企业代理平台，作为网络信息溯源供应商。该集成使开发者能将AI代理锚定于可验证的实时网络结果，显著提升复杂企业工作流的事实准确性。同时，合作还扩展了架构灵活性，支持用户以编程方式提取、永久缓存网络数据，并与其他大语言模型协同处理。",
+        "en": "Google Cloud has partnered with Parallel Web Systems to natively integrate Parallel’s search infrastructure as a web grounding provider on the Gemini Enterprise Agent Platform. This allows developers to anchor AI agents in verifiable, real-time web results, improving factual accuracy for complex enterprise workflows. The integration also broadens architectural flexibility, enabling users to programmatically extract, permanently cache, and process web data alongside other large language models."
+      },
+      "summary": "谷歌云与Parallel Web Systems合作，将其搜索基础设施原生集成到Gemini企业代理平台，作为网络信息溯源供应商。该集成使开发者能将AI代理锚定于可验证的实时网络结果，显著提升复杂企业工作流的事实准确性。同时，合作还扩展了架构灵活性，支持用户以编程方式提取、永久缓存网络数据，并与其他大语言模型协同处理。"
+    },
+    {
+      "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+      "link": "https://developers.googleblog.com/en/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+      "pubDate": "Wed, 15 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-15T16:00:00.000Z",
+      "content": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single source of truth for your project's architecture and state across different AI tools.",
+      "contentSnippet": "Conductor has evolved from a Gemini CLI extension into a portable plugin, bringing conversational Spec-Driven Development (SDD) to ecosystems like Antigravity CLI and Claude. Rather than relying on strict command sequences, developers can now chat naturally with their AI assistant while it dynamically manages persistent markdown artifacts (like spec.md and plan.md) in the background. This update eliminates workflow friction while ensuring your repository remains a version-controlled, single source of truth for your project's architecture and state across different AI tools.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "Conductor 已从 Gemini CLI 扩展演进为可移植插件，为 Antigravity CLI 和 Claude 等生态带来对话式规范驱动开发。开发者可直接用自然语言与 AI 助手交流，助手会在后台动态管理 spec.md、plan.md 等持久化 Markdown 工件。此次更新消除了工作流摩擦，同时确保代码仓库成为跨不同 AI 工具、受版本控制的项目架构与状态的唯一真实来源。",
+        "en": "Conductor has transformed from a Gemini CLI extension into a portable plugin, enabling conversational Spec-Driven Development across tools like Antigravity CLI and Claude. Instead of rigid command sequences, developers chat naturally with the AI, which dynamically manages persistent markdown artifacts such as spec.md and plan.md in the background. This approach reduces workflow friction while keeping the repository as a version-controlled, single source of truth for project architecture and state, consistent across different AI assistants."
+      },
+      "summary": "Conductor 已从 Gemini CLI 扩展演进为可移植插件，为 Antigravity CLI 和 Claude 等生态带来对话式规范驱动开发。开发者可直接用自然语言与 AI 助手交流，助手会在后台动态管理 spec.md、plan.md 等持久化 Markdown 工件。此次更新消除了工作流摩擦，同时确保代码仓库成为跨不同 AI 工具、受版本控制的项目架构与状态的唯一真实来源。"
+    },
+    {
+      "title": "Systems Engineering Playbook: Optimizing Qwen 3.5-397B MoE on Ironwood (TPU7x)",
+      "link": "https://developers.googleblog.com/en/systems-engineering-playbook-optimizing-qwen-35-397b-moe-on-ironwood-tpu7x/",
+      "pubDate": "Mon, 13 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-13T16:00:00.000Z",
+      "content": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executing hardware-aware custom kernels—such as Batched Ragged Page Attention and a fully-fused Gated DeltaNet (GDN) block—they successfully saturated HBM bandwidth and TensorCore MXUs to push system throughput near its theoretical roofline limits.",
+      "contentSnippet": "To serve the 397B-parameter Qwen 3.5 Mixture-of-Experts (MoE) model on Ironwood TPUs, engineers developed a modular JAX/Pallas optimization stack that achieved up to a 4.7x inference speedup for prefill-heavy workloads. The team bypassed severe hardware sharding constraints by deploying a hybrid Data Parallelism and Expert Parallelism (DP+EP) topology, paired with custom low-level communication fusions like a hierarchical reduce-scatter to optimize cross-device token routing. Finally, by executing hardware-aware custom kernels—such as Batched Ragged Page Attention and a fully-fused Gated DeltaNet (GDN) block—they successfully saturated HBM bandwidth and TensorCore MXUs to push system throughput near its theoretical roofline limits.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "为在Ironwood TPU上服务397B参数的Qwen 3.5 MoE模型，工程师构建了基于JAX/Pallas的优化栈，预填充负载推理速度最高提升4.7倍。他们采用数据与专家混合并行方案突破分片限制，并通过分层reduce-scatter等通信融合优化跨设备路由。定制硬件感知内核（如批量非连续页注意力和全融合门控DeltaNet模块）充分利用内存带宽与张量核心，使系统吞吐量逼近理论极限。",
+        "en": "Engineers optimized serving of the 397B-parameter Qwen 3.5 Mixture-of-Experts model on Ironwood TPUs using a modular JAX/Pallas stack, achieving up to a 4.7x speedup in prefill-heavy workloads. They addressed hardware sharding constraints with a hybrid Data and Expert Parallelism topology and custom communication fusions like hierarchical reduce-scatter for efficient cross-device token routing. Hardware-aware custom kernels, including Batched Ragged Page Attention and a fully-fused Gated DeltaNet block, saturated HBM bandwidth and TensorCore MXUs, pushing system throughput near theoretical roofline limits."
+      },
+      "summary": "为在Ironwood TPU上服务397B参数的Qwen 3.5 MoE模型，工程师构建了基于JAX/Pallas的优化栈，预填充负载推理速度最高提升4.7倍。他们采用数据与专家混合并行方案突破分片限制，并通过分层reduce-scatter等通信融合优化跨设备路由。定制硬件感知内核（如批量非连续页注意力和全融合门控DeltaNet模块）充分利用内存带宽与张量核心，使系统吞吐量逼近理论极限。"
+    },
+    {
+      "title": "LiteRT.js, Google's high performance Web AI Inference",
+      "link": "https://developers.googleblog.com/en/litertjs-googles-high-performance-web-ai-inference/",
+      "pubDate": "Wed, 08 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-08T16:00:00.000Z",
+      "content": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.",
+      "contentSnippet": "We're excited to introduce LiteRT.js, the newest member of the LiteRT family! LiteRT.js is our powerful solution for running machine learning models directly in the browser, extending Google's cross-platform edge AI runtime to the web. Built for JavaScript developers, LiteRT.js delivers state-of-the-art ML model inference performance on WebGPU and upcoming WebNN, with a fallback to WebAssembly for CPU. This post provides a quick tour of LiteRT.js and gives web developers everything they need to get started.",
+      "creator": "Google",
+      "summaries": {
+        "zh": "谷歌推出 LiteRT.js，将跨平台边缘 AI 运行时扩展至浏览器，让机器学习模型直接在网页端高效推理。它专为 JavaScript 开发者打造，在 WebGPU 和即将支持的 WebNN 上实现顶尖性能，并可通过 WebAssembly 回退至 CPU 运行。该帖提供快速入门指南，帮助开发者立即上手。",
+        "en": "Google has launched LiteRT.js, a new solution that enables high-performance machine learning model inference directly in web browsers. Designed for JavaScript developers, it extends the LiteRT cross-platform edge AI runtime to the web. LiteRT.js delivers state-of-the-art performance using WebGPU and the upcoming WebNN standard, with a fallback to WebAssembly for CPU execution. This tool provides web developers with a powerful way to run ML models locally, and the announcement offers a guided introduction to get started."
+      },
+      "summary": "谷歌推出 LiteRT.js，将跨平台边缘 AI 运行时扩展至浏览器，让机器学习模型直接在网页端高效推理。它专为 JavaScript 开发者打造，在 WebGPU 和即将支持的 WebNN 上实现顶尖性能，并可通过 WebAssembly 回退至 CPU 运行。该帖提供快速入门指南，帮助开发者立即上手。"
+    },
+    {
+      "title": "Bridging the Domain Gap: AI Race Coach built with Antigravity and Gemini",
+      "link": "https://developers.googleblog.com/en/bridging-the-domain-gap-ai-race-coach-built-with-antigravity-and-gemini/",
+      "pubDate": "Tue, 07 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-07T16:00:00.000Z",
+      "content": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+      "contentSnippet": "On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...",
+      "creator": "Google",
+      "summaries": {
+        "zh": "202",
+        "en": "The provided article content is incomplete, containing only a single, truncated sentence: \"On May 23, 2026, fresh off the stage at Google I/O, our Google Developer Experts (GDEs) converged on...\" There is no further information describing the AI Race Coach, its use of Antigravity and Gemini, or any other details. Therefore, a meaningful summary cannot be generated."
+      },
+      "summary": "202"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:21.024Z"
+}

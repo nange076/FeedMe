@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://deepmind.google/blog/rss.xml",
+  "title": "Google DeepMind News",
+  "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research.",
+  "link": "https://deepmind.google/blog/",
+  "items": [
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "isoDate": "2026-07-30T15:00:59.000Z",
+      "content": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "contentSnippet": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini Robotics ER 2 旨在赋予机器人推理、协作与解决现实任务的能力。该模型在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶段性突破。",
+        "en": "Gemini Robotics ER 2 is an AI system designed to enable robots to reason, collaborate, and tackle real-world tasks. It marks a significant advance in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+      },
+      "summary": "Gemini Robotics ER 2 旨在赋予机器人推理、协作与解决现实任务的能力。该模型在机器人应用的视频理解、工具编排和多机器人协作方面实现了阶段性突破。"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "pubDate": "Wed, 29 Jul 2026 16:02:10 +0000",
+      "isoDate": "2026-07-29T16:02:10.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌在Flow Music平台推出Lyria 3.5，在音乐性、歌词、人声和创作控制方面均有提升。",
+        "en": "The provided article content is empty, so there is no information available to summarize."
+      },
+      "summary": "谷歌在Flow Music平台推出Lyria 3.5，在音乐性、歌词、人声和创作控制方面均有提升。"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "pubDate": "Tue, 28 Jul 2026 13:21:37 +0000",
+      "isoDate": "2026-07-28T13:21:37.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出Gemini Robotics 2，为机器人赋予“全身智能”。该系统拓展了AI在机器人控制中的应用，使其不仅能执行精确手臂操作，还能协调全身动作，适应复杂物理环境。这一进展旨在提升机器人的灵巧性和通用性，推动具身智能发展。",
+        "en": "The article content is not available. Based on its title, “Gemini Robotics 2 brings whole body intelligence to robots,” it likely introduces an advanced robotics system that integrates coordinated, full-body control and intelligence. However, without additional text, specific details cannot be provided."
+      },
+      "summary": "谷歌推出Gemini Robotics 2，为机器人赋予“全身智能”。该系统拓展了AI在机器人控制中的应用，使其不仅能执行精确手臂操作，还能协调全身动作，适应复杂物理环境。这一进展旨在提升机器人的灵巧性和通用性，推动具身智能发展。"
+    },
+    {
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "link": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+      "pubDate": "Wed, 22 Jul 2026 13:38:54 +0000",
+      "isoDate": "2026-07-22T13:38:54.000Z",
+      "content": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "contentSnippet": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌宣布为“Genesis Mission”提供价值4000万美元的AI代金券和云服务额度，旨在加速科学发现的前沿探索。该承诺将资助研究人员利用人工智能技术应对重大科学挑战，推动跨学科创新。",
+        "en": "Google is committing $40 million in artificial intelligence tokens and credits to the Genesis Mission, an initiative described as accelerating the frontiers of scientific discovery. The funding will support research by providing computational resources aimed at advancing scientific work."
+      },
+      "summary": "谷歌宣布为“Genesis Mission”提供价值4000万美元的AI代金券和云服务额度，旨在加速科学发现的前沿探索。该承诺将资助研究人员利用人工智能技术应对重大科学挑战，推动跨学科创新。"
+    },
+    {
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "pubDate": "Tue, 21 Jul 2026 15:16:30 +0000",
+      "isoDate": "2026-07-21T15:16:30.000Z",
+      "content": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "contentSnippet": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌发布了三款全新 Gemini 模型，分别是 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。",
+        "en": "Google has announced new Gemini models: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber. No additional details about their capabilities, differences, or release specifics were provided in the accompanying statement."
+      },
+      "summary": "谷歌发布了三款全新 Gemini 模型，分别是 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。"
+    },
+    {
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "pubDate": "Fri, 17 Jul 2026 15:00:11 +0000",
+      "isoDate": "2026-07-17T15:00:11.000Z",
+      "content": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "contentSnippet": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出轻量级网络安全模型Gemini 3.5 Flash Cyber，旨在帮助用户发现并修补系统漏洞。该模型专注于提升安全防护效率，可快速识别潜在威胁并提供修复方案。这是谷歌在AI安全领域的新尝试，有望简化企业及个人用户的漏洞管理流程。",
+        "en": "Google has announced Gemini 3.5 Flash Cyber, a lightweight artificial intelligence model built specifically for cybersecurity. The model is designed to automatically discover and remediate software vulnerabilities."
+      },
+      "summary": "谷歌推出轻量级网络安全模型Gemini 3.5 Flash Cyber，旨在帮助用户发现并修补系统漏洞。该模型专注于提升安全防护效率，可快速识别潜在威胁并提供修复方案。这是谷歌在AI安全领域的新尝试，有望简化企业及个人用户的漏洞管理流程。"
+    },
+    {
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "pubDate": "Thu, 16 Jul 2026 09:30:42 +0000",
+      "isoDate": "2026-07-16T09:30:42.000Z",
+      "content": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "contentSnippet": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与Isomorphic Labs联合公布了他们在生物韧性与人工智能模型方面的研究方法。内容仅提及双方正共同探索利用AI增强生物系统韧性的路径，但未披露具体技术细节或应用方向。",
+        "en": "Google DeepMind and Isomorphic Labs have announced a joint approach focused on bioresilience and AI models. The brief statement provides no details on the specific methods, goals, or applications of this initiative."
+      },
+      "summary": "谷歌DeepMind与Isomorphic Labs联合公布了他们在生物韧性与人工智能模型方面的研究方法。内容仅提及双方正共同探索利用AI增强生物系统韧性的路径，但未披露具体技术细节或应用方向。"
+    },
+    {
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "pubDate": "Mon, 13 Jul 2026 12:37:28 +0000",
+      "isoDate": "2026-07-13T12:37:28.000Z",
+      "content": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "contentSnippet": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌与印度阿塔尔创新使命（AIM）联合推出了一款名为“ATL Saathi”的AI工具。该工具由谷歌的Gemini大模型驱动，旨在赋能印度教育工作者，帮助他们在阿塔尔创新实验室的机器人教学中更有效地指导学生，以培养下一代创新人才。",
+        "en": "Google and India’s Atal Innovation Mission (AIM) have introduced ATL Saathi, an AI-powered assistant built on Google’s Gemini model. The tool is designed to support educators working in Atal Tinkering Labs, helping them guide students in robotics and hands-on innovation."
+      },
+      "summary": "谷歌与印度阿塔尔创新使命（AIM）联合推出了一款名为“ATL Saathi”的AI工具。该工具由谷歌的Gemini大模型驱动，旨在赋能印度教育工作者，帮助他们在阿塔尔创新实验室的机器人教学中更有效地指导学生，以培养下一代创新人才。"
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "pubDate": "Fri, 03 Jul 2026 14:25:43 +0000",
+      "isoDate": "2026-07-03T14:25:43.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与独立电影公司A24宣布建立一项首创性研究合作伙伴关系。",
+        "en": "No article content was provided, so a summary cannot be generated. The title mentions a research partnership between Google DeepMind and A24, but no further details are available."
+      },
+      "summary": "谷歌DeepMind与独立电影公司A24宣布建立一项首创性研究合作伙伴关系。"
+    },
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "pubDate": "Tue, 30 Jun 2026 16:02:40 +0000",
+      "isoDate": "2026-06-30T16:02:40.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容缺失，无法生成摘要。请提供文章正文。",
+        "en": "The provided article content is empty. There is no information available to summarize."
+      },
+      "summary": "文章内容缺失，无法生成摘要。请提供文章正文。"
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "pubDate": "Wed, 24 Jun 2026 16:30:01 +0000",
+      "isoDate": "2026-06-24T16:30:01.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "由于提供的文章内容为空，无法获取原文信息，因此无法生成摘要。",
+        "en": "The provided article content is empty. No information is available to summarize."
+      },
+      "summary": "由于提供的文章内容为空，无法获取原文信息，因此无法生成摘要。"
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "pubDate": "Tue, 16 Jun 2026 21:29:50 +0000",
+      "isoDate": "2026-06-16T21:29:50.000Z",
+      "content": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "contentSnippet": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+      "creator": "",
+      "summaries": {
+        "zh": "英国政府与谷歌旗下DeepMind合作，将开发一款人工智能驱动的规划工具原型。该项目旨在利用AI技术加速住房项目的审批决策流程，以推动英国住房建设提速。",
+        "en": "The UK government has partnered with Google DeepMind to develop an AI-powered prototype intended to accelerate housing planning decisions, with the goal of unlocking faster house-building."
+      },
+      "summary": "英国政府与谷歌旗下DeepMind合作，将开发一款人工智能驱动的规划工具原型。该项目旨在利用AI技术加速住房项目的审批决策流程，以推动英国住房建设提速。"
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "link": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "pubDate": "Tue, 16 Jun 2026 15:46:31 +0000",
+      "isoDate": "2026-06-16T15:46:31.000Z",
+      "content": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "contentSnippet": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+      "creator": "",
+      "summaries": {
+        "zh": "文章探讨通过AI控制路线图来保障AI智能体的未来安全。该路线图旨在保护内部系统，核心策略是融合传统安全防护措施与实时监控技术，以应对潜在风险。",
+        "en": "The article outlines a strategy for securing internal systems against risks from AI agents by implementing an AI Control Roadmap. This approach integrates conventional security safeguards with real-time monitoring to manage and mitigate potential threats. The method aims to ensure AI agents operate safely within organizational environments while maintaining oversight and control."
+      },
+      "summary": "文章探讨通过AI控制路线图来保障AI智能体的未来安全。该路线图旨在保护内部系统，核心策略是融合传统安全防护措施与实时监控技术，以应对潜在风险。"
+    },
+    {
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "pubDate": "Wed, 10 Jun 2026 16:24:11 +0000",
+      "isoDate": "2026-06-10T16:24:11.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容为空，无法提供摘要。",
+        "en": "The provided article content is empty, so no summary can be generated."
+      },
+      "summary": "文章内容为空，无法提供摘要。"
+    },
+    {
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "pubDate": "Wed, 10 Jun 2026 10:21:19 +0000",
+      "isoDate": "2026-06-10T10:21:19.000Z",
+      "content": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "contentSnippet": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与合作伙伴宣布了一项1000万美元的资助计划，用于多智能体AI安全研究。该资助旨在推动针对多个AI系统交互时的安全性研究，以应对可能出现的复杂风险。此举体现了对前沿AI安全问题的持续投入。",
+        "en": "Google DeepMind and its partners have announced a $10 million funding call dedicated to research on multi-agent AI safety. The initiative aims to support studies addressing the unique risks and challenges that arise when multiple artificial intelligence systems interact with each other."
+      },
+      "summary": "谷歌DeepMind与合作伙伴宣布了一项1000万美元的资助计划，用于多智能体AI安全研究。该资助旨在推动针对多个AI系统交互时的安全性研究，以应对可能出现的复杂风险。此举体现了对前沿AI安全问题的持续投入。"
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "pubDate": "Tue, 09 Jun 2026 15:16:25 +0000",
+      "isoDate": "2026-06-09T15:16:25.000Z",
+      "content": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "contentSnippet": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+      "creator": "",
+      "summaries": {
+        "zh": "Gemini 3.5 Live Translate 实现了近乎实时的自然语音翻译，现已集成至 Google AI Studio、Google 翻译和 Google Meet 中。该功能可提供流畅、贴近真人表达的多语言语音转换，旨在提升沟通效率与自然度。",
+        "en": "Gemini 3.5 Live Translate delivers near real-time, natural-sounding speech translation. This feature is being integrated into Google AI Studio, Google Translate, and Google Meet to enable fluid voice communication across languages."
+      },
+      "summary": "Gemini 3.5 Live Translate 实现了近乎实时的自然语音翻译，现已集成至 Google AI Studio、Google 翻译和 Google Meet 中。该功能可提供流畅、贴近真人表达的多语言语音转换，旨在提升沟通效率与自然度。"
+    },
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "pubDate": "Tue, 09 Jun 2026 14:10:19 +0000",
+      "isoDate": "2026-06-09T14:10:19.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "本文内容为空，无法生成摘要。",
+        "en": "The provided article content is empty, so no summary can be generated."
+      },
+      "summary": "本文内容为空，无法生成摘要。"
+    },
+    {
+      "title": "Powering the future of robotics in Europe",
+      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+      "pubDate": "Tue, 09 Jun 2026 14:02:33 +0000",
+      "isoDate": "2026-06-09T14:02:33.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容为空，无法提取关键信息，因此无法生成摘要。",
+        "en": "The article content is empty, so no summary can be provided."
+      },
+      "summary": "文章内容为空，无法提取关键信息，因此无法生成摘要。"
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "pubDate": "Mon, 08 Jun 2026 13:04:59 +0000",
+      "isoDate": "2026-06-08T13:04:59.000Z",
+      "content": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "contentSnippet": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "A randomized controlled trial in Sierra Leone evaluated Gemini’s Guided Learning feature, an AI-powered educational tool. The findings indicate that the feature has strong potential to increase student engagement and accelerate the pace of learning. While the study focused on Sierra Leone, the results suggest broader applications for AI-assisted learning in other regions."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "pubDate": "Thu, 21 May 2026 19:46:42 +0000",
+      "isoDate": "2026-05-21T19:46:42.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Google DeepMind is launching an accelerator program in the Asia Pacific region focused on tackling environmental risks. No further details were provided in the article content."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "pubDate": "Mon, 18 May 2026 18:21:39 +0000",
+      "isoDate": "2026-05-18T18:21:39.000Z",
+      "content": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "contentSnippet": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Biologists employed an AI system called Co-Scientist to rapidly identify previously unknown genetic factors capable of reversing cellular aging. The approach fast-tracked the discovery of these novel leads, which successfully rejuvenated human cells in experiments, offering a promising accelerated path toward anti-aging therapies."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "pubDate": "Sun, 17 May 2026 19:53:18 +0000",
+      "isoDate": "2026-05-17T19:53:18.000Z",
+      "content": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "contentSnippet": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌正面向全球扩展Google AI Ultra订阅服务，并推出由街景支持的新功能。该功能结合Project Genie，可模拟真实世界的地点。",
+        "en": "Google is expanding access to Project Genie for Google AI Ultra subscribers worldwide. The update introduces a new, Street View-powered capability that simulates real-world locations."
+      },
+      "summary": "谷歌正面向全球扩展Google AI Ultra订阅服务，并推出由街景支持的新功能。该功能结合Project Genie，可模拟真实世界的地点。"
+    },
+    {
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "pubDate": "Sun, 17 May 2026 19:50:57 +0000",
+      "isoDate": "2026-05-17T19:50:57.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "由于未提供文章内容，无法提取任何关键信息，因此无法生成摘要。",
+        "en": "The provided article content is empty, and no information is available to summarize."
+      },
+      "summary": "由于未提供文章内容，无法提取任何关键信息，因此无法生成摘要。"
+    },
+    {
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "pubDate": "Sun, 17 May 2026 19:43:45 +0000",
+      "isoDate": "2026-05-17T19:43:45.000Z",
+      "content": "",
+      "contentSnippet": "",
+      "creator": "",
+      "summaries": {
+        "zh": "文章内容为空，无法生成摘要。",
+        "en": "The article content is missing, so a summary cannot be provided. No information is available beyond the title \"Introducing Google Antigravity 2.0.\""
+      },
+      "summary": "文章内容为空，无法生成摘要。"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "pubDate": "Sun, 17 May 2026 13:50:34 +0000",
+      "isoDate": "2026-05-17T13:50:34.000Z",
+      "content": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "contentSnippet": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌推出“Gemini for Science”项目，汇集一系列科学工具与实验，旨在扩大科学探索的规模与精度，助力开启科学发现的新纪元。",
+        "en": "Google's \"Gemini for Science\" initiative provides a suite of AI-powered tools and experiments aimed at advancing scientific research. The collection is designed to increase both the scale and precision of exploration, enabling more efficient and accurate discovery workflows."
+      },
+      "summary": "谷歌推出“Gemini for Science”项目，汇集一系列科学工具与实验，旨在扩大科学探索的规模与精度，助力开启科学发现的新纪元。"
+    },
+    {
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "pubDate": "Sun, 17 May 2026 13:43:50 +0000",
+      "isoDate": "2026-05-17T13:43:50.000Z",
+      "content": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "contentSnippet": "We're expanding our tools to help you understand how content was created and edited across the web.",
+      "creator": "",
+      "summaries": {
+        "zh": "我们正在扩展相关工具，帮助用户更清晰地了解网络内容的创建和编辑过程。此举旨在提升信息透明度，让用户能更方便地追溯和确认内容的来源与修改情况。",
+        "en": "The company is broadening its tools to provide greater transparency into how web content is created and edited. This expansion aims to help users more easily understand the origins and revision history of online information."
+      },
+      "summary": "我们正在扩展相关工具，帮助用户更清晰地了解网络内容的创建和编辑过程。此举旨在提升信息透明度，让用户能更方便地追溯和确认内容的来源与修改情况。"
+    },
+    {
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "pubDate": "Sat, 16 May 2026 09:13:34 +0000",
+      "isoDate": "2026-05-16T09:13:34.000Z",
+      "content": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "contentSnippet": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌DeepMind与新加坡建立新的国家级合作伙伴关系，旨在运用前沿人工智能技术应对医疗、教育、可持续发展等领域的复杂挑战，以此强化新加坡的AI未来布局。",
+        "en": "Google DeepMind and Singapore have launched a new national partnership to apply frontier artificial intelligence to complex challenges. The collaboration will focus on key sectors including health, education and sustainability, aiming to drive progress through advanced AI solutions."
+      },
+      "summary": "谷歌DeepMind与新加坡建立新的国家级合作伙伴关系，旨在运用前沿人工智能技术应对医疗、教育、可持续发展等领域的复杂挑战，以此强化新加坡的AI未来布局。"
+    },
+    {
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "pubDate": "Sat, 16 May 2026 08:16:06 +0000",
+      "isoDate": "2026-05-16T08:16:06.000Z",
+      "content": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "contentSnippet": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Clare Bryant is employing a system called Co-Scientist to uncover the genetic triggers, or molecular switches, that drive emerging infectious diseases. This work aims to identify the underlying mechanisms that activate new pathogens."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "pubDate": "Sat, 16 May 2026 08:08:44 +0000",
+      "isoDate": "2026-05-16T08:08:44.000Z",
+      "content": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "contentSnippet": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research.",
+      "creator": "",
+      "summaries": {
+        "zh": "Calico生命科学公司正借助名为“Co-Scientist”的AI系统，整合零散的研究发现，为衰老研究开辟新路径。该系统能连接分散的科研成果，并生成新的研究线索与潜在突破方向。",
+        "en": "Calico Life Sciences is utilizing a tool called Co-Scientist to synthesize fragmented research findings and generate new directions for investigating aging."
+      },
+      "summary": "Calico生命科学公司正借助名为“Co-Scientist”的AI系统，整合零散的研究发现，为衰老研究开辟新路径。该系统能连接分散的科研成果，并生成新的研究线索与潜在突破方向。"
+    },
+    {
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "pubDate": "Sat, 16 May 2026 08:00:15 +0000",
+      "isoDate": "2026-05-16T08:00:15.000Z",
+      "content": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "contentSnippet": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Filippo Menolascina is employing an AI tool called Co-Scientist to speed up the study of liver disease mechanisms. The research aims to identify new treatment options and uncover why existing drugs are effective only for specific patient groups. This approach could lead to more targeted therapies by revealing the underlying biological factors that determine drug response."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:23.530Z"
+}

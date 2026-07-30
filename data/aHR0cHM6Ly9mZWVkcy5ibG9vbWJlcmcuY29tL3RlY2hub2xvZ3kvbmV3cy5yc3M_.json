@@ -1,0 +1,289 @@
+{
+  "sourceUrl": "https://feeds.bloomberg.com/technology/news.rss",
+  "title": "Bloomberg Technology",
+  "description": "Bloomberg Technology",
+  "link": "http://bloomberg.com/technology/",
+  "items": [
+    {
+      "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurt-sales-forecast",
+      "pubDate": "Thu, 30 Jul 2026 23:34:07 GMT",
+      "isoDate": "2026-07-30T23:34:07.000Z",
+      "content": "Apple tumbled in late trading after component shortages weighed on the company’s sales forecast. Ed Ludlow breaks down the company's Q2 earnings. (Source: Bloomberg)",
+      "contentSnippet": "Apple tumbled in late trading after component shortages weighed on the company’s sales forecast. Ed Ludlow breaks down the company's Q2 earnings. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果公司因零部件短缺影响销售预期，股价在盘后交易中下跌。公司同时公布了第二季度财报，供应链紧张对业绩造成压力。",
+        "en": "Apple shares dropped in after-hours trading after the company warned that component shortages would impact its sales forecast. The decline followed the release of its second-quarter earnings."
+      },
+      "summary": "苹果公司因零部件短缺影响销售预期，股价在盘后交易中下跌。公司同时公布了第二季度财报，供应链紧张对业绩造成压力。"
+    },
+    {
+      "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+      "pubDate": "Thu, 30 Jul 2026 20:40:42 GMT",
+      "isoDate": "2026-07-30T20:40:42.000Z",
+      "content": "Apple Inc. tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "contentSnippet": "Apple Inc. tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated.",
+      "creator": "Mark Gurman",
+      "summaries": {
+        "zh": "苹果公司上季度在中国市场及服务业务的营收增长均低于分析师预期，引发了对这两个关键领域的担忧。作为iPhone制造商，这两大市场对其整体表现至关重要，增速放缓可能影响未来业绩。",
+        "en": "Apple's sales in China and its services division grew more slowly than analysts expected last quarter, raising concerns about two vital markets for the company."
+      },
+      "summary": "苹果公司上季度在中国市场及服务业务的营收增长均低于分析师预期，引发了对这两个关键领域的担忧。作为iPhone制造商，这两大市场对其整体表现至关重要，增速放缓可能影响未来业绩。"
+    },
+    {
+      "title": "Anthropic’s AI Models Hacked Three Organizations During Tests",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/anthropic-s-ai-models-hacked-three-organizations-during-tests",
+      "pubDate": "Thu, 30 Jul 2026 23:00:26 GMT",
+      "isoDate": "2026-07-30T23:00:26.000Z",
+      "content": "Anthropic PBC announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
+      "contentSnippet": "Anthropic PBC announced that its artificial intelligence models had breached three different organizations during cybersecurity tests that went awry, a little more than a week after its chief rival, OpenAI, disclosed a similar incident.",
+      "creator": "Patrick Howell O'Neill and Shirin Ghaffary",
+      "summaries": {
+        "zh": "Anthropic公司的人工智能模型在一次网络安全测试中意外攻破了三个不同组织。此事发生在其主要竞争对手OpenAI披露类似事件仅一周多之后。",
+        "en": "Anthropic revealed that its AI models breached three organizations during a cybersecurity test that went awry. The disclosure comes just over a week after rival OpenAI reported a similar incident in which its own models unexpectedly hacked targets during testing."
+      },
+      "summary": "Anthropic公司的人工智能模型在一次网络安全测试中意外攻破了三个不同组织。此事发生在其主要竞争对手OpenAI披露类似事件仅一周多之后。"
+    },
+    {
+      "title": "OpenAI and Anthropic staffers sign call for US to pace AI development",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-07-30/openai-and-anthropic-staffers-sign-call-for-us-to-pace-ai-development",
+      "pubDate": "Thu, 30 Jul 2026 22:43:22 GMT",
+      "isoDate": "2026-07-30T22:43:22.000Z",
+      "content": "They’re calling on the US government to help pace their tech’s development.",
+      "contentSnippet": "They’re calling on the US government to help pace their tech’s development.",
+      "creator": "Shirin Ghaffary",
+      "summaries": {
+        "zh": "OpenAI与Anthropic的员工集体签署倡议，呼吁美国政府介入并调控人工智能技术的发展节奏。他们希望政府采取措施，协助业界合理控制研发进度，以确保技术发展更为安全有序。",
+        "en": "Employees from OpenAI and Anthropic have signed a call urging the U.S. government to help regulate the pace of artificial intelligence development. The statement asks for government involvement to ensure the technology advances at a controlled speed."
+      },
+      "summary": "OpenAI与Anthropic的员工集体签署倡议，呼吁美国政府介入并调控人工智能技术的发展节奏。他们希望政府采取措施，协助业界合理控制研发进度，以确保技术发展更为安全有序。"
+    },
+    {
+      "title": "Spencer Stuart’s Citrin on Apple’s CEO Succession Plan",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/spencer-stuart-s-citrin-on-apple-s-ceo-succession-plan-video",
+      "pubDate": "Thu, 30 Jul 2026 22:29:56 GMT",
+      "isoDate": "2026-07-30T22:29:56.000Z",
+      "content": "Jim Citrin, Chair, Global CEO Practice at Spencer Stuart, discusses the upcoming CEO transition at Apple as Tim Cook prepares to step down on September 1, with John Turner set to take over. Citrin emphasizes the critical importance and difficulty of CEO succession, especially at a company like Apple known for its excellence. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Jim Citrin, Chair, Global CEO Practice at Spencer Stuart, discusses the upcoming CEO transition at Apple as Tim Cook prepares to step down on September 1, with John Turner set to take over. Citrin emphasizes the critical importance and difficulty of CEO succession, especially at a company like Apple known for its excellence. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "IDC’s Popal on Apple’s Earnings, Smartphone Competitors",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/idc-s-popal-on-apple-s-earnings-smartphone-competitors-video",
+      "pubDate": "Thu, 30 Jul 2026 22:23:05 GMT",
+      "isoDate": "2026-07-30T22:23:05.000Z",
+      "content": "Nabila Popal, Senior Director of Data & Analytics at IDC, discusses the current state of the global smartphone market, highlighting a 7% decline in shipments in the second quarter due to extended upgrade cycles and a memory crisis impacting supply chains. Despite these headwinds, Apple has demonstrated remarkable resilience, achieving double-digit year-on-year shipment growth of 15% and strong iPhone revenue performance. She speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Nabila Popal, Senior Director of Data & Analytics at IDC, discusses the current state of the global smartphone market, highlighting a 7% decline in shipments in the second quarter due to extended upgrade cycles and a memory crisis impacting supply chains. Despite these headwinds, Apple has demonstrated remarkable resilience, achieving double-digit year-on-year shipment growth of 15% and strong iPhone revenue performance. She speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "IDC高级总监Nabila Popal指出，全球智能手机市场第二季度出货量因换机周期延长和存储危机冲击供应链而下滑7%。尽管面临逆风，苹果表现出强劲韧性，出货量同比增长15%，iPhone收入表现亮眼。她是在彭博社《The Close》节目中就苹果财报及市场竞争格局作出上述分析的。",
+        "en": "IDC's Nabila Popal reported a 7% year-over-year decline in global smartphone shipments for the second quarter, driven by longer upgrade cycles and a memory crisis disrupting supply chains. In contrast, Apple showed strong resilience, posting a 15% jump in shipments and robust iPhone revenue. She shared these insights on Bloomberg's \"The Close.\""
+      },
+      "summary": "IDC高级总监Nabila Popal指出，全球智能手机市场第二季度出货量因换机周期延长和存储危机冲击供应链而下滑7%。尽管面临逆风，苹果表现出强劲韧性，出货量同比增长15%，iPhone收入表现亮眼。她是在彭博社《The Close》节目中就苹果财报及市场竞争格局作出上述分析的。"
+    },
+    {
+      "title": "Amazon Gains After Fifth Straight Quarter of Cloud Sales Growth",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+      "pubDate": "Thu, 30 Jul 2026 20:16:21 GMT",
+      "isoDate": "2026-07-30T20:16:21.000Z",
+      "content": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
+      "contentSnippet": "Amazon.com Inc. shares jumped after the company reported cloud-computing revenue accelerated for a fifth straight quarter, easing investors’ concerns that it won’t produce a return on huge expenditures to meet the booming demand for artificial intelligence.",
+      "creator": "Spencer Soper",
+      "summaries": {
+        "zh": "亚马逊云计算业务营收超出分析师预期，得益于人工智能服务的旺盛需求，已连续第五个季度实现销售加速增长。",
+        "en": "Amazon's cloud-computing revenue surpassed analyst expectations, marking its fifth consecutive quarter of accelerating growth. The increase was driven by strong demand for artificial intelligence services."
+      },
+      "summary": "亚马逊云计算业务营收超出分析师预期，得益于人工智能服务的旺盛需求，已连续第五个季度实现销售加速增长。"
+    },
+    {
+      "title": "Apple Slides After Supply Shortages Hurts Sales Forecast",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/apple-slides-after-supply-shortages-hurts-sales-forecast-video",
+      "pubDate": "Thu, 30 Jul 2026 22:20:37 GMT",
+      "isoDate": "2026-07-30T22:20:37.000Z",
+      "content": "Apple stocks tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated. It also gave a forecast that is weaker than expected, further hurting the stock in the after market. Bloomberg News Managing Editor for Global Consumer Tech Mark Gurman reacts to the mixed earnings report. Bloomberg.com and Terminal subscribers can send in their questions for Carol Massar and Tim Stenovec to ask guests live on-air. Just go to Bloomberg.com/askradio  (Source: Bloomberg)",
+      "contentSnippet": "Apple stocks tumbled in late trading after component shortages weighed on the company’s sales forecast, signaling that industrywide supply constraints are taking a bigger toll than anticipated. It also gave a forecast that is weaker than expected, further hurting the stock in the after market. Bloomberg News Managing Editor for Global Consumer Tech Mark Gurman reacts to the mixed earnings report. Bloomberg.com and Terminal subscribers can send in their questions for Carol Massar and Tim Stenovec to ask guests live on-air. Just go to Bloomberg.com/askradio  (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果公司股价盘后下跌，原因是零部件短缺拖累了销售预期，表明全行业供应紧张的影响超出预期。该公司给出的业绩展望弱于市场预估，进一步加剧了股价下行压力。彭博社对此份喜忧参半的财报进行了报道与分析。",
+        "en": "Apple shares declined in late trading after the company issued a weaker-than-expected sales forecast, citing component shortages. The shortfall signals that industrywide supply constraints are having a larger impact than anticipated."
+      },
+      "summary": "苹果公司股价盘后下跌，原因是零部件短缺拖累了销售预期，表明全行业供应紧张的影响超出预期。该公司给出的业绩展望弱于市场预估，进一步加剧了股价下行压力。彭博社对此份喜忧参半的财报进行了报道与分析。"
+    },
+    {
+      "title": "XPO CEO on 2nd Quarter Earnings Beat, Roadmap Ahead",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/xpo-ceo-on-2nd-quarter-earnings-beat-roadmap-ahead-video",
+      "pubDate": "Thu, 30 Jul 2026 22:16:00 GMT",
+      "isoDate": "2026-07-30T22:16:00.000Z",
+      "content": "XPO CEO Mario Harik discusses the company's impressive second-quarter performance, noting a 300 basis point improvement in operating margins, reaching over 20% for the first time in XPO's history. This margin expansion was driven by accelerating demand, volume growth, pricing improvements, and operational efficiencies. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "XPO CEO Mario Harik discusses the company's impressive second-quarter performance, noting a 300 basis point improvement in operating margins, reaching over 20% for the first time in XPO's history. This margin expansion was driven by accelerating demand, volume growth, pricing improvements, and operational efficiencies. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "XPO物流首席执行官马里奥·哈里克在彭博电视节目中表示，公司第二季度业绩超预期，运营利润率同比提升300个基点，首次突破20%。这一改善得益于需求加速、业务量增长、定价优化及运营效率提升。他还就公司未来发展路线图发表了看法。",
+        "en": "XPO CEO Mario Harik reported a record second quarter, with operating margins improving by 300 basis points to over 20% for the first time in the company's history. He attributed the margin expansion to accelerating demand, volume growth, better pricing, and operational efficiencies. Harik discussed the earnings beat and the company's outlook during an interview on Bloomberg's \"The Close.\""
+      },
+      "summary": "XPO物流首席执行官马里奥·哈里克在彭博电视节目中表示，公司第二季度业绩超预期，运营利润率同比提升300个基点，首次突破20%。这一改善得益于需求加速、业务量增长、定价优化及运营效率提升。他还就公司未来发展路线图发表了看法。"
+    },
+    {
+      "title": "Amazon Gains in Postmarket After Earnings Report",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/amazon-gains-in-postmarket-after-earnings-report-video",
+      "pubDate": "Thu, 30 Jul 2026 22:12:22 GMT",
+      "isoDate": "2026-07-30T22:12:22.000Z",
+      "content": "Amazon 2Q earnings beat Wall Street estimates Tuesday, sending stocks climbing in after hours trading. The company reporter its 5th straight quarter of cloud share growth, the 37% increase being the fastest for Amazon since the end of 2021. Bloomberg Intelligence Senior Analyst for E-Commerce Poonam Goyal, and Bloomberg Intelligence Senior Technology Analyst Anurag Rana break down the earnings numbers as they roll in. (Source: Bloomberg)",
+      "contentSnippet": "Amazon 2Q earnings beat Wall Street estimates Tuesday, sending stocks climbing in after hours trading. The company reporter its 5th straight quarter of cloud share growth, the 37% increase being the fastest for Amazon since the end of 2021. Bloomberg Intelligence Senior Analyst for E-Commerce Poonam Goyal, and Bloomberg Intelligence Senior Technology Analyst Anurag Rana break down the earnings numbers as they roll in. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "亚马逊第二季度财报超出华尔街预期，盘后股价上涨。公司已连续第五个季度实现云业务份额增长，37%的增幅为2021年底以来最快。彭博行业研究分析师正对最新业绩数据进行解读。",
+        "en": "Amazon's second-quarter earnings exceeded Wall Street expectations, leading to a rise in its stock price during after-hours trading. The company recorded its fifth consecutive quarter of cloud growth, with the segment's 37% increase marking its fastest pace since late 2021. Analysts from Bloomberg Intelligence discussed the results as they were released."
+      },
+      "summary": "亚马逊第二季度财报超出华尔街预期，盘后股价上涨。公司已连续第五个季度实现云业务份额增长，37%的增幅为2021年底以来最快。彭博行业研究分析师正对最新业绩数据进行解读。"
+    },
+    {
+      "title": "Marathon Asset Management on Hyperscalers’ Credit Risks",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/marathon-asset-management-on-hyperscalers-credit-risks-video",
+      "pubDate": "Thu, 30 Jul 2026 22:10:17 GMT",
+      "isoDate": "2026-07-30T22:10:17.000Z",
+      "content": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives on market dynamics and financing conditions. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Bruce Richards, Managing Partner and Head of CVC Marathon discusses the current state of credit markets and the cost of capital. With $80 billion in assets under management and extensive Wall Street experience, Richards provided valuable perspectives on market dynamics and financing conditions. He speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Bruce Richards, Managing Partner and Head of CVC"
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "CoreWeave’s Wild Stock Ride Takes Toll on Its Cost to Finance AI",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/coreweave-s-wild-stock-ride-takes-toll-on-its-cost-to-finance-ai",
+      "pubDate": "Thu, 30 Jul 2026 22:09:28 GMT",
+      "isoDate": "2026-07-30T22:09:28.000Z",
+      "content": "CoreWeave Inc. is no stranger to shaking off wild stock-market swings like those of the past few days, when its shares plunged to their lowest level in 14 months only to then stage their sharpest rally of the year.",
+      "contentSnippet": "CoreWeave Inc. is no stranger to shaking off wild stock-market swings like those of the past few days, when its shares plunged to their lowest level in 14 months only to then stage their sharpest rally of the year.",
+      "creator": "Paula Seligson",
+      "summaries": {
+        "zh": "CoreWeave股价近日剧烈震荡，一度跌至14个月低点，随后又创下年内最大单日涨幅。这种大幅波动并非首次，但已明显推高其发展AI业务的融资成本，给公司资金链带来压力。",
+        "en": "CoreWeave’s stock recently plunged to a 14-month low before staging its sharpest rally of the year, reflecting extreme volatility the company has become accustomed to managing. The title indicates this wild ride is hurting its cost of financing AI operations, though the brief article content does not elaborate on the financial impact. The summary captures the stock swings and hints at the toll on AI financing costs."
+      },
+      "summary": "CoreWeave股价近日剧烈震荡，一度跌至14个月低点，随后又创下年内最大单日涨幅。这种大幅波动并非首次，但已明显推高其发展AI业务的融资成本，给公司资金链带来压力。"
+    },
+    {
+      "title": "Reformation CEO on IPO, Roadmap for the Future",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/reformation-ceo-on-ipo-roadmap-for-the-future-video",
+      "pubDate": "Thu, 30 Jul 2026 22:08:28 GMT",
+      "isoDate": "2026-07-30T22:08:28.000Z",
+      "content": "Reformation CEO Hali Borenstein discusses the company’s IPO, which raised $211 million. She highlighted Reformation’s consistent double-digit revenue growth over 20 consecutive quarters and emphasized the company’s commitment to redefining retail and modernizing fashion branding. She speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Reformation CEO Hali Borenstein discusses the company’s IPO, which raised $211 million. She highlighted Reformation’s consistent double-digit revenue growth over 20 consecutive quarters and emphasized the company’s commitment to redefining retail and modernizing fashion branding. She speaks with Romaine Bostick & Emily Graffeo on \"The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Reformation公司CEO哈莉·博伦斯坦在IPO中募资2.11亿美元，并表示公司已连续20个季度实现两位数营收增长。她强调，Reformation致力于重塑零售业并推动时尚品牌现代化。该言论发表于彭博节目《The Close》。",
+        "en": "Reformation CEO Hali Borenstein discussed the company's initial public offering, which raised $211 million. She noted the brand has achieved double-digit revenue growth for 20 consecutive quarters. Borenstein also emphasized Reformation's focus on redefining retail and modernizing fashion branding. Her remarks came during an interview on Bloomberg's \"The Close.\""
+      },
+      "summary": "Reformation公司CEO哈莉·博伦斯坦在IPO中募资2.11亿美元，并表示公司已连续20个季度实现两位数营收增长。她强调，Reformation致力于重塑零售业并推动时尚品牌现代化。该言论发表于彭博节目《The Close》。"
+    },
+    {
+      "title": "Amazon's AWS Result Is 'Remarkable,' Analyst Luria Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/amazon-s-aws-result-is-remarkable-analyst-luria-says-video",
+      "pubDate": "Thu, 30 Jul 2026 22:06:00 GMT",
+      "isoDate": "2026-07-30T22:06:00.000Z",
+      "content": "Gil Luria, D.A. Davidson's head of technology research, reacts to Amazon Web Services' revenue growth and discusses the outlook for Amazon.com Inc. on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Gil Luria, D.A. Davidson's head of technology research, reacts to Amazon Web Services' revenue growth and discusses the outlook for Amazon.com Inc. on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "D.A. Davidson 技术研究主管吉尔·卢里亚在彭博电视节目中表示，亚马逊云服务（AWS）的营收增长表现“引人注目”，并就此讨论了亚马逊公司的前景。",
+        "en": "D.A. Davidson analyst Gil Luria described Amazon Web Services' revenue growth as \"remarkable\" during an appearance on \"Bloomberg The Close.\" He also provided his outlook for Amazon.com Inc."
+      },
+      "summary": "D.A. Davidson 技术研究主管吉尔·卢里亚在彭博电视节目中表示，亚马逊云服务（AWS）的营收增长表现“引人注目”，并就此讨论了亚马逊公司的前景。"
+    },
+    {
+      "title": "Amazon Got $600 Million Tariff Refund, Some for Shoppers",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-got-a-600-million-tariff-refund-some-going-to-shoppers",
+      "pubDate": "Thu, 30 Jul 2026 21:44:35 GMT",
+      "isoDate": "2026-07-30T21:44:35.000Z",
+      "content": "Amazon.com Inc. says it received about $600 million in tariff refunds during the second quarter and pledged to automatically issue reimbursements to consumers under a “limited set of circumstances.”",
+      "contentSnippet": "Amazon.com Inc. says it received about $600 million in tariff refunds during the second quarter and pledged to automatically issue reimbursements to consumers under a “limited set of circumstances.”",
+      "creator": "Matt Day",
+      "summaries": {
+        "zh": "亚马逊表示，第二季度收到约6亿美元关税退款，并承诺将在有限情形下，自动向消费者退还相应款项。",
+        "en": "Amazon reported receiving approximately $600 million in tariff refunds during the second quarter. The company stated it will automatically reimburse customers in a \"limited set of circumstances,\" though it did not specify the criteria for these refunds."
+      },
+      "summary": "亚马逊表示，第二季度收到约6亿美元关税退款，并承诺将在有限情形下，自动向消费者退还相应款项。"
+    },
+    {
+      "title": "Breaking Down Apple's 3Q Results and Outlook",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/breaking-down-apple-s-q3-results-and-outlook-video",
+      "pubDate": "Thu, 30 Jul 2026 21:49:01 GMT",
+      "isoDate": "2026-07-30T21:49:01.000Z",
+      "content": "Apple sales grew more slowly than analysts anticipated in China and its services business last quarter.  Though total revenue topped estimates, the China sales amounted to $18.8 billion in the fiscal third quarter, well short of the $19.6 billion estimated by analysts. Revenue from services was $30.7 billion, compared with a $31.4 billion projection. Mark Gurman breaks down the numbers on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Apple sales grew more slowly than analysts anticipated in China and its services business last quarter.  Though total revenue topped estimates, the China sales amounted to $18.8 billion in the fiscal third quarter, well short of the $19.6 billion estimated by analysts. Revenue from services was $30.7 billion, compared with a $31.4 billion projection. Mark Gurman breaks down the numbers on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "苹果第三财季总营收虽高于预期，但中国区销售与服务业务增长均不及分析师预测。中国区销售额为188亿美元，明显低于预估的196亿美元；服务",
+        "en": "Apple's total revenue surpassed estimates in the fiscal third quarter, but growth in China and services lagged behind analyst expectations. China sales reached $18.8 billion, falling short of the projected $19.6 billion. Services revenue came in at $30.7 billion, compared to a $31.4 billion"
+      },
+      "summary": "苹果第三财季总营收虽高于预期，但中国区销售与服务业务增长均不及分析师预测。中国区销售额为188亿美元，明显低于预估的196亿美元；服务"
+    },
+    {
+      "title": "Roblox Users Miss Estimates on Impact of Safety Measures",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/roblox-users-miss-estimates-reflecting-impact-of-safety-measures",
+      "pubDate": "Thu, 30 Jul 2026 20:20:41 GMT",
+      "isoDate": "2026-07-30T20:20:41.000Z",
+      "content": "Roblox Corp. reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
+      "contentSnippet": "Roblox Corp. reported second-quarter daily active users that missed analysts’ expectations, reflecting the ongoing impact of new child-safety measures.",
+      "creator": "Cecilia D'Anastasio",
+      "summaries": {
+        "zh": "Roblox第二季度日活跃用户数未达分析师预期，反映出新儿童安全措施持续产生影响。",
+        "en": "Roblox Corp. reported second-quarter daily active users that fell below analyst estimates, a result attributed to the continued implementation of new child-safety measures. The company noted that these enhanced protections, designed to create a safer environment for younger players, are affecting user numbers. The shortfall highlights the ongoing balance between platform growth and safeguarding its largely underage user base."
+      },
+      "summary": "Roblox第二季度日活跃用户数未达分析师预期，反映出新儿童安全措施持续产生影响。"
+    },
+    {
+      "title": "Apple Earnings Look Good, T. Rowe Price's Wang Says",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/apple-earnings-look-good-t-rowe-price-s-wang-says-video",
+      "pubDate": "Thu, 30 Jul 2026 21:40:17 GMT",
+      "isoDate": "2026-07-30T21:40:17.000Z",
+      "content": "Tony Wang, T. Rowe Price science and technology equity strategy portfolio manager, reacts to Apple's third-quarter earnings and outlook. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "contentSnippet": "Tony Wang, T. Rowe Price science and technology equity strategy portfolio manager, reacts to Apple's third-quarter earnings and outlook. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "T. Rowe Price科技股策略基金经理Tony Wang在彭博电视节目《The Close》中表示，苹果公司第三季度财报及业绩展望表现良好。",
+        "en": "T. Rowe Price portfolio manager Tony Wang commented on Apple’s third-quarter earnings during an appearance on Bloomberg’s “The Close.” He indicated that the results appeared favorable. No further details of his analysis were provided in the brief segment."
+      },
+      "summary": "T. Rowe Price科技股策略基金经理Tony Wang在彭博电视节目《The Close》中表示，苹果公司第三季度财报及业绩展望表现良好。"
+    },
+    {
+      "title": "Rivian Sees R2 Driving Its Path to Profitability",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-30/rivian-sees-r2-driving-its-path-to-profitability-video",
+      "pubDate": "Thu, 30 Jul 2026 20:46:43 GMT",
+      "isoDate": "2026-07-30T20:46:43.000Z",
+      "content": "Rivian CFO Claire McDonough joins Bloomberg's Ed Ludlow as the EV maker begins delivering its highly anticipated R2 SUV. She discusses early customer demand, the production ramp, and why the more affordable vehicle is expected to drive Rivian toward automotive gross-profit positivity by the end of 2026. McDonough also outlines the company's capital position, software strategy, and how recurring software revenue is becoming a larger part of the business. (Source: Bloomberg)",
+      "contentSnippet": "Rivian CFO Claire McDonough joins Bloomberg's Ed Ludlow as the EV maker begins delivering its highly anticipated R2 SUV. She discusses early customer demand, the production ramp, and why the more affordable vehicle is expected to drive Rivian toward automotive gross-profit positivity by the end of 2026. McDonough also outlines the company's capital position, software strategy, and how recurring software revenue is becoming a larger part of the business. (Source: Bloomberg)",
+      "creator": "",
+      "summaries": {
+        "zh": "Rivian首席财务官克莱尔·麦克多诺表示，公司已开始交付备受期待的平价车型R2 SUV，早期客户需求旺盛，生产正加速爬坡。她预计，这款更经济的车型将推动Rivian在2026",
+        "en": "Rivian CFO Claire McDonough stated that the new, more affordable R2 SUV is key to the company's path to profitability. As deliveries of the highly anticipated vehicle begin, she highlighted strong early demand and outlined the production ramp-up. McDonough expects the R2 to push Rivian to automotive gross-profit positivity by the end of 2026. The discussion also covered Rivian's capital position, its software strategy, and the growing importance of recurring software revenue to the business."
+      },
+      "summary": "Rivian首席财务官克莱尔·麦克多诺表示，公司已开始交付备受期待的平价车型R2 SUV，早期客户需求旺盛，生产正加速爬坡。她预计，这款更经济的车型将推动Rivian在2026"
+    },
+    {
+      "title": "Exelon (EXC) Slashes AI Data Center Pipeline, Weeds Out Speculative Projects",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/exelon-exc-slashes-ai-data-center-pipeline-weeds-out-speculative-projects",
+      "pubDate": "Thu, 30 Jul 2026 17:32:06 GMT",
+      "isoDate": "2026-07-30T17:32:06.000Z",
+      "content": "Exelon Corp. slashed its forecast for new data center projects amid mounting opposition across the US to AI facilities.",
+      "contentSnippet": "Exelon Corp. slashed its forecast for new data center projects amid mounting opposition across the US to AI facilities.",
+      "creator": "Emily Forgash",
+      "summaries": {
+        "zh": "美国能源公司爱克斯龙（Exelon）因全美对人工智能设施的反对声浪日益加剧，大幅削减了其新建数据中心项目的预测规模，并剔除了其中的投机性项目。",
+        "en": "Exelon Corp. reduced its forecast for new data center projects, citing escalating opposition to AI facilities across the U.S. The utility trimmed its pipeline by removing speculative ventures, reflecting a more cautious outlook amid public and regulatory pushback against the energy demands and impacts of such developments."
+      },
+      "summary": "美国能源公司爱克斯龙（Exelon）因全美对人工智能设施的反对声浪日益加剧，大幅削减了其新建数据中心项目的预测规模，并剔除了其中的投机性项目。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:36:58.387Z"
+}

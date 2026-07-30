@@ -1,0 +1,529 @@
+{
+  "sourceUrl": "https://blog.google/rss/",
+  "title": "News from Google",
+  "description": "News from Google",
+  "link": "https://blog.google/",
+  "items": [
+    {
+      "title": "Gemini Spark now integrates with Chrome",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00 +0000",
+      "isoDate": "2026-07-30T20:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp\">An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.",
+      "contentSnippet": "An overview of the latest Gemini Spark updates, including new Chrome web browsing capabilities.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Adam Coimbra"
+        ],
+        "title": [
+          "Director, Product Management"
+        ],
+        "department": [
+          "Gemini app"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini Spark 发布最新更新，现已与 Chrome 浏览器集成，新增网页浏览功能。用户可在 Chrome 中直接使用该服务进行网络浏览操作。",
+        "en": "Gemini Spark has been updated to integrate with Chrome, introducing new web browsing capabilities. This integration allows the AI to access and browse the web directly through the Chrome browser, expanding its ability to retrieve and process online information. The update is part of a broader set of enhancements aimed at improving functionality and user experience."
+      },
+      "summary": "Gemini Spark 发布最新更新，现已与 Chrome 浏览器集成，新增网页浏览功能。用户可在 Chrome 中直接使用该服务进行网络浏览操作。"
+    },
+    {
+      "title": "Introducing Gemini Robotics ER 2",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp\">Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "contentSnippet": "Gemini Robotics ER 2 is a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Steven Hansen"
+        ],
+        "title": [
+          "Senior Staff Software Engineer"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌发布了 Gemini Robotics ER 2 模型，它在机器人应用领域实现了视频理解、工具编排与多机器人协作的重大突破。",
+        "en": "Gemini Robotics ER 2 marks a significant advancement for robotic applications, delivering breakthroughs in video understanding, tool orchestration, and multi-robot collaboration."
+      },
+      "summary": "谷歌发布了 Gemini Robotics ER 2 模型，它在机器人应用领域实现了视频理解、工具编排与多机器人协作的重大突破。"
+    },
+    {
+      "title": "Take a look at short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/",
+      "pubDate": "Thu, 30 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-30T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp\">We’re sharing a look at the short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "contentSnippet": "We’re sharing a look at the short films created by our latest group of artists in Google’s Flow Sessions program.",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌分享了旗下“Flow Sessions”项目最新一批艺术家创作的短片。",
+        "en": "Google is showcasing short films produced by a new cohort of artists through its Flow Sessions program. The article announces the release and invites viewers to see the work created by this latest group. No further details about the films, artists, or the program are provided."
+      },
+      "summary": "谷歌分享了旗下“Flow Sessions”项目最新一批艺术家创作的短片。"
+    },
+    {
+      "title": "Transform any place with Nano Banana in Google Earth",
+      "link": "https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/",
+      "pubDate": "Thu, 30 Jul 2026 12:30:00 +0000",
+      "isoDate": "2026-07-30T12:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp\">Custom images — generated from Google Earth satellite, aerial, and 3D imagery — help you redesign any location.",
+      "contentSnippet": "Custom images — generated from Google Earth satellite, aerial, and 3D imagery — help you redesign any location.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Bryan Horowitz"
+        ],
+        "title": [
+          "Product Manager"
+        ],
+        "department": [
+          "Google Earth"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "利用谷歌地球的卫星、航拍和三维图像，Nano Banana 能生成自定义图片，让你可以重新设计任何地点。用户可借助这些由多种地理影像合成的图像，将想象中的改造方案直接呈现在真实场景中，实现创意改造。",
+        "en": "Nano Banana is a feature in Google Earth that lets users generate custom images using satellite, aerial, and 3D imagery. This tool allows anyone to visually redesign any location by producing personalized visuals based on existing geographic data."
+      },
+      "summary": "利用谷歌地球的卫星、航拍和三维图像，Nano Banana 能生成自定义图片，让你可以重新设计任何地点。用户可借助这些由多种地理影像合成的图像，将想象中的改造方案直接呈现在真实场景中，实现创意改造。"
+    },
+    {
+      "title": "How the Head of YouTube Health handles screen time with his kids",
+      "link": "https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp\">Hear from Dr. Garth Graham on how he sets rules in his own home and helpful approaches for communicating about screen time.",
+      "contentSnippet": "Hear from Dr. Garth Graham on how he sets rules in his own home and helpful approaches for communicating about screen time.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Joel Meares"
+        ],
+        "title": [
+          "Contributor"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "YouTube健康部门主管加思·格雷厄姆博士分享了自己在家中为孩子制定屏幕使用规则的经验，以及就屏幕时间进行有效沟通的实用方法。他强调了设定明确界限和保持开放对话的重要性，帮助家庭平衡数字生活。",
+        "en": "Dr. Garth Graham, head of YouTube Health, shares his personal approach to managing his children's screen time. The article highlights the rules he sets at home and offers communication strategies for parents. He discusses practical ways to navigate screen time conversations with kids, aiming to provide a helpful model for other families."
+      },
+      "summary": "YouTube健康部门主管加思·格雷厄姆博士分享了自己在家中为孩子制定屏幕使用规则的经验，以及就屏幕时间进行有效沟通的实用方法。他强调了设定明确界限和保持开放对话的重要性，帮助家庭平衡数字生活。"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp\">Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…",
+      "contentSnippet": "Our newest music generation model, Lyria 3.5, delivers significant advancements across musicality, lyrics, and vocal quality, empowering you to craft richer tracks. We’r…",
+      "creator": "",
+      "summaries": {
+        "zh": "谷歌在 Flow Music 中推出新一代音乐生成模型 Lyria 3.5，在音乐性、歌词、人声表现和创意控制方面实现显著提升，帮助用户创作出更丰富的音乐作品。",
+        "en": "Google is launching Lyria 3.5, its newest music generation model, within Google Flow Music. The update delivers significant improvements in musicality, lyrics, vocal quality, and creative control, enabling users to craft richer"
+      },
+      "summary": "谷歌在 Flow Music 中推出新一代音乐生成模型 Lyria 3.5，在音乐性、歌词、人声表现和创意控制方面实现显著提升，帮助用户创作出更丰富的音乐作品。"
+    },
+    {
+      "title": "Prepare for the holiday season with July’s Demand Gen Drop.",
+      "link": "https://blog.google/products/ads-commerce/demand-gen-drop-july-2026/",
+      "pubDate": "Wed, 29 Jul 2026 15:30:00 +0000",
+      "isoDate": "2026-07-29T15:30:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drops_July.max-600x600.format-webp.webp\">Prepare for the holiday season with upgraded tROAS bidding, Checkout Links, and more from YouTube’s July Demand Gen Drop.",
+      "contentSnippet": "Prepare for the holiday season with upgraded tROAS bidding, Checkout Links, and more from YouTube’s July Demand Gen Drop.",
+      "creator": "",
+      "summaries": {
+        "zh": "YouTube 在七月的需求开发广告更新中推出了多项新功能，旨在帮助广告主提前为假日季做准备。重点包括升级后的目标广告支出回报率（tROAS）自动出价策略，以及可简化购买路径的结账链接等工具。这些更新有助于提升广告投放效率和转化表现。",
+        "en": "YouTube’s July Demand Gen Drop introduces tools to help advertisers prepare for the holiday season. Key updates include upgraded tROAS (target return on ad spend) bidding for more efficient campaign optimization and Checkout Links to streamline purchases directly from ads. The release aims to enhance performance and drive sales during the critical shopping period."
+      },
+      "summary": "YouTube 在七月的需求开发广告更新中推出了多项新功能，旨在帮助广告主提前为假日季做准备。重点包括升级后的目标广告支出回报率（tROAS）自动出价策略，以及可简化购买路径的结账链接等工具。这些更新有助于提升广告投放效率和转化表现。"
+    },
+    {
+      "title": "Gemini for macOS adds new natural language capabilities",
+      "link": "https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/",
+      "pubDate": "Wed, 29 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-29T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp\">A look at how the Gemini app for macOS now lets you speak naturally to get clean transcriptions, edits, and summaries just using your voice.",
+      "contentSnippet": "A look at how the Gemini app for macOS now lets you speak naturally to get clean transcriptions, edits, and summaries just using your voice.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Michael Friedman"
+        ],
+        "title": [
+          "Group Product Manager"
+        ],
+        "department": [
+          "Gemini App"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini 的 macOS 应用新增自然语言功能：用户只需自然说话，就能自动获得清晰的文字转录、编辑与摘要。",
+        "en": "The Gemini app for macOS now lets users speak naturally to produce clean transcriptions, text edits, and summaries using only their voice. This new capability enables hands-free interaction, converting spoken input into polished written content directly within the app."
+      },
+      "summary": "Gemini 的 macOS 应用新增自然语言功能：用户只需自然说话，就能自动获得清晰的文字转录、编辑与摘要。"
+    },
+    {
+      "title": "How Gemini Flash agents are helping a Michigan dairy farmer",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/",
+      "pubDate": "Tue, 28 Jul 2026 16:15:00 +0000",
+      "isoDate": "2026-07-28T16:15:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Flash_Michigan_dairy_far.max-600x600.format-webp.webp\">See how Paul Windemuller, a Michigan dairy farmer, is changing the way he works by using AI agents built with Gemini 3.6 Flash.",
+      "contentSnippet": "See how Paul Windemuller, a Michigan dairy farmer, is changing the way he works by using AI agents built with Gemini 3.6 Flash.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "密歇根州奶农保罗·温德穆勒正通过使用基于 Gemini 3.6 Flash 构建的 AI 智能体来改变其工作方式，展示了人工智能在畜牧业中的实际应用。",
+        "en": "Paul Windemuller, a dairy farmer in Michigan, is transforming his daily operations with AI agents built on Gemini 3.6 Flash. The article previews how these tools are changing his workflow on the farm."
+      },
+      "summary": "密歇根州奶农保罗·温德穆勒正通过使用基于 Gemini 3.6 Flash 构建的 AI 智能体来改变其工作方式，展示了人工智能在畜牧业中的实际应用。"
+    },
+    {
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-28T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp\">We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "contentSnippet": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Philipp Schmid"
+        ],
+        "title": [
+          "Member of the Technical Staff"
+        ],
+        "department": [
+          "Google DeepMind"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "Gemini API的托管代理（Managed Agents）宣布新增多项功能，包括支持3.6 Flash模型、引入钩子（hooks）等。这些更新旨在帮助开发者构建更可靠、可直接用于生产环境的代理应用。",
+        "en": "Google has expanded the capabilities of Managed Agents in the Gemini API, introducing support for the 3.6 Flash model, hooks, and additional features. These updates aim to help developers create more reliable, production-ready agents."
+      },
+      "summary": "Gemini API的托管代理（Managed Agents）宣布新增多项功能，包括支持3.6 Flash模型、引入钩子（hooks）等。这些更新旨在帮助开发者构建更可靠、可直接用于生产环境的代理应用。"
+    },
+    {
+      "title": "3 new ways nonprofits can put AI to work",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/",
+      "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-28T16:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp\">We’re introducing new tools and resources for nonprofits to learn more about Google AI tools.",
+      "contentSnippet": "We’re introducing new tools and resources for nonprofits to learn more about Google AI tools.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Maggie Johnson"
+        ],
+        "title": [
+          "Global Head"
+        ],
+        "department": [
+          "Google.org"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌为非营利组织推出了一系列新工具和资源，旨在帮助它们更好地了解和使用谷歌的人工智能工具。",
+        "en": "Google is providing new tools and resources to help nonprofits learn about and apply its AI tools. The announcement highlights three new ways organizations can put artificial intelligence to work, though specific details are not included in this brief. The initiative aims to support nonprofits in understanding and leveraging Google's AI capabilities."
+      },
+      "summary": "谷歌为非营利组织推出了一系列新工具和资源，旨在帮助它们更好地了解和使用谷歌的人工智能工具。"
+    },
+    {
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "isoDate": "2026-07-28T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp\">It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "contentSnippet": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "搜索的AI模式看似让人更依赖屏幕，实则能以五种方式帮你更好地享受现实世界。例如，它能帮你预订演唱会门票、寻得完美去处等，高效处理事务，从而留出更多离线时间。文章介绍了这一工具如何简化线下活动的规划过程。",
+        "en": "The article previews how AI Mode in Search can enhance offline experiences. It notes that, counterintuitively, AI tools help users make the most of time away from screens by assisting with tasks such as booking"
+      },
+      "summary": "搜索的AI模式看似让人更依赖屏幕，实则能以五种方式帮你更好地享受现实世界。例如，它能帮你预订演唱会门票、寻得完美去处等，高效处理事务，从而留出更多离线时间。文章介绍了这一工具如何简化线下活动的规划过程。"
+    },
+    {
+      "title": "These Google Trends show people really want to touch grass",
+      "link": "https://blog.google/products-and-platforms/products/search/touch-grass-trends/",
+      "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "isoDate": "2026-07-28T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp\">Google Search data reveals a growing desire to unplug and connect in real life with local run clubs, mahjong lessons and more.",
+      "contentSnippet": "Google Search data reveals a growing desire to unplug and connect in real life with local run clubs, mahjong lessons and more.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索趋势显示，人们越来越渴望放下数字设备，回归线下生活。数据显示，寻找本地跑步俱乐部、麻将课程等现实社交活动的搜索量正在上升，反映出大众希望通过面对面互动与真实世界重新建立联系的强烈意愿。",
+        "en": "Google search trends indicate a rising interest in disconnecting from digital life and engaging in real-world social activities. Data shows more people are seeking out local, in-person experiences such as run clubs and mahjong lessons, reflecting a broader desire to \"touch grass\" and build offline connections."
+      },
+      "summary": "谷歌搜索趋势显示，人们越来越渴望放下数字设备，回归线下生活。数据显示，寻找本地跑步俱乐部、麻将课程等现实社交活动的搜索量正在上升，反映出大众希望通过面对面互动与真实世界重新建立联系的强烈意愿。"
+    },
+    {
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "pubDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "isoDate": "2026-07-28T13:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp\">These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "contentSnippet": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "News from Google Team"
+        ],
+        "title": [
+          ""
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌搜索推出AI功能，助力用户筹办精彩晚宴。这些工具可协助规划派对任务，包括快速生成菜单、设计餐桌布置以及处理其他筹备工作。文章介绍了五种利用谷歌搜索进行聚会策划的方式，让整个流程更加高效便捷。",
+        "en": "Google Search offers AI-powered features to help with dinner party planning. These tools can assist in crafting a menu, designing a tablescape, and handling other party-related tasks. The article highlights five ways to use these capabilities to host the ultimate dinner party."
+      },
+      "summary": "谷歌搜索推出AI功能，助力用户筹办精彩晚宴。这些工具可协助规划派对任务，包括快速生成菜单、设计餐桌布置以及处理其他筹备工作。文章介绍了五种利用谷歌搜索进行聚会策划的方式，让整个流程更加高效便捷。"
+    },
+    {
+      "title": "Google and KDDI are ready to back Japanese startups.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/",
+      "pubDate": "Tue, 28 Jul 2026 01:00:00 +0000",
+      "isoDate": "2026-07-28T01:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp\">We’re launching the AI Startup Support Program to accelerate innovative AI-native Japanese startups.",
+      "contentSnippet": "We’re launching the AI Startup Support Program to accelerate innovative AI-native Japanese startups.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Jonathan Silber"
+        ],
+        "title": [
+          "Co-Founder & Director"
+        ],
+        "department": [
+          "Google AI Futures Fund"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌与日本电信运营商KDDI宣布将联合推出“AI初创企业支持计划”。该计划旨在加速日本本土创新AI原生初创公司的发展，为其提供资源和支持。",
+        "en": "Google and KDDI are introducing an AI Startup Support Program designed to help accelerate innovative, AI-native startups in Japan. The initiative signals a joint commitment to backing emerging Japanese companies focused on artificial intelligence."
+      },
+      "summary": "谷歌与日本电信运营商KDDI宣布将联合推出“AI初创企业支持计划”。该计划旨在加速日本本土创新AI原生初创公司的发展，为其提供资源和支持。"
+    },
+    {
+      "title": "NOAA and Google Cloud collaborate to advance weather forecasting.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/",
+      "pubDate": "Mon, 27 Jul 2026 17:00:00 +0000",
+      "isoDate": "2026-07-27T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp\">Google Cloud is now providing high-performance computing infrastructure for NOAA’s supercomputing system.",
+      "contentSnippet": "Google Cloud is now providing high-performance computing infrastructure for NOAA’s supercomputing system.",
+      "creator": "",
+      "summaries": {
+        "zh": "美国国家海洋和大气管理局（NOAA）与谷歌云合作，由谷歌云为其超级计算系统提供高性能计算基础设施，以提升天气预报能力。",
+        "en": "NOAA is partnering with Google Cloud to improve weather forecasting. Under the collaboration, Google Cloud will provide high-performance computing infrastructure to support NOAA’s supercomputing system."
+      },
+      "summary": "美国国家海洋和大气管理局（NOAA）与谷歌云合作，由谷歌云为其超级计算系统提供高性能计算基础设施，以提升天气预报能力。"
+    },
+    {
+      "title": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/",
+      "pubDate": "Fri, 24 Jul 2026 14:00:00 +0000",
+      "isoDate": "2026-07-24T14:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp\">Signing the code reinforces our commitment to transparency and responsible AI development in Europe.",
+      "contentSnippet": "Signing the code reinforces our commitment to transparency and responsible AI development in Europe.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Karen Massin"
+        ],
+        "title": [
+          "Head Government Affairs and Public Policy - EU Institutions at Google"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌签署了欧盟《人工智能法案》关于AI生成内容透明度的实践准则。此举旨在强化其在欧洲对内容透明及负责任人工智能开发的承诺。",
+        "en": "Google has announced it will sign the EU AI Act’s Code of Practice on Transparency of AI-Generated Content. The company states that this step reinforces its commitment to transparency and responsible AI development in Europe."
+      },
+      "summary": "谷歌签署了欧盟《人工智能法案》关于AI生成内容透明度的实践准则。此举旨在强化其在欧洲对内容透明及负责任人工智能开发的承诺。"
+    },
+    {
+      "title": "Play Points members and comic book fans can score exclusive rewards with Google Play",
+      "link": "https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/",
+      "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
+      "isoDate": "2026-07-23T17:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp\">Unlock digital perks via our roadcase and Use tab, or join Google Play's live auction house in San Diego.",
+      "contentSnippet": "Unlock digital perks via our roadcase and Use tab, or join Google Play's live auction house in San Diego.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Tom Grinsted"
+        ],
+        "title": [
+          "Product Director, Google Play"
+        ],
+        "department": [
+          ""
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Google Play is offering exclusive rewards to Play Points members and comic book fans. Users can unlock digital perks through a \"roadcase\" feature and the Use tab, or participate in a live auction house event in San Diego."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Apply now for the Google for Startups Gemini Startup Forum.",
+      "link": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/",
+      "pubDate": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "isoDate": "2026-07-23T15:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Startup_Forum_social.max-600x600.format-webp.webp\">Learn more about Google for Startups Gemini Startup Forum and apply by August 28.",
+      "contentSnippet": "Learn more about Google for Startups Gemini Startup Forum and apply by August 28.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The Google for Startups Gemini Startup Forum is now accepting applications. Interested startups can learn more about the program and submit their applications by the deadline of August 28."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Understanding the AI economy",
+      "link": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "pubDate": "Thu, 23 Jul 2026 10:00:00 +0000",
+      "isoDate": "2026-07-23T10:00:00.000Z",
+      "content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp\">We’re releasing the first Activity, Task, Landscape, and Adoption Study (ATLAS) report, showing how people use Google’s AI tools.",
+      "contentSnippet": "We’re releasing the first Activity, Task, Landscape, and Adoption Study (ATLAS) report, showing how people use Google’s AI tools.",
+      "creator": {
+        "$": {
+          "xmlns:author": "http://www.w3.org/2005/Atom"
+        },
+        "name": [
+          "Zanna Iscenko"
+        ],
+        "title": [
+          "AI & Economy Lead"
+        ],
+        "department": [
+          "Chief Economist's Office"
+        ],
+        "company": [
+          ""
+        ]
+      },
+      "summaries": {
+        "zh": "谷歌发布了首份“活动、任务、场景与采用研究”（ATLAS）报告，旨在揭示用户如何运用谷歌人工智能工具。该报告通过数据分析，描绘了AI工具在实际应用中的使用方式与场景。",
+        "en": "Google has published its inaugural Activity, Task, Landscape, and Adoption Study (ATLAS) report. The study examines how individuals are utilizing Google's artificial intelligence tools, offering insights into usage patterns and the broader AI economy."
+      },
+      "summary": "谷歌发布了首份“活动、任务、场景与采用研究”（ATLAS）报告，旨在揭示用户如何运用谷歌人工智能工具。该报告通过数据分析，描绘了AI工具在实际应用中的使用方式与场景。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:20.053Z"
+}

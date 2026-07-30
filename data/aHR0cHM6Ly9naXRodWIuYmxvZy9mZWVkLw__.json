@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://github.blog/feed/",
+  "title": "The GitHub Blog",
+  "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
+  "link": "https://github.blog/",
+  "items": [
+    {
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "pubDate": "Thu, 30 Jul 2026 17:30:24 +0000",
+      "isoDate": "2026-07-30T17:30:24.000Z",
+      "content": "<p>Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/\">Stacked sessions and pull requests in the GitHub Copilot app</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app.\nThe post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "creator": "Cassidy Williams",
+      "summaries": {
+        "zh": "作者在 GitHub 官方博客中介绍了如何利用 GitHub Copilot 应用中的“堆叠会话”与拉取请求功能，对自己的一处旧代码库进行了现代化改造。",
+        "en": "The author describes their experience modernizing an old codebase using stacked sessions and pull requests within the GitHub Copilot app. The provided content offers no further technical details or steps."
+      },
+      "summary": "作者在 GitHub 官方博客中介绍了如何利用 GitHub Copilot 应用中的“堆叠会话”与拉取请求功能，对自己的一处旧代码库进行了现代化改造。"
+    },
+    {
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "pubDate": "Wed, 29 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-29T16:00:00.000Z",
+      "content": "<p>Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/\">Tame Dependabot: Group your updates, slow the cadence, keep security fast</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project.\nThe post Tame Dependabot: Group your updates, slow the cadence, keep security fast appeared first on The GitHub Blog.",
+      "creator": "Bruno Borges",
+      "summaries": {
+        "zh": "Dependabot 默认设置会让仓库涌来大量拉取请求。本文介绍了微软一个开源项目的应对方法：对依赖更新进行分组，放慢例行更新的节奏，同时确保安全修复快速合并，从而有效减少干扰和噪音。",
+        "en": "Dependabot's default settings often overwhelm repositories with excessive pull requests. This article outlines strategies to reduce that noise in a Microsoft open source project: grouping related updates into fewer pull requests, slowing the overall update cadence, and ensuring security fixes still arrive quickly. These adjustments help maintain dependency freshness without flooding developers."
+      },
+      "summary": "Dependabot 默认设置会让仓库涌来大量拉取请求。本文介绍了微软一个开源项目的应对方法：对依赖更新进行分组，放慢例行更新的节奏，同时确保安全修复快速合并，从而有效减少干扰和噪音。"
+    },
+    {
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "pubDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-28T16:00:00.000Z",
+      "content": "<p>Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/\">Disrupting supply chain attacks on npm and GitHub Actions</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact.\nThe post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
+      "creator": "Greg Ose",
+      "summaries": {
+        "zh": "GitHub 近期针对 npm 和 GitHub Actions 推出了一系列更新，旨在阻断供应链攻击技术并限制其影响。这些措施涵盖了过去几个月的改进，以提升软件供应链的安全性。",
+        "en": "GitHub has rolled out updates to both npm and GitHub Actions over recent months designed to disrupt common supply chain attack methods and reduce their impact. The blog post details these changes without providing specific technical measures in the summary."
+      },
+      "summary": "GitHub 近期针对 npm 和 GitHub Actions 推出了一系列更新，旨在阻断供应链攻击技术并限制其影响。这些措施涵盖了过去几个月的改进，以提升软件供应链的安全性。"
+    },
+    {
+      "title": "The harness is all you need (mostly)",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+      "pubDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "isoDate": "2026-07-27T18:00:00.000Z",
+      "content": "<p>A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/\">The harness is all you need (mostly)</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nThe post The harness is all you need (mostly) appeared first on The GitHub Blog.",
+      "creator": "Burke Holland",
+      "summaries": {
+        "zh": "文章介绍了一个以 GitHub Copilot 为核心的实用开发工作流，涵盖从原型设计、规划到实现和代码审查的全过程。它强调无需追逐层出不穷的新 AI 工具，借助 Copilot 的“马具”作用，即可高效完成大部分开发任务。",
+        "en": "The article introduces a focused software development workflow built around GitHub Copilot, covering prototyping"
+      },
+      "summary": "文章介绍了一个以 GitHub Copilot 为核心的实用开发工作流，涵盖从原型设计、规划到实现和代码审查的全过程。它强调无需追逐层出不穷的新 AI 工具，借助 Copilot 的“马具”作用，即可高效完成大部分开发任务。"
+    },
+    {
+      "title": "GitHub Copilot app for Beginners: Getting started",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
+      "pubDate": "Mon, 27 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-27T16:00:00.000Z",
+      "content": "<p>New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/\">GitHub Copilot app for Beginners: Getting started</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nThe post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.",
+      "creator": "Christopher Harrison",
+      "summaries": {
+        "zh": "面向初学者的 GitHub Copilot 应用指南，涵盖启动项目、与 AI 代理协作、使用画布功能以及优化开发工作流等核心操作，帮助新用户快速上手。",
+        "en": "This beginner-focused guide introduces the GitHub Copilot app, showing new users how to start projects, work with AI agents, utilize canvas views, and streamline their development workflow."
+      },
+      "summary": "面向初学者的 GitHub Copilot 应用指南，涵盖启动项目、与 AI 代理协作、使用画布功能以及优化开发工作流等核心操作，帮助新用户快速上手。"
+    },
+    {
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "pubDate": "Thu, 23 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-23T16:00:00.000Z",
+      "content": "<p>A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.</p>\n<p>The post <a href=\"https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/\">The case for a cooldown: Why Dependabot now waits before issuing version updates</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code.\nThe post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.",
+      "creator": "Carlin Cherry",
+      "summaries": {
+        "zh": "GitHub 为 Dependabot 引入了默认三天的冷却期。现在，版本更新拉取请求会延迟三天发出，以便维护者和安全研究人员有足够时间处理新发布中发现的潜在问题，避免这些问题直接进入使用者的代码。该调整旨在增强依赖项更新的安全性与可控性。",
+        "en": "Dependabot now introduces a default three-day cooldown before creating version update pull requests. This delay allows maintainers and security researchers time to identify and fix issues in a new release before the update is automatically integrated into your code. The change aims to improve stability and security by preventing potentially problematic releases from being rushed into projects."
+      },
+      "summary": "GitHub 为 Dependabot 引入了默认三天的冷却期。现在，版本更新拉取请求会延迟三天发出，以便维护者和安全研究人员有足够时间处理新发布中发现的潜在问题，避免这些问题直接进入使用者的代码。该调整旨在增强依赖项更新的安全性与可控性。"
+    },
+    {
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "pubDate": "Wed, 22 Jul 2026 19:00:00 +0000",
+      "isoDate": "2026-07-22T19:00:00.000Z",
+      "content": "<p>Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/\">Copilot vs. raw API access: What are you actually paying for?</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it.\nThe post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.",
+      "creator": "Andrea Griffiths",
+      "summaries": {
+        "zh": "GitHub Copilot 现已按公开的 API 费率计费。文章对比了直接调用原始模型 API 与使用 Copilot 的差异，指出用户实际支付的不仅是模型访问成本，还涵盖了围绕编码工作流的集成、策略管控以及连接各类工具的“线束”工作。这意味着 Copilot 的价值在于将模型能力无缝嵌入开发流程，并附带合规与工程化支撑，而非单纯的接口调用。",
+        "en": "GitHub Copilot now charges for usage at listed API rates, prompting a comparison with direct model access. The article examines what users actually pay for: not just raw API costs, but also the integrated coding workflow, built-in policy compliance, and the surrounding harness that Copilot provides. It highlights the trade-offs between off-the-shelf model APIs and a managed service that streamlines development and governance."
+      },
+      "summary": "GitHub Copilot 现已按公开的 API 费率计费。文章对比了直接调用原始模型 API 与使用 Copilot 的差异，指出用户实际支付的不仅是模型访问成本，还涵盖了围绕编码工作流的集成、策略管控以及连接各类工具的“线束”工作。这意味着 Copilot 的价值在于将模型能力无缝嵌入开发流程，并附带合规与工程化支撑，而非单纯的接口调用。"
+    },
+    {
+      "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "pubDate": "Wed, 22 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-22T16:00:00.000Z",
+      "content": "<p>GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team.</p>\n<p>The post <a href=\"https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/\">Next chapter: Restructuring GitHub&#8217;s bug bounty program</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team.\nThe post Next chapter: Restructuring GitHub’s bug bounty program appeared first on The GitHub Blog.",
+      "creator": "Catherine Cassell",
+      "summaries": {
+        "zh": "GitHub 正对其漏洞赏金计划进行重大调整，将重心转向改善安全研究人员与团队合作的体验。",
+        "en": "GitHub is restructuring its bug bounty program with the goal of improving the experience for security researchers collaborating with the company. The announced changes signal a shift in focus toward enhancing how researchers engage with GitHub’s team, though specific details of the restructuring were not provided in the brief announcement."
+      },
+      "summary": "GitHub 正对其漏洞赏金计划进行重大调整，将重心转向改善安全研究人员与团队合作的体验。"
+    },
+    {
+      "title": "How to build interactive experiences with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "pubDate": "Tue, 21 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-21T16:00:00.000Z",
+      "content": "<p>Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.</p>\n<p>The post <a href=\"https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/\">How to build interactive experiences with canvases</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks.\nThe post How to build interactive experiences with canvases appeared first on The GitHub Blog.",
+      "creator": "Jacklyn Carroll",
+      "summaries": {
+        "zh": "画布（Canvases）能将AI转化为交互式工作区，支持信息可视化、工作流探索及复杂任务操作。",
+        "en": "The article briefly introduces canvases as a concept that transforms AI into interactive workspaces, enabling users to visualize information, explore workflows, and take action on complex tasks. It does not provide practical steps or technical guidance on building interactive experiences with canvases."
+      },
+      "summary": "画布（Canvases）能将AI转化为交互式工作区，支持信息可视化、工作流探索及复杂任务操作。"
+    },
+    {
+      "title": "$100 million for open source: A milestone built by the community",
+      "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "pubDate": "Mon, 20 Jul 2026 16:00:00 +0000",
+      "isoDate": "2026-07-20T16:00:00.000Z",
+      "content": "<p>Celebrating $100 million contributed by the community to the people who build and sustain open source every day.</p>\n<p>The post <a href=\"https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/\">$100 million for open source: A milestone built by the community</a> appeared first on <a href=\"https://github.blog\">The GitHub Blog</a>.</p>\n",
+      "contentSnippet": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day.\nThe post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
+      "creator": "Stephanie Lincoln",
+      "summaries": {
+        "zh": "开源社区迎来里程碑：GitHub 博客宣布，社区已累计向日常构建和维护开源项目的开发者们贡献了 1 亿美元资金。这一成就完全由社区共同推动，旨在庆祝并支持那些持续为开源生态付出的群体。",
+        "en": "The GitHub community has collectively contributed $100 million to support the people who build and maintain open source software. This milestone highlights the financial backing directed to open source developers and sustainers through community-driven efforts on the platform."
+      },
+      "summary": "开源社区迎来里程碑：GitHub 博客宣布，社区已累计向日常构建和维护开源项目的开发者们贡献了 1 亿美元资金。这一成就完全由社区共同推动，旨在庆祝并支持那些持续为开源生态付出的群体。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:23.591Z"
+}

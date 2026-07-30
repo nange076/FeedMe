@@ -1,0 +1,205 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "huggingface/speech-to-speech",
+      "link": "https://github.com/huggingface/speech-to-speech",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/de4a1002266a641a02068cd407fbf3a624a686c2219cb6b055e1a8ec9336245e/huggingface/speech-to-speech\" referrerpolicy=\"no-referrer\"><br>Build local voice agents with open-source models<br><br>Language: Python<br>Stars: 8741<br>Forks: 1085",
+      "contentSnippet": "Build local voice agents with open-source models\nLanguage: Python\nStars: 8741\nForks: 1085",
+      "creator": "huggingface",
+      "summaries": {
+        "zh": "huggingface/speech-to-speech 是一个开源项目，旨在利用开源模型构建本地语音代理。该项目使用 Python 语言开发，并托管在 GitHub 上，目前获得 8164 颗星标与 1023 次复刻，显示出较高的关注度。其核心功能是提供一套工具或框架，让开发者能够基于开源技术打造可本地运行的语音对话系统。",
+        "en": "The 'huggingface/speech-to-speech' repository is an open-source Python project that enables developers to build local voice agents using open-source speech-to-speech models. It focuses on creating agents that operate without cloud dependencies. The project has attracted notable community interest, with 8,164 stars and 1,023 forks."
+      },
+      "summary": "huggingface/speech-to-speech 是一个开源项目，旨在利用开源模型构建本地语音代理。该项目使用 Python 语言开发，并托管在 GitHub 上，目前获得 8164 颗星标与 1023 次复刻，显示出较高的关注度。其核心功能是提供一套工具或框架，让开发者能够基于开源技术打造可本地运行的语音对话系统。"
+    },
+    {
+      "title": "microsoft/AI-For-Beginners",
+      "link": "https://github.com/microsoft/AI-For-Beginners",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/344190478/ff93f741-7b50-4bed-af79-e66bf033e9a4?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233727Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=f3c61a55ead3b5259f1f511c34542cc0b64c22bbe3fc244ca4a9897a81c03958&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk0NywibmJmIjoxNzg1NDU0NjQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xU_xW4sCFamiW-ubMtfyivhWdJWdgHwUSFVDMZA6WmQ\" referrerpolicy=\"no-referrer\"><br>12 Weeks, 24 Lessons, AI for All!<br><br>Language: Jupyter Notebook<br>Stars: 53858<br>Forks: 10943",
+      "contentSnippet": "12 Weeks, 24 Lessons, AI for All!\nLanguage: Jupyter Notebook\nStars: 53858\nForks: 10943",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Microsoft's \"AI for Beginners\" is a 12-week, 24-lesson curriculum designed to make artificial intelligence accessible to all. Hosted on GitHub as a Jupyter Notebook repository, the course has gained significant community traction with over 53,000 stars and 10,800 forks, indicating widespread adoption and collaboration."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "paperswithbacktest/awesome-systematic-trading",
+      "link": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/8146c0ecaf4f9ce9ba0a2a0a3848c8897942cb392c67fe118fa27d004f48f915/paperswithbacktest/awesome-systematic-trading\" referrerpolicy=\"no-referrer\"><br>A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.<br><br>Language: Python<br>Stars: 11008<br>Forks: 1411",
+      "contentSnippet": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.\nLanguage: Python\nStars: 11008\nForks: 1411",
+      "creator": "paperswithbacktest",
+      "summaries": {
+        "zh": "这是一个关于系统化交易的精选资源列表，由paperswithbacktest维护。它汇集了相关的库、包、策略、书籍、博客和教程。项目主要使用Python语言，目前在GitHub上获得了超过1万个星标和1370次复刻，显示出较高的社区关注度。",
+        "en": "This GitHub repository is a curated list of resources for systematic trading, including libraries, packages, strategies, books, blogs, and tutorials. The primary programming language is Python. It has gained significant community traction, evidenced by over 10,600 stars and 1,370 forks."
+      },
+      "summary": "这是一个关于系统化交易的精选资源列表，由paperswithbacktest维护。它汇集了相关的库、包、策略、书籍、博客和教程。项目主要使用Python语言，目前在GitHub上获得了超过1万个星标和1370次复刻，显示出较高的社区关注度。"
+    },
+    {
+      "title": "different-ai/openwork",
+      "link": "https://github.com/different-ai/openwork",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2fd34000f971d8b64d93a32238e59742afca739e61f84baafb8edafbb90cb60e/different-ai/openwork\" referrerpolicy=\"no-referrer\"><br>The open-source alternative to Claude Cowork (powered by opencode)<br><br>Language: TypeScript<br>Stars: 18692<br>Forks: 1904",
+      "contentSnippet": "The open-source alternative to Claude Cowork (powered by opencode)\nLanguage: TypeScript\nStars: 18692\nForks: 1904",
+      "creator": "different-ai",
+      "summaries": {
+        "zh": "这是一款名为 openwork 的开源项目，定位为 Claude Cowork 的替代方案。项目基于 opencode 驱动，使用 TypeScript 语言开发，目前在平台已获得 18,250 个星标和 1,867 次复刻。",
+        "en": "The repository \"different-ai/openwork\" is an open-source alternative to the Claude Cowork tool, built using the opencode engine. It is developed in TypeScript and has gained significant community traction, with 18,250 stars and 1,867 forks on GitHub."
+      },
+      "summary": "这是一款名为 openwork 的开源项目，定位为 Claude Cowork 的替代方案。项目基于 opencode 驱动，使用 TypeScript 语言开发，目前在平台已获得 18,250 个星标和 1,867 次复刻。"
+    },
+    {
+      "title": "WhiskeySockets/Baileys",
+      "link": "https://github.com/WhiskeySockets/Baileys",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e8b4f6df17797f369bad59e215214e417f6ed3e0066bf84a740ca55f3953fa0d/WhiskeySockets/Baileys\" referrerpolicy=\"no-referrer\"><br>Socket-based TS/JavaScript API for WhatsApp Web<br><br>Language: JavaScript<br>Stars: 10429<br>Forks: 3251",
+      "contentSnippet": "Socket-based TS/JavaScript API for WhatsApp Web\nLanguage: JavaScript\nStars: 10429\nForks: 3251",
+      "creator": "WhiskeySockets",
+      "summaries": {
+        "zh": "WhiskeySockets/Baileys 是一个基于 Socket 的 TypeScript/JavaScript API，用于与 WhatsApp Web 进行交互。该项目使用 JavaScript 编写，在代码托管平台上获得 10,325 颗星标和 3,240 次复刻，反映出较高的关注度与社区活跃度。",
+        "en": "WhiskeySockets/Baileys is a socket-based TypeScript/JavaScript API for WhatsApp Web. The project is written in JavaScript and has attracted 10,325 stars along with 3,240 forks on GitHub."
+      },
+      "summary": "WhiskeySockets/Baileys 是一个基于 Socket 的 TypeScript/JavaScript API，用于与 WhatsApp Web 进行交互。该项目使用 JavaScript 编写，在代码托管平台上获得 10,325 颗星标和 3,240 次复刻，反映出较高的关注度与社区活跃度。"
+    },
+    {
+      "title": "pascalorg/editor",
+      "link": "https://github.com/pascalorg/editor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233727Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=3284d291937f3d35e338f6a6803666dde4c17cb23e848af589e7a2aa407df65e&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk0NywibmJmIjoxNzg1NDU0NjQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xU_xW4sCFamiW-ubMtfyivhWdJWdgHwUSFVDMZA6WmQ\" referrerpolicy=\"no-referrer\"><br>Create and share 3D architectural projects.<br><br>Language: TypeScript<br>Stars: 20095<br>Forks: 2620",
+      "contentSnippet": "Create and share 3D architectural projects.\nLanguage: TypeScript\nStars: 20095\nForks: 2620",
+      "creator": "pascalorg",
+      "summaries": {
+        "zh": "这是一个开源项目，名为pascalorg/editor，主要功能是创建并分享三维建筑项目。项目使用TypeScript语言开发，在社区中颇受欢迎，目前已获得超过1.9万个星标和2600多次分叉。",
+        "en": "pascalorg/editor is an open-source tool for creating and sharing 3D architectural projects. The project is written in TypeScript and has gained significant community interest, with 19,827 stars and 2,608 forks on GitHub."
+      },
+      "summary": "这是一个开源项目，名为pascalorg/editor，主要功能是创建并分享三维建筑项目。项目使用TypeScript语言开发，在社区中颇受欢迎，目前已获得超过1.9万个星标和2600多次分叉。"
+    },
+    {
+      "title": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/444ca565381da50afd3db190e2394a7c12e55adc2675ebb663af2cf890718f87/mvanhorn/last30days-skill\" referrerpolicy=\"no-referrer\"><br>AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary<br><br>Language: Python<br>Stars: 55522<br>Forks: 4786",
+      "contentSnippet": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary\nLanguage: Python\nStars: 55522\nForks: 4786",
+      "creator": "mvanhorn",
+      "summaries": {
+        "zh": "这是一个名为“last30days-skill”的AI代理技能，能够对任何主题进行调研，覆盖Reddit、X、YouTube、Hacker News、Polymarket及全网。它会综合生成基于事实的总结。项目使用Python编写，在GitHub上获得了55219颗星和4770次分叉。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "这是一个名为“last30days-skill”的AI代理技能，能够对任何主题进行调研，覆盖Reddit、X、YouTube、Hacker News、Polymarket及全网。它会综合生成基于事实的总结。项目使用Python编写，在GitHub上获得了55219颗星和4770次分叉。"
+    },
+    {
+      "title": "dotnet/aspnetcore",
+      "link": "https://github.com/dotnet/aspnetcore",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/7aa1fb1ea1c61e4d18d007a9c6510dd224cccc277c297a531b9149e94a907b24/dotnet/aspnetcore\" referrerpolicy=\"no-referrer\"><br>ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.<br><br>Language: C#<br>Stars: 38286<br>Forks: 10859",
+      "contentSnippet": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.\nLanguage: C#\nStars: 38286\nForks: 10859",
+      "creator": "dotnet",
+      "summaries": {
+        "zh": "ASP.NET Core 是一个跨平台的 .NET 框架，支持在 Windows、Mac 和 Linux 上构建现代云原生 Web 应用。项目主要采用 C# 语言开发，在 GitHub 上已获得 38,248 颗星标，并被复刻了 10,857 次。",
+        "en": "The dotnet/aspnetcore repository hosts ASP.NET Core, a cross-platform .NET framework for building modern, cloud-based web applications on Windows, Mac, and Linux. The project is written in C# and has gained 38,248 stars and 10,857 forks on GitHub."
+      },
+      "summary": "ASP.NET Core 是一个跨平台的 .NET 框架，支持在 Windows、Mac 和 Linux 上构建现代云原生 Web 应用。项目主要采用 C# 语言开发，在 GitHub 上已获得 38,248 颗星标，并被复刻了 10,857 次。"
+    },
+    {
+      "title": "microsoft/PowerToys",
+      "link": "https://github.com/microsoft/PowerToys",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/184456251/6fa0e600-b17f-11ea-9360-1f79417d8a69?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233727Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=a4bce807d502e312cf04b11633d03751f72740c5099893651a2eb6a5ee20aa22&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk0NywibmJmIjoxNzg1NDU0NjQ3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xU_xW4sCFamiW-ubMtfyivhWdJWdgHwUSFVDMZA6WmQ\" referrerpolicy=\"no-referrer\"><br>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows<br><br>Language: C<br>Stars: 137104<br>Forks: 8364",
+      "contentSnippet": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows\nLanguage: C\nStars: 137104\nForks: 8364",
+      "creator": "microsoft",
+      "summaries": {
+        "zh": "微软 PowerToys 是一套旨在提升 Windows 系统生产力与自定义能力的实用工具集，项目采用 C# 语言开发。其在 GitHub 上已获得超过 13.6 万星标和 8,300 多次复刻，深受开发者及高级用户欢迎。",
+        "en": "Microsoft PowerToys is an open-source suite of Windows utilities designed to boost productivity and customization. The project is primarily written in C# and is hosted on GitHub, where it has garnered over 136,000 stars and 8,300 forks."
+      },
+      "summary": "微软 PowerToys 是一套旨在提升 Windows 系统生产力与自定义能力的实用工具集，项目采用 C# 语言开发。其在 GitHub 上已获得超过 13.6 万星标和 8,300 多次复刻，深受开发者及高级用户欢迎。"
+    },
+    {
+      "title": "ansible/ansible",
+      "link": "https://github.com/ansible/ansible",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/71c552b0f940dcf9ac6cf0b40959967904fa28ef5bb285ae0f7132a4ac2251a3/ansible/ansible\" referrerpolicy=\"no-referrer\"><br>Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.<br><br>Language: Python<br>Stars: 69871<br>Forks: 24248",
+      "contentSnippet": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.\nLanguage: Python\nStars: 69871\nForks: 24248",
+      "creator": "ansible",
+      "summaries": {
+        "zh": "Ansible 是一个基于 Python 的 IT 自动化平台，以简单著称。它使用接近自然语言的描述方式，通过 SSH 协议工作，无需在远程系统安装任何代理。其功能涵盖代码部署、网络配置及云管理等领域的自动化。该项目在 GitHub 上拥有约 69,750 颗星标和 24,248 次复刻，并附有详细文档链接。",
+        "en": "Ansible is an IT automation platform designed to simplify application and system deployment and maintenance. It automates tasks such as code deployment, network configuration, and cloud management using an agentless architecture that relies on SSH and a plain-English-like language. The project is written in Python, has garnered approximately 69,750 stars and 24,248 forks on GitHub, and its documentation is available at docs.ansible.com."
+      },
+      "summary": "Ansible 是一个基于 Python 的 IT 自动化平台，以简单著称。它使用接近自然语言的描述方式，通过 SSH 协议工作，无需在远程系统安装任何代理。其功能涵盖代码部署、网络配置及云管理等领域的自动化。该项目在 GitHub 上拥有约 69,750 颗星标和 24,248 次复刻，并附有详细文档链接。"
+    },
+    {
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/628464db8884637c434e27c50a8739348f65e735b5c965c9a0ef7392e24c2aaa/ChromeDevTools/chrome-devtools-mcp\" referrerpolicy=\"no-referrer\"><br>Chrome DevTools for coding agents<br><br>Language: TypeScript<br>Stars: 48027<br>Forks: 3258",
+      "contentSnippet": "Chrome DevTools for coding agents\nLanguage: TypeScript\nStars: 48027\nForks: 3258",
+      "creator": "ChromeDevTools",
+      "summaries": {
+        "zh": "Chrome DevTools MCP 是一个面向编程智能体的工具项目，使用 TypeScript 开发。它在 GitHub 上获得约 4.8 万星标和 3253 次分叉，关注度较高。",
+        "en": "Chrome DevTools MCP is a GitHub repository that connects Chrome DevTools with coding agents. Written in TypeScript, the project enables automated browser debugging and inspection capabilities for AI-driven development tools. The repository has gained significant attention, reflected in its 47,884 stars and 3,253 forks, indicating strong community interest in integrating browser development tools with agent-based coding workflows."
+      },
+      "summary": "Chrome DevTools MCP 是一个面向编程智能体的工具项目，使用 TypeScript 开发。它在 GitHub 上获得约 4.8 万星标和 3253 次分叉，关注度较高。"
+    },
+    {
+      "title": "jenkinsci/jenkins",
+      "link": "https://github.com/jenkinsci/jenkins",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/af87c1b53714d1574325fd8b6f55ba8b463fcb44cacb91b205aa563e68d7ef46/jenkinsci/jenkins\" referrerpolicy=\"no-referrer\"><br>Jenkins automation server<br><br>Language: Java<br>Stars: 26285<br>Forks: 9718",
+      "contentSnippet": "Jenkins automation server\nLanguage: Java\nStars: 26285\nForks: 9718",
+      "creator": "jenkinsci",
+      "summaries": {
+        "zh": "Jenkins 是一个基于 Java 的自动化服务器，源代码托管在 jenkinsci 组织下。截至当前，该项目在 GitHub 上获得 26,206 个星标，并被复刻 9,713 次。",
+        "en": "The Jenkins automation server repository, located at `jenkinsci/jenkins`, is an open-source project written in Java. It has garnered 26,206 stars and 9,713 forks on GitHub, indicating its popularity and community adoption as a leading continuous integration and delivery tool."
+      },
+      "summary": "Jenkins 是一个基于 Java 的自动化服务器，源代码托管在 jenkinsci 组织下。截至当前，该项目在 GitHub 上获得 26,206 个星标，并被复刻 9,713 次。"
+    },
+    {
+      "title": "agavra/tuicr",
+      "link": "https://github.com/agavra/tuicr",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/549635e669444af52f04c62f22a0cab774045e11a5ce8c5965f1e0c5bd8472e7/agavra/tuicr\" referrerpolicy=\"no-referrer\"><br>a code review TUI with vim keybindings<br><br>Language: Rust<br>Stars: 1838<br>Forks: 157",
+      "contentSnippet": "a code review TUI with vim keybindings\nLanguage: Rust\nStars: 1838\nForks: 157",
+      "creator": "agavra",
+      "summaries": {
+        "zh": "一个用 Rust 语言编写的终端用户界面（TUI）代码审查工具，支持 Vim 风格按键绑定。该项目在 GitHub 上获得 1684 个星标和 151 个复刻。",
+        "en": "agavra/tuicr is a terminal user interface (TUI) for code review that features vim-style keybindings. The tool is implemented in Rust and has attracted 1,684 stars and 151 forks on GitHub."
+      },
+      "summary": "一个用 Rust 语言编写的终端用户界面（TUI）代码审查工具，支持 Vim 风格按键绑定。该项目在 GitHub 上获得 1684 个星标和 151 个复刻。"
+    },
+    {
+      "title": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/4969cc1a463d3f605ae021d4857daabdf63353738d0c22300f74bf3dfb484bb9/affaan-m/ECC\" referrerpolicy=\"no-referrer\"><br>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.<br><br>Language: JavaScript<br>Stars: 236194<br>Forks: 35927",
+      "contentSnippet": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.\nLanguage: JavaScript\nStars: 236194\nForks: 35927",
+      "creator": "affaan-m",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The repository `affaan-m/ECC` presents an agent harness performance optimization system. It focuses on skills, instincts, memory, security, and a research-first development approach for AI coding tools like Claude Code, Codex, Opencode, and Cursor. The project is written in JavaScript and has garnered significant community interest, with 235,903 stars and 35,897 forks."
+      },
+      "summary": "无法生成摘要。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:27.427Z"
+}

@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://sebastianraschka.com/rss_feed.xml",
+  "title": "Sebastian Raschka, PhD",
+  "description": "I'm an LLM Research Engineer with over a decade of experience in artificial intelligence. My work bridges academia and industry, with roles including senior staff at an AI company and a statistics professor. My expertise lies in LLM research and the development of high-performance AI systems, with a deep focus on practical, code-driven implementations.\n",
+  "link": "https://sebastianraschka.com/",
+  "items": [
+    {
+      "title": "Kimi K3 Architecture Notes",
+      "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "pubDate": "Tue, 28 Jul 2026 08:38:20 +0000",
+      "isoDate": "2026-07-28T08:38:20.000Z",
+      "content": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference-efficiency choices.",
+      "contentSnippet": "Short architecture note on Kimi K3, including LatentMoE, Kimi Delta Attention, Attention Residuals, NoPE, multimodality, and inference-efficiency choices.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文简要介绍了Kimi K3模型的架构要点，涵盖潜在混合专家（LatentMoE）、Kimi Delta注意力机制、注意力残差、无位置编码（NoPE）、多模态能力，以及为提升推理效率所做的设计选择。",
+        "en": "The article briefly outlines the architecture of the Kimi K3 model. It highlights several key components: LatentMoE (a mixture-of-experts variant), Kimi Delta Attention, Attention Residuals, and NoPE (no positional encoding). The note also covers the model's support for multimodality and design choices aimed at improving inference efficiency."
+      },
+      "summary": "本文简要介绍了Kimi K3模型的架构要点，涵盖潜在混合专家（LatentMoE）、Kimi Delta注意力机制、注意力残差、无位置编码（NoPE）、多模态能力，以及为提升推理效率所做的设计选择。"
+    },
+    {
+      "title": "A Few Notable Open-Weight Models This Week",
+      "link": "https://sebastianraschka.com/blog/2026/notable-open-weight-models-this-week.html",
+      "pubDate": "Sun, 26 Jul 2026 08:47:44 +0000",
+      "isoDate": "2026-07-26T08:47:44.000Z",
+      "content": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3.",
+      "contentSnippet": "Short note on the architectures of six new open-weight models, including Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3.",
+      "creator": "",
+      "summaries": {
+        "zh": "本周关注六款新开放权重模型：Nanbeige 4.2、Laguna S 2.1、Motif-3-Beta、Solar Open 2、Antares 1B 和 BTL-3。文章简要提及了它们的架构特点。",
+        "en": "The article briefly highlights six new open-weight models released this week: Nanbeige 4.2, Laguna S 2.1, Motif-3-Beta, Solar Open 2, Antares 1B, and BTL-3. It provides a short note focusing on their architectures."
+      },
+      "summary": "本周关注六款新开放权重模型：Nanbeige 4.2、Laguna S 2.1、Motif-3-Beta、Solar Open 2、Antares 1B 和 BTL-3。文章简要提及了它们的架构特点。"
+    },
+    {
+      "title": "Correction for Listing 6.5 in Build a Reasoning Model From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/reasoning-model-listing-6-5-correction.html",
+      "pubDate": "Sat, 25 Jul 2026 08:18:12 +0000",
+      "isoDate": "2026-07-25T08:18:12.000Z",
+      "content": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch.",
+      "contentSnippet": "Short correction note for the random seed in Listing 6.5 on page 198 of Build a Reasoning Model From Scratch.",
+      "creator": "",
+      "summaries": {
+        "zh": "《从零构建推理模型》一书第198页的代码列表6.5存在随机种子设置的错误，此处发布简短更正说明。文章未提供具体错误细节或修正后的代码，仅指出需修正随机种子相关问题。",
+        "en": "This is a brief correction notice for the book *Build a Reasoning Model From Scratch*. It addresses an issue with the random seed in Listing 6.5 on page 198. The article itself provides no further details about the specific change or corrected code."
+      },
+      "summary": "《从零构建推理模型》一书第198页的代码列表6.5存在随机种子设置的错误，此处发布简短更正说明。文章未提供具体错误细节或修正后的代码，仅指出需修正随机种子相关问题。"
+    },
+    {
+      "title": "Controlling Reasoning Effort in LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
+      "pubDate": "Sat, 18 Jul 2026 11:16:09 +0000",
+      "isoDate": "2026-07-18T11:16:09.000Z",
+      "content": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "contentSnippet": "How LLMs Learn Low-, Medium-, and High-Effort Reasoning Modes",
+      "creator": "",
+      "summaries": {
+        "zh": "本文探讨了大型语言模型如何习得低、中、高三种不同努力程度的推理模式，并实现对推理深度的控制。核心内容围绕模型在推理过程中动态调节计算资源的能力展开，揭示了如何引导模型根据任务需求选择恰当的思考模式，以平衡准确性与效率。",
+        "en": "The article discusses how large language models (LLMs) can be trained to adopt distinct reasoning modes—low, medium, and high effort—allowing control over the computational intensity of their responses. It addresses the methods by which models learn to modulate their reasoning depth depending on the required task."
+      },
+      "summary": "本文探讨了大型语言模型如何习得低、中、高三种不同努力程度的推理模式，并实现对推理深度的控制。核心内容围绕模型在推理过程中动态调节计算资源的能力展开，揭示了如何引导模型根据任务需求选择恰当的思考模式，以平衡准确性与效率。"
+    },
+    {
+      "title": "Inkling: A New Open-Weight 975B MoE with a Few Surprises",
+      "link": "https://sebastianraschka.com/blog/2026/inkling-architecture-benchmark-notes.html",
+      "pubDate": "Thu, 16 Jul 2026 08:50:22 +0000",
+      "isoDate": "2026-07-16T08:50:22.000Z",
+      "content": "Short note on Thinking Machines Lab's 975B Inkling model, including benchmarks, sparse MoE design, short convolutions, RMSNorm, and position bias.",
+      "contentSnippet": "Short note on Thinking Machines Lab's 975B Inkling model, including benchmarks, sparse MoE design, short convolutions, RMSNorm, and position bias.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Thinking Machines Lab has released Inkling, an open-weight 975-billion-parameter Mixture of Experts (MoE) model. The model features a sparse MoE architecture, incorporates short convolutions, uses RMSNorm, and addresses position bias. A short note accompanying the release includes benchmark results and highlights these design choices."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "200,000 Subscribers",
+      "link": "https://sebastianraschka.com/blog/2026/ahead-of-ai-reached-200000-subscribers.html",
+      "pubDate": "Sun, 12 Jul 2026 10:04:37 +0000",
+      "isoDate": "2026-07-12T10:04:37.000Z",
+      "content": "Short note celebrating Ahead of AI reaching 200,000 subscribers.",
+      "contentSnippet": "Short note celebrating Ahead of AI reaching 200,000 subscribers.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是一则简短贺词，庆祝《Ahead of AI》订阅用户数突破20万。",
+        "en": "The article marks a milestone for the newsletter \"Ahead of AI,\" which has reached 200,000 subscribers. It is a short celebratory note acknowledging this achievement."
+      },
+      "summary": "本文是一则简短贺词，庆祝《Ahead of AI》订阅用户数突破20万。"
+    },
+    {
+      "title": "GPT 5.6 Has 72 Possible Configurations. What's A Good Default?",
+      "link": "https://sebastianraschka.com/blog/2026/gpt-5-6-configurations.html",
+      "pubDate": "Thu, 09 Jul 2026 22:33:25 +0000",
+      "isoDate": "2026-07-09T22:33:25.000Z",
+      "content": "Short note on how GPT 5.6 model and effort choices map onto training-time and inference-time scaling, producing 72 configurations.",
+      "contentSnippet": "Short note on how GPT 5.6 model and effort choices map onto training-time and inference-time scaling, producing 72 configurations.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "GPT 5.6 offers 72 possible configurations arising from different combinations of model selection and effort settings. These choices reflect trade-offs in training-time and inference-time scaling strategies. The note highlights the challenge of determining a suitable default configuration among the many options."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Build a Reasoning Model From Scratch Is Out",
+      "link": "https://sebastianraschka.com/blog/2026/build-a-reasoning-model-from-scratch-is-out.html",
+      "pubDate": "Tue, 30 Jun 2026 08:16:51 +0000",
+      "isoDate": "2026-06-30T08:16:51.000Z",
+      "content": "Short note announcing the release of Build a Reasoning Model From Scratch and linking the publisher and Amazon pages.",
+      "contentSnippet": "Short note announcing the release of Build a Reasoning Model From Scratch and linking the publisher and Amazon pages.",
+      "creator": "",
+      "summaries": {
+        "zh": "新书《从零构建推理模型》已正式发布。该公告简要介绍了这一消息，并提供了出版商页面和亚马逊购买链接。",
+        "en": "A new resource titled *Build a Reasoning Model From Scratch* has been released. The announcement is a brief note confirming the publication's availability and directs readers to the publisher's page and Amazon for purchase or further details. No additional information about the book's content, author, or format is provided in the announcement."
+      },
+      "summary": "新书《从零构建推理模型》已正式发布。该公告简要介绍了这一消息，并提供了出版商页面和亚马逊购买链接。"
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "link": "https://sebastianraschka.com/blog/2026/using-local-coding-agents.html",
+      "pubDate": "Mon, 29 Jun 2026 09:01:02 +0000",
+      "isoDate": "2026-06-29T09:01:02.000Z",
+      "content": "Short note linking a new article on setting up local coding agents with open-weight models.",
+      "contentSnippet": "Short note linking a new article on setting up local coding agents with open-weight models.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文为一则简短说明，指向一篇新文章。该文章主要介绍如何借助开放权重模型，在本地搭建编程智能体（coding agent）。",
+        "en": "A brief note references a new article that explains how to set up local coding agents using open-weight models."
+      },
+      "summary": "本文为一则简短说明，指向一篇新文章。该文章主要介绍如何借助开放权重模型，在本地搭建编程智能体（coding agent）。"
+    },
+    {
+      "title": "Using Local Coding Agents",
+      "link": "https://magazine.sebastianraschka.com/p/using-local-coding-agents",
+      "pubDate": "Sat, 27 Jun 2026 11:21:58 +0000",
+      "isoDate": "2026-06-27T11:21:58.000Z",
+      "content": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+      "contentSnippet": "Using Open-Weight Models in Local Coding Harnesses as an Alternative to Claude Code and Codex Subscriptions",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article discusses using locally run, open-weight models within coding harnesses as an alternative to paid subscriptions for services like Claude Code and OpenAI Codex. It presents this approach as a way to replace these proprietary tools with self-hosted solutions."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Local Open-Weight LLMs in Coding Harnesses",
+      "link": "https://sebastianraschka.com/blog/2026/local-open-weight-llms-coding-harnesses.html",
+      "pubDate": "Fri, 26 Jun 2026 09:42:42 +0000",
+      "isoDate": "2026-06-26T09:42:42.000Z",
+      "content": "Short note on trying local open-weight LLMs across Qwen-Code, Codex, and Claude Code harnesses.",
+      "contentSnippet": "Short note on trying local open-weight LLMs across Qwen-Code, Codex, and Claude Code harnesses.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文简短记录了作者在本地尝试运行开放权重的大语言模型（LLMs），并将其集成到 Qwen-Code、Codex 和 Claude Code 等多种编程辅助工具中进行测试。",
+        "en": "The article briefly notes an experiment with running local, open-weight large language models (LLMs) for coding tasks. The author tested these models across three different harnesses: Qwen-Code, Codex, and Claude Code. No results, comparisons, or further details are provided."
+      },
+      "summary": "本文简短记录了作者在本地尝试运行开放权重的大语言模型（LLMs），并将其集成到 Qwen-Code、Codex 和 Claude Code 等多种编程辅助工具中进行测试。"
+    },
+    {
+      "title": "GLM-5.2 and IndexShare for Long-Context Sparse Attention",
+      "link": "https://sebastianraschka.com/blog/2026/glm-5-2-indexshare.html",
+      "pubDate": "Thu, 18 Jun 2026 09:16:05 +0000",
+      "isoDate": "2026-06-18T09:16:05.000Z",
+      "content": "Short note on GLM-5.2, an open-weight GLM update that keeps the GLM-5 sparse MoE backbone and adds IndexShare for cheaper 1M-token DSA inference.",
+      "contentSnippet": "Short note on GLM-5.2, an open-weight GLM update that keeps the GLM-5 sparse MoE backbone and adds IndexShare for cheaper 1M-token DSA inference.",
+      "creator": "",
+      "summaries": {
+        "zh": "GLM-5.2 是 GLM 模型的开放权重更新版本，延续了 GLM-5 的稀疏混合专家（MoE）主干架构，并新增 IndexShare 技术，旨在以更低的成本实现百万级令牌长上下文稀疏注意力（DSA）推理。",
+        "en": "GLM-5.2 is an open-weight update to the GLM model series. It retains the GLM-5 sparse mixture-of-experts (MoE) backbone and introduces IndexShare, a technique designed to reduce the cost of dynamic sparse attention (DSA) inference on sequences up to one million tokens."
+      },
+      "summary": "GLM-5.2 是 GLM 模型的开放权重更新版本，延续了 GLM-5 的稀疏混合专家（MoE）主干架构，并新增 IndexShare 技术，旨在以更低的成本实现百万级令牌长上下文稀疏注意力（DSA）推理。"
+    },
+    {
+      "title": "VibeThinker-3B and the Strength of Post-Training",
+      "link": "https://sebastianraschka.com/blog/2026/vibethinker-3b-post-training.html",
+      "pubDate": "Wed, 17 Jun 2026 08:13:15 +0000",
+      "isoDate": "2026-06-17T08:13:15.000Z",
+      "content": "Short note on VibeThinker-3B, a 3B model based on Qwen2.5-Coder-3B whose reported coding and reasoning results point to strong post-training.",
+      "contentSnippet": "Short note on VibeThinker-3B, a 3B model based on Qwen2.5-Coder-3B whose reported coding and reasoning results point to strong post-training.",
+      "creator": "",
+      "summaries": {
+        "zh": "VibeThinker-3B 是基于 Qwen2.5-Coder-3B 的 3B 参数模型，其公布的编程与推理测试结果凸显了出色的后训练优化成效，证明经针对性后训练，小规模模型也能获得显著性能提升。",
+        "en": "VibeThinker-3B is a 3-billion-parameter model built on Qwen2.5-Coder-3B. Its reported performance on coding and reasoning benchmarks highlights the effectiveness of post-training optimizations, suggesting that substantial gains can be achieved even with relatively small models through targeted fine-tuning and alignment processes."
+      },
+      "summary": "VibeThinker-3B 是基于 Qwen2.5-Coder-3B 的 3B 参数模型，其公布的编程与推理测试结果凸显了出色的后训练优化成效，证明经针对性后训练，小规模模型也能获得显著性能提升。"
+    },
+    {
+      "title": "North Mini Code and Agentic Coding Benchmarks",
+      "link": "https://sebastianraschka.com/blog/2026/north-mini-code-agentic-coding.html",
+      "pubDate": "Fri, 12 Jun 2026 18:49:55 +0000",
+      "isoDate": "2026-06-12T18:49:55.000Z",
+      "content": "Short note on North Mini Code, Cohere's 30B total and 3B active open-weight MoE model for agentic coding tasks.",
+      "contentSnippet": "Short note on North Mini Code, Cohere's 30B total and 3B active open-weight MoE model for agentic coding tasks.",
+      "creator": "",
+      "summaries": {
+        "zh": "Cohere发布了开源混合专家模型North Mini Code，总参数300亿，活跃参数30亿，专为代理编码任务设计。该模型采用开放权重，旨在高效处理代码生成、调试等智能体相关的编程工作。",
+        "en": "Cohere released North Mini Code, an open-weight Mixture of Experts (MoE) model designed for agentic coding tasks. It features 30 billion total parameters with only 3 billion active during inference, prioritizing efficiency."
+      },
+      "summary": "Cohere发布了开源混合专家模型North Mini Code，总参数300亿，活跃参数30亿，专为代理编码任务设计。该模型采用开放权重，旨在高效处理代码生成、调试等智能体相关的编程工作。"
+    },
+    {
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "link": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1",
+      "pubDate": "Sat, 06 Jun 2026 11:16:22 +0000",
+      "isoDate": "2026-06-06T11:16:22.000Z",
+      "content": "A curated roundup of notable LLM research papers that came out this year",
+      "contentSnippet": "A curated roundup of notable LLM research papers that came out this year",
+      "creator": "",
+      "summaries": {
+        "zh": "本文是一份精选汇编，汇总了2026年1月至5月期间发表的重要大语言模型（LLM）研究论文。原文仅提供了标题与简短介绍，未列出具体的论文清单或详细摘要。",
+        "en": "The article presents a curated collection of notable large language model (LLM) research papers published between January and May 2026. No specific papers, authors, or findings are provided in the given content."
+      },
+      "summary": "本文是一份精选汇编，汇总了2026年1月至5月期间发表的重要大语言模型（LLM）研究论文。原文仅提供了标题与简短介绍，未列出具体的论文清单或详细摘要。"
+    },
+    {
+      "title": "Nemotron 3 Ultra and Latent MoE Scaling",
+      "link": "https://sebastianraschka.com/blog/2026/nemotron-3-ultra-latent-moe.html",
+      "pubDate": "Thu, 04 Jun 2026 11:56:41 +0000",
+      "isoDate": "2026-06-04T11:56:41.000Z",
+      "content": "Short note on Nemotron 3 Ultra, NVIDIA's 550B total and 55B active hybrid Mamba-Transformer Latent MoE model.",
+      "contentSnippet": "Short note on Nemotron 3 Ultra, NVIDIA's 550B total and 55B active hybrid Mamba-Transformer Latent MoE model.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文简要介绍了英伟达（NVIDIA）的Nemotron 3 Ultra模型。该模型总参数量为5500亿，活跃参数为550亿，采用混合架构，结合了Mamba与Transformer技术，并应用了潜在混合专家（Latent MoE）的扩展策略。",
+        "en": "NVIDIA’s Nemotron 3 Ultra is a 550-billion-parameter language model with 55 billion active parameters. It uses a hybrid architecture combining Mamba and Transformer components, along with a latent Mixture of Experts (MoE) design for efficient scaling."
+      },
+      "summary": "本文简要介绍了英伟达（NVIDIA）的Nemotron 3 Ultra模型。该模型总参数量为5500亿，活跃参数为550亿，采用混合架构，结合了Mamba与Transformer技术，并应用了潜在混合专家（Latent MoE）的扩展策略。"
+    },
+    {
+      "title": "MiniMax M2 and Production-Oriented Model Design",
+      "link": "https://sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+      "pubDate": "Wed, 27 May 2026 10:09:03 +0000",
+      "isoDate": "2026-05-27T10:09:03.000Z",
+      "content": "Short note on the MiniMax-M2 technical report, including full attention, fine-grained MoE, agent pipelines, speed rewards, and self-evolution.",
+      "contentSnippet": "Short note on the MiniMax-M2 technical report, including full attention, fine-grained MoE, agent pipelines, speed rewards, and self-evolution.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文简要介绍了 MiniMax M2 技术报告，聚焦于面向生产环境的模型设计。主要内容涵盖全注意力机制、细粒度混合专家模型、智能体流水线，以及通过速度奖励实现自我进化等关键技术方向。",
+        "en": "The MiniMax-M2 technical report introduces a production-oriented model design. Key components include full attention mechanisms, fine-grained mixture of experts (MoE), agent pipelines, speed-based reward optimization, and self-evolution capabilities. These elements collectively aim at efficient, scalable deployment."
+      },
+      "summary": "本文简要介绍了 MiniMax M2 技术报告，聚焦于面向生产环境的模型设计。主要内容涵盖全注意力机制、细粒度混合专家模型、智能体流水线，以及通过速度奖励实现自我进化等关键技术方向。"
+    },
+    {
+      "title": "DeepSeek Sparse Attention From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/deepseek-sparse-attention-from-scratch.html",
+      "pubDate": "Sat, 23 May 2026 14:00:34 +0000",
+      "isoDate": "2026-05-23T14:00:34.000Z",
+      "content": "Short note on a DeepSeek Sparse Attention from-scratch implementation added to the LLMs-from-scratch repository.",
+      "contentSnippet": "Short note on a DeepSeek Sparse Attention from-scratch implementation added to the LLMs-from-scratch repository.",
+      "creator": "",
+      "summaries": {
+        "zh": "在 LLMs-from-scratch 代码仓库中，新增了一个从零实现的 DeepSeek 稀疏注意力机制。这是一则简短说明，记录了该实现已添加到仓库中。",
+        "en": "A from-scratch implementation of DeepSeek's sparse attention mechanism has been added to the LLMs-from-scratch repository. This brief note announces the new addition, highlighting that the code was built without relying on existing frameworks, as part of the repository's educational approach to large language models."
+      },
+      "summary": "在 LLMs-from-scratch 代码仓库中，新增了一个从零实现的 DeepSeek 稀疏注意力机制。这是一则简短说明，记录了该实现已添加到仓库中。"
+    },
+    {
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "link": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "pubDate": "Sat, 16 May 2026 11:33:51 +0000",
+      "isoDate": "2026-05-16T11:33:51.000Z",
+      "content": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+      "contentSnippet": "From Gemma 4 to DeepSeek V4, How New Open-Weight LLMs Are Reducing Long-Context Costs",
+      "creator": "",
+      "summaries": {
+        "zh": "近期大型语言模型架构研究聚焦于降低长上下文计算成本，主要方向包括KV缓存共享、多头循环注意力（mHC）和压缩注意力等机制。以Gemma 4和DeepSeek V4为代表的新型开源权重模型，正在通过这些技术优化长序列处理的效率。",
+        "en": "Open-weight large language models like Gemma 4 and DeepSeek V4 are adopting novel architectural techniques to lower the computational cost of processing long contexts. Key innovations include KV cache sharing, which reduces memory overhead by reusing key-value states; multi-head attention variants (mHC) that improve efficiency; and compressed attention mechanisms that condense long sequences. These methods collectively cut inference costs while maintaining performance on extended inputs."
+      },
+      "summary": "近期大型语言模型架构研究聚焦于降低长上下文计算成本，主要方向包括KV缓存共享、多头循环注意力（mHC）和压缩注意力等机制。以Gemma 4和DeepSeek V4为代表的新型开源权重模型，正在通过这些技术优化长序列处理的效率。"
+    },
+    {
+      "title": "Implementing LLM Architectures From Scratch",
+      "link": "https://sebastianraschka.com/blog/2026/llm-architectures-from-scratch-talk.html",
+      "pubDate": "Thu, 14 May 2026 08:45:46 +0000",
+      "isoDate": "2026-05-14T08:45:46.000Z",
+      "content": "Short note linking a talk on implementing LLM architectures from scratch and comparing new open-weight model implementations against references.",
+      "contentSnippet": "Short note linking a talk on implementing LLM architectures from scratch and comparing new open-weight model implementations against references.",
+      "creator": "",
+      "summaries": {
+        "zh": "一篇短文链接了关于从零实现大语言模型架构的演讲资源，主要内容涉及对比新的开放权重模型实现与参考基准。演讲展示了如何从头构建LLM架构，并评估了不同实现之间的差异。",
+        "en": "The article is a brief note linking to a talk on building large language model (LLM) architectures from scratch. The talk examines the process of implementing LLM architectures and compares new open-weight model implementations against established reference implementations."
+      },
+      "summary": "一篇短文链接了关于从零实现大语言模型架构的演讲资源，主要内容涉及对比新的开放权重模型实现与参考基准。演讲展示了如何从头构建LLM架构，并评估了不同实现之间的差异。"
+    },
+    {
+      "title": "My Workflow for Understanding LLM Architectures",
+      "link": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+      "pubDate": "Sat, 18 Apr 2026 11:24:36 +0000",
+      "isoDate": "2026-04-18T11:24:36.000Z",
+      "content": "A learning-oriented workflow for understanding new open-weight model releases",
+      "contentSnippet": "A learning-oriented workflow for understanding new open-weight model releases",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article presents a personal, learning-oriented workflow for analyzing newly released open-weight large language models. It focuses on a methodical approach to understand their architectures, helping the reader grasp technical details when new models become available."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Components of A Coding Agent",
+      "link": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "pubDate": "Sat, 04 Apr 2026 11:45:37 +0000",
+      "isoDate": "2026-04-04T11:45:37.000Z",
+      "content": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+      "contentSnippet": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+      "creator": "",
+      "summaries": {
+        "zh": "文章介绍了编码代理的关键组成部分：工具、记忆和代码库上下文。这些组件帮助大语言模型在实际编程中更有效地工作，工具可执行操作，记忆保留历史信息，代码库上下文提供项目全局理解，从而提升模型的任务处理能力与实用性。",
+        "en": "Coding agents improve the real-world performance of large language models by incorporating three core components: tools, memory, and repository context. Tools enable the agent to execute actions like running code or searching docs. Memory retains past interactions for coherent, ongoing tasks. Repository context gives the agent awareness of the existing codebase structure and files. These elements work together to produce more accurate, context-aware code generation and problem-solving."
+      },
+      "summary": "文章介绍了编码代理的关键组成部分：工具、记忆和代码库上下文。这些组件帮助大语言模型在实际编程中更有效地工作，工具可执行操作，记忆保留历史信息，代码库上下文提供项目全局理解，从而提升模型的任务处理能力与实用性。"
+    },
+    {
+      "title": "Gemma 4 Architecture and Benchmark Notes",
+      "link": "https://sebastianraschka.com/blog/2026/gemma-4-release-notes.html",
+      "pubDate": "Thu, 02 Apr 2026 14:07:15 +0000",
+      "isoDate": "2026-04-02T14:07:15.000Z",
+      "content": "Short note on Gemma 4 31B, including its local-global attention recipe, benchmark jump over Gemma 3, and Apache 2.0 release.",
+      "contentSnippet": "Short note on Gemma 4 31B, including its local-global attention recipe, benchmark jump over Gemma 3, and Apache 2.0 release.",
+      "creator": "",
+      "summaries": {
+        "zh": "本文简要介绍了Gemma 4 31B模型，重点包括其采用的局部-全局注意力机制、相较于Gemma 3的基准性能显著提升，以及该模型遵循Apache 2.0许可证发布。",
+        "en": "Google's Gemma 4 31B model introduces a local-global attention recipe, which alternates between local sliding window attention and global attention layers for efficient long-context processing. It achieves a significant performance improvement over Gemma 3 on benchmarks. The model is released under the permissive Apache 2.0 license."
+      },
+      "summary": "本文简要介绍了Gemma 4 31B模型，重点包括其采用的局部-全局注意力机制、相较于Gemma 3的基准性能显著提升，以及该模型遵循Apache 2.0许可证发布。"
+    },
+    {
+      "title": "LLM Architecture Gallery Diff Tool",
+      "link": "https://sebastianraschka.com/blog/2026/llm-architecture-gallery-diff-tool.html",
+      "pubDate": "Thu, 26 Mar 2026 12:56:08 +0000",
+      "isoDate": "2026-03-26T12:56:08.000Z",
+      "content": "Short note on the LLM Architecture Gallery diff tool for comparing two model architecture stacks side by side.",
+      "contentSnippet": "Short note on the LLM Architecture Gallery diff tool for comparing two model architecture stacks side by side.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article introduces the LLM Architecture Gallery diff tool, a utility for comparing two model architecture stacks side by side. It serves as a brief overview of the tool's purpose, allowing users to visualize differences between architectures directly."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A Visual Guide to Attention Variants in Modern LLMs",
+      "link": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+      "pubDate": "Sun, 22 Mar 2026 11:55:40 +0000",
+      "isoDate": "2026-03-22T11:55:40.000Z",
+      "content": "From MHA and GQA to MLA, sparse attention, and hybrid architectures",
+      "contentSnippet": "From MHA and GQA to MLA, sparse attention, and hybrid architectures",
+      "creator": "",
+      "summaries": {
+        "zh": "本文以可视化方式梳理现代大语言模型中的注意力机制变体，涵盖从经典的多头注意力（MHA）、分组查询注意力（GQA），到新兴的多头潜在注意力（MLA），以及稀疏注意力和各类混合架构。内容直观呈现各设计的特点与演进脉络，帮助理解它们如何平衡效率与效果。",
+        "en": "This article presents a visual overview of attention mechanisms used in contemporary large language models. It covers multi-head attention (MHA), grouped-query attention (GQA), multi-latent attention (MLA), sparse attention approaches, and hybrid architectures, illustrating how these variants evolve to balance efficiency and performance."
+      },
+      "summary": "本文以可视化方式梳理现代大语言模型中的注意力机制变体，涵盖从经典的多头注意力（MHA）、分组查询注意力（GQA），到新兴的多头潜在注意力（MLA），以及稀疏注意力和各类混合架构。内容直观呈现各设计的特点与演进脉络，帮助理解它们如何平衡效率与效果。"
+    },
+    {
+      "title": "New LLM Architecture Gallery",
+      "link": "https://sebastianraschka.com/blog/2026/llm-architecture-gallery.html",
+      "pubDate": "Sat, 14 Mar 2026 14:45:00 +0000",
+      "isoDate": "2026-03-14T14:45:00.000Z",
+      "content": "Visual gallery of LLM architecture variants: attention mechanisms, positional encodings, MoE, and more — with comparison figures and compact reference sheets.",
+      "contentSnippet": "Visual gallery of LLM architecture variants: attention mechanisms, positional encodings, MoE, and more — with comparison figures and compact reference sheets.",
+      "creator": "",
+      "summaries": {
+        "zh": "该页面展示了一个大语言模型架构的视觉画廊，系统梳理了多种架构变体，涵盖注意力机制、位置编码、混合专家（MoE）等核心组件，并以对比图表和简洁参考表的形式直观呈现。",
+        "en": "This article presents a visual gallery of large language model (LLM) architecture variants. It covers different attention mechanisms, positional encodings, and Mixture of Experts (MoE) designs. The gallery includes comparison figures and compact reference sheets to illustrate the differences and key features of each architectural choice."
+      },
+      "summary": "该页面展示了一个大语言模型架构的视觉画廊，系统梳理了多种架构变体，涵盖注意力机制、位置编码、混合专家（MoE）等核心组件，并以对比图表和简洁参考表的形式直观呈现。"
+    },
+    {
+      "title": "Nemotron 3 Super Throughput Notes",
+      "link": "https://sebastianraschka.com/blog/2026/nemotron-3-super-throughput.html",
+      "pubDate": "Thu, 12 Mar 2026 08:07:03 +0000",
+      "isoDate": "2026-03-12T08:07:03.000Z",
+      "content": "Short note on NVIDIA Nemotron 3 Super 120B-A12B, a hybrid Mamba-Transformer MoE model with latent experts and shared-weight MTP.",
+      "contentSnippet": "Short note on NVIDIA Nemotron 3 Super 120B-A12B, a hybrid Mamba-Transformer MoE model with latent experts and shared-weight MTP.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The article is a brief note on NVIDIA’s Nemotron 3 Super 120B-A12B model. It describes the model as a hybrid architecture combining Mamba and Transformer components, employing a Mixture of Experts (MoE) design with latent experts. It also features shared-weight Multi-Token Prediction (MTP)."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+      "link": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+      "pubDate": "Wed, 25 Feb 2026 08:15:00 +0000",
+      "isoDate": "2026-02-25T08:15:00.000Z",
+      "content": "A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026",
+      "contentSnippet": "A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026",
+      "creator": "",
+      "summaries": {
+        "zh": "本文梳理并比较了2026年一月至二月间发布的十款开放",
+        "en": "This article provides a roundup and comparison of ten open-weight large language model (LLM) architectures released during January and February 2026. Titled \"A Dream of Spring for Open-Weight LLMs,\" it surveys these recent models, highlighting their designs and key features. No further details about the specific architectures or the comparison criteria are provided in the given content."
+      },
+      "summary": "本文梳理并比较了2026年一月至二月间发布的十款开放"
+    },
+    {
+      "title": "State of AI 2026 with Sebastian Raschka, Nathan Lambert, and Lex Fridman",
+      "link": "https://sebastianraschka.com/blog/2026/state-of-ai-interview.html",
+      "pubDate": "Sun, 01 Feb 2026 06:20:00 +0000",
+      "isoDate": "2026-02-01T06:20:00.000Z",
+      "content": "I recently sat down with Lex Fridman and Nathan Lambert for a comprehensive 4.5 h interview to discuss the current state of progress of AI, and what the...",
+      "contentSnippet": "I recently sat down with Lex Fridman and Nathan Lambert for a comprehensive 4.5 h interview to discuss the current state of progress of AI, and what the...",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Sebastian Raschka, Nathan Lambert, and Lex Fridman participated in a 4.5-hour interview focused on the current state of AI progress. The article’s truncated content does not include the specific topics or conclusions from their discussion."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+      "link": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+      "pubDate": "Sat, 24 Jan 2026 08:15:00 +0000",
+      "isoDate": "2026-01-24T08:15:00.000Z",
+      "content": "Inference scaling has become one of the most effective ways to improve answer quality and accuracy in deployed LLMs. The idea is straightforward. If we are...",
+      "contentSnippet": "Inference scaling has become one of the most effective ways to improve answer quality and accuracy in deployed LLMs. The idea is straightforward. If we are...",
+      "creator": "",
+      "summaries": {
+        "zh": "本文介绍了推理时缩放作为提升大语言模型推理质量的有效方法，其核心思路是在模型部署后的推理阶段投入更多计算资源，以获得更优质的答案。文章标题提及对其类别进行划分，但未提供具体分类细节。",
+        "en": "The article introduces inference-time scaling as a key technique for enhancing the quality and accuracy of answers in deployed large language models. It begins by noting that the core idea is straightforward, but the provided text is cut off after \"If we are...\" and does not deliver the promised categories or any further details. No classification, methods, or examples of"
+      },
+      "summary": "本文介绍了推理时缩放作为提升大语言模型推理质量的有效方法，其核心思路是在模型部署后的推理阶段投入更多计算资源，以获得更优质的答案。文章标题提及对其类别进行划分，但未提供具体分类细节。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:36:59.535Z"
+}

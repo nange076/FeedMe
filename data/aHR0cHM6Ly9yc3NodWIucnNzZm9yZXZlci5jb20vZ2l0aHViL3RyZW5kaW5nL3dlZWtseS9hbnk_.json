@@ -1,0 +1,303 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "block/buzz",
+      "link": "https://github.com/block/buzz",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/96187a72b8a097ebfc7d146305c01623897fea5b1e79770506f896f010fefc50/block/buzz\" referrerpolicy=\"no-referrer\"><br>A hive mind communication platform<br><br>Language: Rust<br>Stars: 18412<br>Forks: 1791",
+      "contentSnippet": "A hive mind communication platform\nLanguage: Rust\nStars: 18412\nForks: 1791",
+      "creator": "block",
+      "summaries": {
+        "zh": "一个基于Rust开发的群体智能通信平台，名为block/buzz。该项目在GitHub上获得17,680颗星和1,697次分叉，显示出较高的社区关注度。平台旨在实现类似蜂巢思维的群体协作与信息交互功能。",
+        "en": "The project **block/buzz** is an open-source hive mind communication platform implemented in Rust. On GitHub, it has gathered 17,680 stars and 1,697 forks, indicating notable community engagement."
+      },
+      "summary": "一个基于Rust开发的群体智能通信平台，名为block/buzz。该项目在GitHub上获得17,680颗星和1,697次分叉，显示出较高的社区关注度。平台旨在实现类似蜂巢思维的群体协作与信息交互功能。"
+    },
+    {
+      "title": "citrolabs/ego-lite",
+      "link": "https://github.com/citrolabs/ego-lite",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1212503250/1e62fd1c-4ca2-40f1-aae4-6aec4614e726?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=6ed13b5f1a2f185f3a15bfae814069f8a95dd1b75329bdbb00c236876f3c2d10&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.<br><br>Language: JavaScript<br>Stars: 6492<br>Forks: 312",
+      "contentSnippet": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.\nLanguage: JavaScript\nStars: 6492\nForks: 312",
+      "creator": "citrolabs",
+      "summaries": {
+        "zh": "citrolabs/ego-lite 是一个专为 AI 代理设计的最快浏览器自动化工具。它能将已登录的浏览器状态共享给 Codex、Claude Code 等 AI 代理，且不会干扰用户。项目主打零成本与零配置，使用 JavaScript 开发，目前在 GitHub 上获得 6,221 颗星标和 306 次复刻。",
+        "en": "ego-lite, by citrolabs, is presented as the fastest browser designed for AI agents to perform browser automation. It allows sharing a user's logged-in browser state with AI agents such as Codex or Claude Code without interrupting the user's activity. The tool requires no cost or configuration. The repository is built with JavaScript and has gathered 6,221 stars and 306 forks."
+      },
+      "summary": "citrolabs/ego-lite 是一个专为 AI 代理设计的最快浏览器自动化工具。它能将已登录的浏览器状态共享给 Codex、Claude Code 等 AI 代理，且不会干扰用户。项目主打零成本与零配置，使用 JavaScript 开发，目前在 GitHub 上获得 6,221 颗星标和 306 次复刻。"
+    },
+    {
+      "title": "koala73/worldmonitor",
+      "link": "https://github.com/koala73/worldmonitor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1130564872/59ff0927-deb4-4941-8cbc-b68cbe060417?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=bed4406005a916368c1b28feee8c77d29850488ecce94d7a2dd6aefdff87c3cf&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface<br><br>Language: TypeScript<br>Stars: 76956<br>Forks: 11469",
+      "contentSnippet": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface\nLanguage: TypeScript\nStars: 76956\nForks: 11469",
+      "creator": "koala73",
+      "summaries": {
+        "zh": "koala73/worldmonitor 是一个实时全球情报仪表板，利用 AI 驱动新闻聚合、地缘政治监控与基础设施追踪，在统一界面中",
+        "en": "Unable to generate summary."
+      },
+      "summary": "koala73/worldmonitor 是一个实时全球情报仪表板，利用 AI 驱动新闻聚合、地缘政治监控与基础设施追踪，在统一界面中"
+    },
+    {
+      "title": "ayghri/i-have-adhd",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/28b527e63227df52c4843118ee07454c67feb4368a796934e03f8e387e63d1d8/ayghri/i-have-adhd\" referrerpolicy=\"no-referrer\"><br>A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.<br><br>Language: Python<br>Stars: 14207<br>Forks: 754",
+      "contentSnippet": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.\nLanguage: Python\nStars: 14207\nForks: 754",
+      "creator": "ayghri",
+      "summaries": {
+        "zh": "该项目 `ayghri/i-have-adhd` 是一个为编程智能体设计的“技能”，旨在阻止其将真正答案淹没在冗长输出中，提供对 ADHD 用户友好的输出方式。项目使用 Python 语言开发，目前在 GitHub 上获得 13,814 颗星标和 734 次复刻。",
+        "en": "The GitHub repository \"ayghri/i-have-adhd\" offers a Python skill designed for coding agents. Its purpose is to prevent the agent from burying key answers in verbose output, instead delivering concise, ADHD-friendly responses. The project has gained significant community attention, with 13,814 stars and 734 forks."
+      },
+      "summary": "该项目 `ayghri/i-have-adhd` 是一个为编程智能体设计的“技能”，旨在阻止其将真正答案淹没在冗长输出中，提供对 ADHD 用户友好的输出方式。项目使用 Python 语言开发，目前在 GitHub 上获得 13,814 颗星标和 734 次复刻。"
+    },
+    {
+      "title": "bojieli/ai-agent-book",
+      "link": "https://github.com/bojieli/ai-agent-book",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b4ed9bcd743921d68d9e3c5eb14124dfc0f2934e4afd5a0a02d710c723569812/bojieli/ai-agent-book\" referrerpolicy=\"no-referrer\"><br>《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码<br><br>Language: Python<br>Stars: 27346<br>Forks: 2874",
+      "contentSnippet": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码\nLanguage: Python\nStars: 27346\nForks: 2874",
+      "creator": "bojieli",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "This is an open-source repository for the book *Understanding AI Agents: Design Principles and Engineering Practice* by Li Bojie. It hosts the complete book text, a compiled PDF, and chapter-by-chapter companion code. The project uses Python and has garnered over 26,900 stars and 2,800 forks, indicating strong community interest in AI agent design and implementation."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1241960226/27bf01cb-17df-44d5-9b7b-bcf17c970c6d?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=0737ad07dd15db8291926ff77c3fc8a8fddaf6f074b7137abf3eb2178826614f&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.<br><br>Language: Go<br>Stars: 16563<br>Forks: 1114",
+      "contentSnippet": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.\nLanguage: Go\nStars: 16563\nForks: 1114",
+      "creator": "alibaba",
+      "summaries": {
+        "zh": "阿里巴巴开源免费的代码审查工具 open-code-review，经内部超大规模实战检验。它采用混合架构，融合确定性流程与大语言模型代理，可实现精确的行级评论。内置针对空指针、线程安全、XSS 及 SQL 注入等问题的精调规则集，兼容 OpenAI 与 Anthropic 接口。项目以 Go 语言开发，已获超 1.6 万星标。",
+        "en": "Alibaba’s Open-Code-Review is a free, open-source tool battle-tested at Alibaba’s scale. It employs a hybrid architecture combining deterministic pipelines with an LLM Agent to deliver precise, line-level comments. A built-in, fine-tuned ruleset detects issues like null pointer exceptions, thread-safety problems, cross-site scripting, and SQL injection. The tool supports OpenAI- and Anthropic-compatible models, is implemented in Go, and has garnered over 16,000 GitHub stars and 1,100 forks."
+      },
+      "summary": "阿里巴巴开源免费的代码审查工具 open-code-review，经内部超大规模实战检验。它采用混合架构，融合确定性流程与大语言模型代理，可实现精确的行级评论。内置针对空指针、线程安全、XSS 及 SQL 注入等问题的精调规则集，兼容 OpenAI 与 Anthropic 接口。项目以 Go 语言开发，已获超 1.6 万星标。"
+    },
+    {
+      "title": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fce45297f9b28d41f86bbc046a69dbe20989de8725a6c0f71ca7f92f0e18ca7a/mattpocock/skills\" referrerpolicy=\"no-referrer\"><br>Skills for Real Engineers. Straight from my .agents directory.<br><br>Language: Shell<br>Stars: 196215<br>Forks: 16911",
+      "contentSnippet": "Skills for Real Engineers. Straight from my .agents directory.\nLanguage: Shell\nStars: 196215\nForks: 16911",
+      "creator": "mattpocock",
+      "summaries": {
+        "zh": "这是一个名为“mattpocock/skills”的开源代码库，汇集了作者.agents目录下的实用工程师技能脚本。项目采用Shell语言编写，目前在GitHub上已获得超过19.5万星标和1.6万次分叉。",
+        "en": "This repository by mattpocock is a collection of shell scripts called \"Skills for Real Engineers,\" sourced directly from the author's `.agents` directory. It has garnered significant attention with over 195,000 stars and 16,800 forks. The content appears to provide practical, agent-like utilities aimed at engineers."
+      },
+      "summary": "这是一个名为“mattpocock/skills”的开源代码库，汇集了作者.agents目录下的实用工程师技能脚本。项目采用Shell语言编写，目前在GitHub上已获得超过19.5万星标和1.6万次分叉。"
+    },
+    {
+      "title": "diegosouzapw/OmniRoute",
+      "link": "https://github.com/diegosouzapw/OmniRoute",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/01a8fc7832e34abd1d9b40447e1af7cb2c575f89eba4b3014cfccb99ac5c4155/diegosouzapw/OmniRoute\" referrerpolicy=\"no-referrer\"><br>Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors<br><br>Language: TypeScript<br>Stars: 35119<br>Forks: 4527",
+      "contentSnippet": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors\nLanguage: TypeScript\nStars: 35119\nForks: 4527",
+      "creator": "diegosouzapw",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "OmniRoute is a free, MIT-licensed AI gateway that unifies access to over 500 models from more than 290 providers (90+ free) via a single endpoint. It supports popular models like Claude, GPT, Gemini, and DeepSeek, and integrates with coding tools such as Cursor, Claude Code, and Copilot. Features include quota-aware automatic fallback, a compression method saving 15–95% tokens, and MCP/A2A compatibility. Available as a desktop app and PWA, the TypeScript project has over 500 contributors, 34,512 stars, and 4,456 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/260c3da33a7ec9dc348fe86427b63df332311e77f312878589fd468b590985bd/shiyu-coder/Kronos\" referrerpolicy=\"no-referrer\"><br>Kronos: A Foundation Model for the Language of Financial Markets<br><br>Language: Python<br>Stars: 35105<br>Forks: 5855",
+      "contentSnippet": "Kronos: A Foundation Model for the Language of Financial Markets\nLanguage: Python\nStars: 35105\nForks: 5855",
+      "creator": "shiyu-coder",
+      "summaries": {
+        "zh": "Kronos 是一个专注于金融市场的语言基础模型，旨在解析和生成金融领域的语言内容。该项目使用 Python 开发，在 GitHub 上已获得超过 3.5 万颗星标和 5800 多次复刻，显示出较高的社区关注度和活跃度。",
+        "en": "The repository \"shiyu-coder/Kronos\" presents Kronos, a foundation model built for processing and understanding the language of financial markets. Implemented in Python, the project has attracted substantial community interest, reflected in its 35,044 stars and 5,844 forks. No further details about the model's architecture, training data, or capabilities are provided in the given content."
+      },
+      "summary": "Kronos 是一个专注于金融市场的语言基础模型，旨在解析和生成金融领域的语言内容。该项目使用 Python 开发，在 GitHub 上已获得超过 3.5 万颗星标和 5800 多次复刻，显示出较高的社区关注度和活跃度。"
+    },
+    {
+      "title": "1jehuang/jcode",
+      "link": "https://github.com/1jehuang/jcode",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/23d361bbaaa5a092b41e28e923c93c8ffd29d5d8427fbf8f81629a561b63b7e8/1jehuang/jcode\" referrerpolicy=\"no-referrer\"><br>The most RAM efficient harness<br><br>Language: Rust<br>Stars: 14204<br>Forks: 1560",
+      "contentSnippet": "The most RAM efficient harness\nLanguage: Rust\nStars: 14204\nForks: 1560",
+      "creator": "1jehuang",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "The GitHub repository `1jehuang/jcode` is a Rust-based harness described as \"the most RAM efficient.\" It has gained significant attention, with 13,768 stars and 1,515 forks."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/53a54e42216caa85c3e762e00ca8ac60882e82b2dea46dedd846fd6e00b52db9/pingdotgg/t3code\" referrerpolicy=\"no-referrer\"><br><br><br>Language: TypeScript<br>Stars: 15886<br>Forks: 3510",
+      "contentSnippet": "Language: TypeScript\nStars: 15886\nForks: 3510",
+      "creator": "pingdotgg",
+      "summaries": {
+        "zh": "一个名为“pingdotgg/t3code”的GitHub项目，使用TypeScript开发，目前已获得15735颗星和3471个分支。",
+        "en": "The GitHub repository \"pingdotgg/t3code\" is an open-source project written in TypeScript. It has gained significant traction within the developer community, reflected by its 15,735 stars and 3,471 forks."
+      },
+      "summary": "一个名为“pingdotgg/t3code”的GitHub项目，使用TypeScript开发，目前已获得15735颗星和3471个分支。"
+    },
+    {
+      "title": "pascalorg/editor",
+      "link": "https://github.com/pascalorg/editor",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1077819522/f76f9c77-a8ac-47a2-9fd7-d17a9cdb3759?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=8b1ad63065fcb72eab0ee63269f2ab753d5dc6fe1f7f83419a2232cc00a4dddf&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>Create and share 3D architectural projects.<br><br>Language: TypeScript<br>Stars: 20095<br>Forks: 2620",
+      "contentSnippet": "Create and share 3D architectural projects.\nLanguage: TypeScript\nStars: 20095\nForks: 2620",
+      "creator": "pascalorg",
+      "summaries": {
+        "zh": "pascalorg/editor 是一个支持创建与分享三维建筑项目的编辑器。项目采用 TypeScript 开发，目前在 GitHub 上获得 19,866 颗星标和 2,611 次复刻。",
+        "en": "pascalorg/editor is an open-source project built with TypeScript that allows users to create and share 3D architectural projects. The repository has attracted substantial community attention, reflected in its 19,866 stars and 2,611 forks."
+      },
+      "summary": "pascalorg/editor 是一个支持创建与分享三维建筑项目的编辑器。项目采用 TypeScript 开发，目前在 GitHub 上获得 19,866 颗星标和 2,611 次复刻。"
+    },
+    {
+      "title": "tokio-rs/topcoat",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/ca4f694c7792a12443ac3596ae46503a1adb120d1e5d925d68af07accc744da4/tokio-rs/topcoat\" referrerpolicy=\"no-referrer\"><br>A batteries-included framework for building web apps<br><br>Language: Rust<br>Stars: 3937<br>Forks: 132",
+      "contentSnippet": "A batteries-included framework for building web apps\nLanguage: Rust\nStars: 3937\nForks: 132",
+      "creator": "tokio-rs",
+      "summaries": {
+        "zh": "Topcoat 是由 tokio-rs 组织开发的 Rust 语言 Web 应用框架，主打“开箱即用”的电池式集成特性。该项目在 GitHub 上获得 3873 颗星标和 129 个复刻，展现出一定社区关注度。",
+        "en": "Tokio-rs/topcoat is an open-source, batteries-included web application framework written in Rust. It aims to provide a comprehensive set of features out of the box. On GitHub, the project has garnered 3,873 stars and 129 forks, reflecting notable community attention."
+      },
+      "summary": "Topcoat 是由 tokio-rs 组织开发的 Rust 语言 Web 应用框架，主打“开箱即用”的电池式集成特性。该项目在 GitHub 上获得 3873 颗星标和 129 个复刻，展现出一定社区关注度。"
+    },
+    {
+      "title": "CoreBunch/Instatic",
+      "link": "https://github.com/CoreBunch/Instatic",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/65f8b2b686aa7075a5e8b039a4b0b5689c4189337a6cb84e2fa736015cfc9a5b/CoreBunch/Instatic\" referrerpolicy=\"no-referrer\"><br>The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. <br><br>Language: TypeScript<br>Stars: 6789<br>Forks: 599",
+      "contentSnippet": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. \nLanguage: TypeScript\nStars: 6789\nForks: 599",
+      "creator": "CoreBunch",
+      "summaries": {
+        "zh": "CoreBunch 推出的 Instatic 是一款开源的自托管可视化内容管理系统，定位为 Webflow、Framer 和 WordPress 的替代品。它采用代理式架构，能输出干净的静态页面，并内置用户管理、角色权限、插件系统、内容与数据库等完整功能。项目使用 TypeScript 开发，目前在 GitHub 上获得 6667 颗星和 587 个复刻。",
+        "en": "CoreBunch/Instatic is an open-source, self-hosted visual content management system positioned as an alternative to Webflow, Framer, and WordPress. It features an agentic approach and generates clean static pages. The platform includes user and role management, plugin support, content handling, and database functionality. Built with TypeScript, the project has gained significant community traction, evidenced by 6,667 stars and 587 forks on its repository."
+      },
+      "summary": "CoreBunch 推出的 Instatic 是一款开源的自托管可视化内容管理系统，定位为 Webflow、Framer 和 WordPress 的替代品。它采用代理式架构，能输出干净的静态页面，并内置用户管理、角色权限、插件系统、内容与数据库等完整功能。项目使用 TypeScript 开发，目前在 GitHub 上获得 6667 颗星和 587 个复刻。"
+    },
+    {
+      "title": "UditAkhourii/adhd",
+      "link": "https://github.com/UditAkhourii/adhd",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1293f7e2057c3e2119bb650d509ac03d5168877eb981c4dfaad0aa8502eef10b/UditAkhourii/adhd\" referrerpolicy=\"no-referrer\"><br>ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.<br><br>Language: TypeScript<br>Stars: 2871<br>Forks: 218",
+      "contentSnippet": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.\nLanguage: TypeScript\nStars: 2871\nForks: 218",
+      "creator": "UditAkhourii",
+      "summaries": {
+        "zh": "一个名为“ADHD”的编码代理技能项目，基于Claude与Codex Agent SDK，采用带剪枝的思维树技术。它在不同认知框架下并行扩展发散思维，进行评分并剪除错误路径，保留最优解。该项目使用TypeScript编写，在GitHub上获得2782星标和214次复刻，定位为创意与跨学科工作的利器。",
+        "en": "ADHD is a TypeScript skill for coding agents that implements tree-of-thought reasoning with pruning. Built on the Claude & Codex Agent SDK, it fans out multiple parallel, divergent thoughts using different cognitive frames, scores them, prunes unproductive paths, and deepens the most promising ones. The repository has 2,782 stars and 214 forks. It is presented as an accessible tool for enhancing creative and interdisciplinary work through structured exploration of ideas."
+      },
+      "summary": "一个名为“ADHD”的编码代理技能项目，基于Claude与Codex Agent SDK，采用带剪枝的思维树技术。它在不同认知框架下并行扩展发散思维，进行评分并剪除错误路径，保留最优解。该项目使用TypeScript编写，在GitHub上获得2782星标和214次复刻，定位为创意与跨学科工作的利器。"
+    },
+    {
+      "title": "virgiliojr94/book-to-skill",
+      "link": "https://github.com/virgiliojr94/book-to-skill",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/1663adb6c1b1ff6a97d6ded413adf027372e8bf187a3a1a09c6ddbe6a2f044d2/virgiliojr94/book-to-skill\" referrerpolicy=\"no-referrer\"><br>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.<br><br>Language: Python<br>Stars: 13686<br>Forks: 1486",
+      "contentSnippet": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.\nLanguage: Python\nStars: 13686\nForks: 1486",
+      "creator": "virgiliojr94",
+      "summaries": {
+        "zh": "一个名为 virgiliojr94/book-to-skill 的开源项目，能自动把任何技术类 PDF 书籍转换成 Claude Code 技能，方便在学习、查阅或工作时直接使用。该项目基于 Python 开发，目前在 GitHub 上已获得 13,434 颗星标和 1,459 次复刻。",
+        "en": "A Python tool converts any technical book PDF into a Claude Code skill, enabling users to study, reference, and apply the material while working. The repository has 13,434 stars and 1,459 forks."
+      },
+      "summary": "一个名为 virgiliojr94/book-to-skill 的开源项目，能自动把任何技术类 PDF 书籍转换成 Claude Code 技能，方便在学习、查阅或工作时直接使用。该项目基于 Python 开发，目前在 GitHub 上已获得 13,434 颗星标和 1,459 次复刻。"
+    },
+    {
+      "title": "Pumpkin-MC/Pumpkin",
+      "link": "https://github.com/Pumpkin-MC/Pumpkin",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/834966974/c4bf220d-a446-4532-8c74-86df9695edd8?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=7ea97861289319acb2990f01f5327576164faf0fb736f077bb316adf95d7b8a8&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>Empowering everyone to host fast and efficient Minecraft servers.<br><br>Language: Rust<br>Stars: 10436<br>Forks: 697",
+      "contentSnippet": "Empowering everyone to host fast and efficient Minecraft servers.\nLanguage: Rust\nStars: 10436\nForks: 697",
+      "creator": "Pumpkin-MC",
+      "summaries": {
+        "zh": "Pumpkin 是一个用 Rust 语言开发的 Minecraft 服务端项目，旨在让任何人都能轻松搭建快速且高效的服务器。该项目在 GitHub 上已获得超过 1 万颗星标和 695 次复刻。",
+        "en": "Pumpkin is an open-source project hosted on GitHub that enables users to host fast and efficient Minecraft servers. Written in Rust, it has gained significant community attention with 10,398 stars and 695 forks."
+      },
+      "summary": "Pumpkin 是一个用 Rust 语言开发的 Minecraft 服务端项目，旨在让任何人都能轻松搭建快速且高效的服务器。该项目在 GitHub 上已获得超过 1 万颗星标和 695 次复刻。"
+    },
+    {
+      "title": "earendil-works/pi",
+      "link": "https://github.com/earendil-works/pi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/20e6e9c556d2d2a259d1767200fa32f67efb9432e336c111b060818d3d41b36f/earendil-works/pi\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI<br><br>Language: TypeScript<br>Stars: 80914<br>Forks: 9988",
+      "contentSnippet": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI\nLanguage: TypeScript\nStars: 80914\nForks: 9988",
+      "creator": "earendil-works",
+      "summaries": {
+        "zh": "earendil-works/pi 是一个用 TypeScript 开发的 AI 代理工具包，提供统一的 LLM API、代理循环、终端用户界面（TUI）及编程代理命令行界面（CLI）。该项目在 GitHub 上获得 80,701 颗星和 9,945 次复刻，是一款关注度较高的工具集。",
+        "en": "`earendil-works/pi` is a TypeScript-based AI agent toolkit. It offers a unified API for interacting with various large language models, an agent loop for orchestrating task execution, a terminal user interface (TUI), and a command-line coding agent. The repository has accumulated 80,701 stars and 9,945 forks."
+      },
+      "summary": "earendil-works/pi 是一个用 TypeScript 开发的 AI 代理工具包，提供统一的 LLM API、代理循环、终端用户界面（TUI）及编程代理命令行界面（CLI）。该项目在 GitHub 上获得 80,701 颗星和 9,945 次复刻，是一款关注度较高的工具集。"
+    },
+    {
+      "title": "opengeos/GeoLibre",
+      "link": "https://github.com/opengeos/GeoLibre",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1251648409/46a57aae-06f5-41e7-9dc4-aee72fc79022?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=625c54cab560014e1394d234f9e7e753cfe068a88180c1e197db50aae2911aaf&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.<br><br>Language: TypeScript<br>Stars: 4494<br>Forks: 457",
+      "contentSnippet": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.\nLanguage: TypeScript\nStars: 4494\nForks: 457",
+      "creator": "opengeos",
+      "summaries": {
+        "zh": "opengeos/GeoLibre 是一个轻量级、云原生的 GIS 平台，用于地理空间数据的可视化、探索与分析。该项目支持在 Web 浏览器、桌面端、移动设备及 Jupyter Notebook 中运行，采用 TypeScript 开发。目前在 GitHub 上已获得 4417 颗星标和 451 次分叉。",
+        "en": "GeoLibre is a lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs on the web, desktop, mobile, and inside Jupyter notebooks. Written in TypeScript, the project has gained 4,417 stars and 451 forks."
+      },
+      "summary": "opengeos/GeoLibre 是一个轻量级、云原生的 GIS 平台，用于地理空间数据的可视化、探索与分析。该项目支持在 Web 浏览器、桌面端、移动设备及 Jupyter Notebook 中运行，采用 TypeScript 开发。目前在 GitHub 上已获得 4417 颗星标和 451 次分叉。"
+    },
+    {
+      "title": "Automattic/harper",
+      "link": "https://github.com/Automattic/harper",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/96187a72b8a097ebfc7d146305c01623897fea5b1e79770506f896f010fefc50/Automattic/harper\" referrerpolicy=\"no-referrer\"><br>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered<br><br>Language: Rust<br>Stars: 13988<br>Forks: 539",
+      "contentSnippet": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered\nLanguage: Rust\nStars: 13988\nForks: 539",
+      "creator": "Automattic",
+      "summaries": {
+        "zh": "Harper 是由 Automattic 推出的离线、隐私",
+        "en": "Harper is an offline, privacy-first grammar checker that processes text locally without sending data to external servers. Written in Rust for speed, the open-source tool is available on GitHub under the Automattic organization and has gained significant community interest, reflected by over 13,900 stars and 500 forks."
+      },
+      "summary": "Harper 是由 Automattic 推出的离线、隐私"
+    },
+    {
+      "title": "moeru-ai/airi",
+      "link": "https://github.com/moeru-ai/airi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/896924279/ab484a48-4af4-4127-af24-c589fd6da072?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260730%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20260730T233730Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=24de19acaaae6891f1bc8b42345f7dad053c1b8b4a803253ef92088045ef4400&amp;X-Amz-SignedHeaders=host&amp;jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTQ1NDk1MCwibmJmIjoxNzg1NDU0NjUwLCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.SSYxvNwgOOr8w9j8U5R9TS-PWBEtL4aSNNUhHTwtgOg\" referrerpolicy=\"no-referrer\"><br>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.<br><br>Language: TypeScript<br>Stars: 45865<br>Forks: 4527",
+      "contentSnippet": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.\nLanguage: TypeScript\nStars: 45865\nForks: 4527",
+      "creator": "moeru-ai",
+      "summaries": {
+        "zh": "moeru-ai/airi 是一个自托管、用户自主的 Grok 伴侣项目，旨在成为装载虚拟角色灵魂的容器，将赛博生命带入现实世界，并立志达到 Neuro-sama 的高度。它支持实时语音聊天，可游玩《我的世界》与《异星工厂》等游戏，兼容 Web、macOS 与 Windows 平台。项目采用 TypeScript 开发，已获 45,721 星标与 4,514 次复刻。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "moeru-ai/airi 是一个自托管、用户自主的 Grok 伴侣项目，旨在成为装载虚拟角色灵魂的容器，将赛博生命带入现实世界，并立志达到 Neuro-sama 的高度。它支持实时语音聊天，可游玩《我的世界》与《异星工厂》等游戏，兼容 Web、macOS 与 Windows 平台。项目采用 TypeScript 开发，已获 45,721 星标与 4,514 次复刻。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:30.243Z"
+}

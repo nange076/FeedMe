@@ -1,0 +1,429 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "pubDate": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-30T10:00:00.000Z",
+      "content": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "contentSnippet": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5.6在性价比方面取得新突破，为Luna与Terra版本提供更低",
+        "en": "OpenAI's GPT-5.6 introduces lower pricing through its Luna and Terra tiers, advancing the price-performance frontier. The more efficient models enable enterprises to deploy AI workflows at scale with reduced costs."
+      },
+      "summary": "GPT-5.6在性价比方面取得新突破，为Luna与Terra版本提供更低"
+    },
+    {
+      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "pubDate": "Wed, 29 Jul 2026 15:00:00 GMT",
+      "isoDate": "2026-07-29T15:00:00.000Z",
+      "content": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "contentSnippet": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "creator": "",
+      "summaries": {
+        "zh": "启用两项API设置后，GPT-5.6在ARC-AGI-3基准测试上的得分提升至原来的三倍。这两项设置分别是“保留推理过程”与“启用压缩”，在保持模型推理能力的同时提高了运行效率，从而显著改善了整体性能。",
+        "en": "Enabling two API settings dramatically improved GPT-5.6’s performance on the ARC-AGI-3 benchmark, tripling its scores. The adjustments involved retaining intermediate reasoning steps and activating a compaction mechanism, which together enhanced both accuracy and efficiency."
+      },
+      "summary": "启用两项API设置后，GPT-5.6在ARC-AGI-3基准测试上的得分提升至原来的三倍。这两项设置分别是“保留推理过程”与“启用压缩”，在保持模型推理能力的同时提高了运行效率，从而显著改善了整体性能。"
+    },
+    {
+      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "pubDate": "Wed, 29 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-29T10:00:00.000Z",
+      "content": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "contentSnippet": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI将向10万名学术研究人员免费提供ChatGPT最先进AI模型的访问权限，旨在推动科学发现、促进协作并加速研究进程。",
+        "en": "OpenAI is granting 100,000 academic researchers free access to its most advanced ChatGPT models. The initiative aims to accelerate scientific research, collaboration, and discovery."
+      },
+      "summary": "OpenAI将向10万名学术研究人员免费提供ChatGPT最先进AI模型的访问权限，旨在推动科学发现、促进协作并加速研究进程。"
+    },
+    {
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "pubDate": "Wed, 29 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-29T00:00:00.000Z",
+      "content": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "contentSnippet": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5.6 通过优化模型、推理以及智能体工作流程，全方位提升人工智能的效率，致力于以更低的单位成本输送更实用的智能，实现前沿能力与高效率的融合。",
+        "en": "GPT-5.6 integrates advanced intelligence with improved efficiency by enhancing performance across model architecture, inference processes, and agentic workflows. This allows it to deliver more practical, cost-effective intelligence per dollar spent."
+      },
+      "summary": "GPT-5.6 通过优化模型、推理以及智能体工作流程，全方位提升人工智能的效率，致力于以更低的单位成本输送更实用的智能，实现前沿能力与高效率的融合。"
+    },
+    {
+      "title": "Scientific computing in the age of agentic AI",
+      "link": "https://openai.com/index/scientific-computing-agentic-ai",
+      "pubDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "isoDate": "2026-07-28T17:00:00.000Z",
+      "content": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "contentSnippet": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "creator": "",
+      "summaries": {
+        "zh": "一份新领域报告显示，科学家正借助AI编码代理来革新科学计算。这些代理能自动化编程任务，大幅加速基因组学及其他科研领域的软件开发和发现进程，使研究人员能更高效地构建和维护关键工具，从而推动科学探索。",
+        "en": "A new field report highlights the growing use of AI coding agents to modernize scientific computing. Scientists are deploying these tools to accelerate software development and speed up discovery, with applications in genomics and other research areas. The report details how agentic AI helps update and optimize computational workflows, enabling faster, more efficient research outcomes."
+      },
+      "summary": "一份新领域报告显示，科学家正借助AI编码代理来革新科学计算。这些代理能自动化编程任务，大幅加速基因组学及其他科研领域的软件开发和发现进程，使研究人员能更高效地构建和维护关键工具，从而推动科学探索。"
+    },
+    {
+      "title": "How AI is expanding what people do at work",
+      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "isoDate": "2026-07-27T03:30:00.000Z",
+      "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "contentSnippet": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI最新研究揭示，人工智能正拓展而非取代人类工作。研究显示，ChatGPT使用者开始承担跨传统岗位的任务，重塑了固有职业界限。该工具使用户能涉足更广泛的工作领域，这表明AI正促使员工角色向多任务、跨职能方向演变，重新定义了工作边界。",
+        "en": "OpenAI's new research indicates that AI tools like ChatGPT are broadening workers' activities by enabling them to take on tasks spanning multiple roles. This blurs traditional job boundaries and redefines what people can do at work, as users increasingly apply the technology to areas beyond their usual responsibilities."
+      },
+      "summary": "OpenAI最新研究揭示，人工智能正拓展而非取代人类工作。研究显示，ChatGPT使用者开始承担跨传统岗位的任务，重塑了固有职业界限。该工具使用户能涉足更广泛的工作领域，这表明AI正促使员工角色向多任务、跨职能方向演变，重新定义了工作边界。"
+    },
+    {
+      "title": "Launching Health in ChatGPT ",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "pubDate": "Thu, 23 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-23T00:00:00.000Z",
+      "content": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "contentSnippet": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT 推出“健康”功能，面向符合条件的美国用户。该功能允许安全连接医疗记录和 Apple Health 数据，从而提供更个性化的健康洞察，帮助用户更好地了解自身健康状况。",
+        "en": "ChatGPT is introducing a Health feature for eligible users in the United States. This capability allows individuals to securely connect their medical records and Apple Health data. The integration aims to deliver more personalized insights and help users better understand their health directly within ChatGPT."
+      },
+      "summary": "ChatGPT 推出“健康”功能，面向符合条件的美国用户。该功能允许安全连接医疗记录和 Apple Health 数据，从而提供更个性化的健康洞察，帮助用户更好地了解自身健康状况。"
+    },
+    {
+      "title": "Building AI infrastructure with the Effingham County community",
+      "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "isoDate": "2026-07-22T13:00:00.000Z",
+      "content": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "contentSnippet": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "OpenAI has announced Project Camellia, an AI infrastructure initiative in Effingham County, Georgia. The project includes commitments to responsible energy use, community investment, local job creation, and providing access to the company’s Codex platform."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "How news organizations are using AI to advance their vital missions",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "isoDate": "2026-07-22T13:00:00.000Z",
+      "content": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "contentSnippet": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "creator": "",
+      "summaries": {
+        "zh": "新闻机构正借助人工智能强化新闻报道、扩大受众规模并优化业务运营。OpenAI提供的工具正在为全球记者与出版商提供支持，助力其推进核心使命。",
+        "en": "News organizations are deploying AI to enhance their journalism, expand audience reach, and optimize business operations. OpenAI tools are being used to support journalists and publishers globally in these efforts."
+      },
+      "summary": "新闻机构正借助人工智能强化新闻报道、扩大受众规模并优化业务运营。OpenAI提供的工具正在为全球记者与出版商提供支持，助力其推进核心使命。"
+    },
+    {
+      "title": "Advancing the next era of national science",
+      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
+      "pubDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "isoDate": "2026-07-22T12:00:00.000Z",
+      "content": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "contentSnippet": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 宣布将与美国能源部及其下属国家实验室合作，致力于推动美国科学进入新时代。公司将运用前沿人工智能技术，加速科学发现进程，以此强化其对美国科技发展的承诺。",
+        "en": "OpenAI has announced a commitment to advancing American science through a collaboration with the U.S. Department of Energy and national laboratories. The initiative aims to use frontier artificial intelligence to accelerate scientific discovery."
+      },
+      "summary": "OpenAI 宣布将与美国能源部及其下属国家实验室合作，致力于推动美国科学进入新时代。公司将运用前沿人工智能技术，加速科学发现进程，以此强化其对美国科技发展的承诺。"
+    },
+    {
+      "title": "Introducing OpenAI Presence",
+      "link": "https://openai.com/index/introducing-openai-presence",
+      "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
+      "isoDate": "2026-07-22T05:30:00.000Z",
+      "content": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "contentSnippet": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI推出Presence平台，这是一款经过验证的企业级AI代理解决方案。该平台支持组织部署可信赖的语音与聊天代理，适用于客户服务及内部工作流程。",
+        "en": "OpenAI has introduced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for both customer-facing and internal workflows."
+      },
+      "summary": "OpenAI推出Presence平台，这是一款经过验证的企业级AI代理解决方案。该平台支持组织部署可信赖的语音与聊天代理，适用于客户服务及内部工作流程。"
+    },
+    {
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "link": "https://openai.com/index/ntt-data",
+      "pubDate": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-22T00:00:00.000Z",
+      "content": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "contentSnippet": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "NTT DATA Group has deployed ChatGPT Enterprise and Codex to support 9,000 employees in automating work. The initiative has reduced incident analysis time to just 30 minutes and is enabling the company to scale secure AI adoption across its operations."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "isoDate": "2026-07-21T17:00:00.000Z",
+      "content": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "contentSnippet": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 推出面向小型企业的 ChatGPT 计划，旨在帮助创业者掌握 AI 技能，利用 ChatGPT Work 实现工作流程自动化，推动业务增长。",
+        "en": "OpenAI has introduced the ChatGPT for Small Businesses program. This initiative aims to help entrepreneurs develop AI skills, automate tasks, and expand their operations using ChatGPT Work."
+      },
+      "summary": "OpenAI 推出面向小型企业的 ChatGPT 计划，旨在帮助创业者掌握 AI 技能，利用 ChatGPT Work 实现工作流程自动化，推动业务增长。"
+    },
+    {
+      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+      "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+      "isoDate": "2026-07-21T07:00:00.000Z",
+      "content": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "contentSnippet": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI与Hugging Face在AI模型评估过程中联合处理一起安全事件，并公布初步调查结果。双方分享了该事件暴露出的高级网络攻击能力，强调了攻击者可能利用先进手段渗透系统。此次合作旨在为安全防御方提供经验教训，帮助应对不断演变的威胁。",
+        "en": "OpenAI and Hugging Face jointly disclosed early findings from a security incident that took place during an AI model evaluation. The investigation uncovered advanced cyber capabilities used in the attack and yielded defensive lessons for the wider community. The collaboration aims to strengthen security practices around model testing by sharing insights from the incident."
+      },
+      "summary": "OpenAI与Hugging Face在AI模型评估过程中联合处理一起安全事件，并公布初步调查结果。双方分享了该事件暴露出的高级网络攻击能力，强调了攻击者可能利用先进手段渗透系统。此次合作旨在为安全防御方提供经验教训，帮助应对不断演变的威胁。"
+    },
+    {
+      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-21T00:00:00.000Z",
+      "content": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "contentSnippet": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "David Vélez and Robin Vince have been appointed to the boards of the OpenAI Foundation and OpenAI Group PBC. Their addition brings extensive global leadership experience in finance, technology, and governance to the organizations."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "pubDate": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-20T10:00:00.000Z",
+      "content": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "contentSnippet": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 分享了部署长时间运行 AI 模型的经验教训。随着模型运行周期延长，出现了新的安全风险与实际故障案例。通过迭代部署，OpenAI 不断识别问题并强化防护措施，以提升模型的安全性与对齐水平。",
+        "en": "OpenAI reports on the safety challenges of deploying long-horizon AI models, where agents operate over extended tasks. Iterative deployment revealed new risks and failure modes, including compounding errors and misaligned sub-goals. By observing these failures in real-world use, the organization developed improved safeguards, refining both model behavior and monitoring systems. The key lesson is that gradual, staged rollouts allow for identifying and mitigating emerging alignment issues, enhancing overall safety."
+      },
+      "summary": "OpenAI 分享了部署长时间运行 AI 模型的经验教训。随着模型运行周期延长，出现了新的安全风险与实际故障案例。通过迭代部署，OpenAI 不断识别问题并强化防护措施，以提升模型的安全性与对齐水平。"
+    },
+    {
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "pubDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-17T10:00:00.000Z",
+      "content": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute. ",
+      "contentSnippet": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "OpenAI CFO Sarah Friar proposes an AI scorecard to help organizations measure return on investment. The framework evaluates AI performance through four key metrics: useful work accomplished, cost per successful task, system dependability, and overall return on compute. This practical tool aims to move beyond generic AI adoption and toward quantifiable business outcomes."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "isoDate": "2026-07-16T16:00:00.000Z",
+      "content": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "contentSnippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 正通过多项措施让 ChatGPT 对青少年更安全。文章介绍了其推出适龄保护机制、内置学习工具和家长控制功能，并与专家开展合作。这些举措旨在为青少年创造更安全的AI使用环境，在保障安全的同时，支持他们利用AI进行探索和学习。",
+        "en": "OpenAI is making ChatGPT safer for teenage users by implementing age-appropriate protections, learning tools, parental controls, and partnerships with experts. These measures aim to balance teens' access to AI tools with necessary safeguards, ensuring the experience is both educational and secure."
+      },
+      "summary": "OpenAI 正通过多项措施让 ChatGPT 对青少年更安全。文章介绍了其推出适龄保护机制、内置学习工具和家长控制功能，并与专家开展合作。这些举措旨在为青少年创造更安全的AI使用环境，在保障安全的同时，支持他们利用AI进行探索和学习。"
+    },
+    {
+      "title": "How Codex became a collaborator for OpenAI’s creative team",
+      "link": "https://openai.com/index/codex-collaborator-creative-team",
+      "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "isoDate": "2026-07-16T07:00:00.000Z",
+      "content": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "contentSnippet": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI 创意团队将 Codex 视为创作协作者，用它构建定制化的创意工具，以加速构思过程。借助 Codex 的语境感知能力，团队能够快速将想法转化为可交互的原型，显著提升从概念到实现的效率，优化了创意工作流程。",
+        "en": "Unable to generate summary."
+      },
+      "summary": "OpenAI 创意团队将 Codex 视为创作协作者，用它构建定制化的创意工具，以加速构思过程。借助 Codex 的语境感知能力，团队能够快速将想法转化为可交互的原型，显著提升从概念到实现的效率，优化了创意工作流程。"
+    },
+    {
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "link": "https://openai.com/index/cars24",
+      "pubDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-16T00:00:00.000Z",
+      "content": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "contentSnippet": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "Cars24 has integrated OpenAI-powered voice and chat agents to manage over one million minutes of customer conversations each month. The system recovers 12% of previously lost leads by automating interactions. Beyond customer support, the company is extending agentic workflows to teams across the organization, enabling them to build and scale operations more rapidly."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "isoDate": "2026-07-15T12:00:00.000Z",
+      "content": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "contentSnippet": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "OpenAI提出“反向联邦制”的AI治理思路，主张以州级立法为基础，逐步汇聚成全国性框架，推动建立安全、民主的人工智能。该模式强调州与联邦协同行动，通过各地法律实践，共同完善AI监管体系，确保技术发展符合公众利益。",
+        "en": "OpenAI proposes a “reverse federalism” strategy for AI governance in the United States, where state-level laws are used to help build a cohesive national framework for safe and democratic artificial intelligence. By allowing states to lead with tailored policies, the approach aims to inform and shape federal coordination without stifling innovation. This model envisions state action feeding into a broader, unified system that prioritizes AI safety and democratic values."
+      },
+      "summary": "OpenAI提出“反向联邦制”的AI治理思路，主张以州级立法为基础，逐步汇聚成全国性框架，推动建立安全、民主的人工智能。该模式强调州与联邦协同行动，通过各地法律实践，共同完善AI监管体系，确保技术发展符合公众利益。"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-15T10:00:00.000Z",
+      "content": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "contentSnippet": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-Red 是 OpenAI 推出的自动化红队测试系统，它通过自我对弈的方式，持续提升人工智能模型的安全性、对齐能力以及抵御提示注入攻击的鲁棒性。",
+        "en": "GPT-Red is an automated red teaming system developed by OpenAI that uses self-play to enhance AI safety, alignment, and resistance to prompt injection attacks. It generates adversarial inputs to probe model weaknesses, enabling continuous self-improvement and greater robustness without manual oversight."
+      },
+      "summary": "GPT-Red 是 OpenAI 推出的自动化红队测试系统，它通过自我对弈的方式，持续提升人工智能模型的安全性、对齐能力以及抵御提示注入攻击的鲁棒性。"
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "pubDate": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-14T10:00:00.000Z",
+      "content": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "contentSnippet": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "creator": "",
+      "summaries": {
+        "zh": "在智能体（Agentic）时代，企业管理AI投资需聚焦三方面：衡量每美元产出的有效工作量，以此评估回报；持续提升运营效率，降低不必要开支；识别并规模化高价值的工作流程，集中资源创造最大效益。通过这些方法，可在动态技术环境中优化AI投入的实际价值。",
+        "en": "The article advises enterprises to manage AI investments in the agentic era by focusing on three key strategies. First, measure the useful work delivered per dollar spent to ensure tangible returns. Second, continually improve operational efficiency to reduce waste and boost performance. Third, identify and scale high-value workflows where AI agents can drive substantial business impact. This approach moves beyond simple adoption metrics, emphasizing value creation and practical return on investment as organizations integrate autonomous agents into their operations."
+      },
+      "summary": "在智能体（Agentic）时代，企业管理AI投资需聚焦三方面：衡量每美元产出的有效工作量，以此评估回报；持续提升运营效率，降低不必要开支；识别并规模化高价值的工作流程，集中资源创造最大效益。通过这些方法，可在动态技术环境中优化AI投入的实际价值。"
+    },
+    {
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "contentSnippet": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+      "creator": "",
+      "summaries": {
+        "zh": "销售团队利用ChatGPT Work，基于真实工作输入，可高效生成销售管道简报、会议准备资料包、预测评估、客户计划及停滞交易诊断等关键文档，以提升工作流程效率。",
+        "en": "Sales teams can leverage ChatGPT Work to generate essential sales documents using real work inputs. The tool assists in creating pipeline briefs, meeting preparation packets, forecast reviews, account plans, and stalled-deal diagnoses. This helps streamline routine tasks and provides quick analysis, enabling teams to focus more on selling activities."
+      },
+      "summary": "销售团队利用ChatGPT Work，基于真实工作输入，可高效生成销售管道简报、会议准备资料包、预测评估、客户计划及停滞交易诊断等关键文档，以提升工作流程效率。"
+    },
+    {
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-14T00:00:00.000Z",
+      "content": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "contentSnippet": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+      "creator": "",
+      "summaries": {
+        "zh": "数据科学团队可借助 ChatGPT Work，结合实际工作输入，高效生成根因简报、影响说明、KPI 备忘录、范围界定分析及仪表板规格等文档。该工具能帮助团队快速整理和输出分析结果，提升沟通与交付效率。",
+        "en": "Data science teams can leverage ChatGPT Work to generate several key outputs directly from real work inputs. These include root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specifications. The content outlines this capability without providing further detail."
+      },
+      "summary": "数据科学团队可借助 ChatGPT Work，结合实际工作输入，高效生成根因简报、影响说明、KPI 备忘录、范围界定分析及仪表板规格等文档。该工具能帮助团队快速整理和输出分析结果，提升沟通与交付效率。"
+    },
+    {
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "link": "https://openai.com/index/deutsche-telekom",
+      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "isoDate": "2026-07-10T07:00:00.000Z",
+      "content": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "contentSnippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+      "creator": "",
+      "summaries": {
+        "zh": "德国电信正与OpenAI合作，向AI原生电信公司转型。其重点是利用AI重构客户服务、员工工作流程、网络运营以及语音通信的未来，推动电信业务的全面智能化。",
+        "en": "Deutsche Telekom is partnering with OpenAI to become an AI-native telecommunications company. The initiative aims to transform customer service, employee workflows, network operations, and the future of voice technology by integrating artificial intelligence across the organization."
+      },
+      "summary": "德国电信正与OpenAI合作，向AI原生电信公司转型。其重点是利用AI重构客户服务、员工工作流程、网络运营以及语音通信的未来，推动电信业务的全面智能化。"
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "pubDate": "Fri, 10 Jul 2026 00:00:00 GMT",
+      "isoDate": "2026-07-10T00:00:00.000Z",
+      "content": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "contentSnippet": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "creator": "",
+      "summaries": {
+        "zh": "无法生成摘要。",
+        "en": "This article offers a beginner's guide to ChatGPT, explaining how to initiate a first conversation with the AI. It highlights simple, practical applications, such as assisting with writing tasks, generating ideas through brainstorming, and tackling everyday problem-solving. The content focuses on fundamental ways to integrate the tool into basic workflows."
+      },
+      "summary": "无法生成摘要。"
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "isoDate": "2026-07-09T13:00:00.000Z",
+      "content": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "contentSnippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+      "creator": "",
+      "summaries": {
+        "zh": "GPT-5.6已成为微软365 Copilot的首选模型，在Word、Excel、PowerPoint、Chat及Cowork中提供更强的AI能力。该模型能提升工作效率与内容质量，为用户带来更快、更优的智能辅助体验。",
+        "en": "Microsoft has designated GPT-5.6 as the preferred model for its Microsoft 365 Copilot. The update brings stronger AI capabilities to applications including Word, Excel, PowerPoint, Chat, and Cowork. The enhancement is designed to deliver faster and higher-quality work for users."
+      },
+      "summary": "GPT-5.6已成为微软365 Copilot的首选模型，在Word、Excel、PowerPoint、Chat及Cowork中提供更强的AI能力。该模型能提升工作效率与内容质量，为用户带来更快、更优的智能辅助体验。"
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-09T10:00:00.000Z",
+      "content": "Details about the OpenAI Bio Bounty program",
+      "contentSnippet": "Details about the OpenAI Bio Bounty program",
+      "creator": "",
+      "summaries": {
+        "zh": "文章标题为《GPT-5.5 生物漏洞悬赏》，正文仅说明内容涉及OpenAI生物悬赏项目的详情，未提供任何具体细节或进一步信息。",
+        "en": "The provided content is a single line announcing details on OpenAI's Bio Bounty program, linked to \"GPT-5.5.\" It states only that the article covers information about this specific bug bounty initiative. No further specifics, such as scope, rewards, or submission guidelines, are included in the given text."
+      },
+      "summary": "文章标题为《GPT-5.5 生物漏洞悬赏》，正文仅说明内容涉及OpenAI生物悬赏项目的详情，未提供任何具体细节或进一步信息。"
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "isoDate": "2026-07-09T10:00:00.000Z",
+      "content": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "contentSnippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "creator": "",
+      "summaries": {
+        "zh": "ChatGPT 推出 Work 功能，作为一种智能代理，它能跨应用和文件执行操作，可长时间跟进项目，自主将用户目标转化为完整成果，成为实现远大志向的工作伙伴。",
+        "en": "OpenAI introduces ChatGPT Work, an autonomous agent designed to handle complex, long-term projects. It can take action across your apps and files, persistently work on a task for hours, and transform a broad goal into finished output. The tool is positioned as a collaborative partner for your most ambitious work."
+      },
+      "summary": "ChatGPT 推出 Work 功能，作为一种智能代理，它能跨应用和文件执行操作，可长时间跟进项目，自主将用户目标转化为完整成果，成为实现远大志向的工作伙伴。"
+    }
+  ],
+  "lastUpdated": "2026-07-30T23:37:07.888Z"
+}
